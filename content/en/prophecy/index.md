@@ -18,26 +18,37 @@ The war started on February 28, 2026. The texts cited below were written between
 ## The Master Timeline
 
 <div class="mermaid">
-timeline
-    title Ancient Prophecy → 2026 Events
-    section Old Testament (~600 BCE)
-        Isaiah 17    : Damascus destruction prophecy — still unfulfilled
-        Daniel 2     : Statue of kingdoms — feet of iron and clay (EU?)
-        Daniel 8     : Ram vs Goat — Persia vs the West
-        Daniel 11    : Kings of North and South — endless war cycle
-        Ezekiel 38   : Gog-Magog coalition — Russia + Iran + Turkey vs Israel
-        Jeremiah 49  : Bow of Elam broken — Iran's missile arsenal
-        Joel 2       : Northern army like a locust swarm
-    section New Testament (96 CE)
-        Revelation 16 : Euphrates dried up — kings of the east mobilize
-        Revelation 17 : Whore of Babylon — Rome reloaded as EU?
-    section Modern Seers (1555–1996)
-        Nostradamus 1555 : Persian wars, swarm of bees, seven-month war
-        Edgar Cayce 1932 : Out of Russia will come hope of the world
-        Dumitru Duduman 1984 : America burns after Middle East distraction
-        Henry Gruver 1986 : Russian naval strike on America's coasts
-    section The War (2026)
-        Feb 28 : Day 1 — USA & Israel strike Iran (Dan 8 opens)
+graph LR
+    A["📜 Old Testament
+~600 BCE"] --> B["Isaiah 17
+Damascus falls"]
+    A --> C["Daniel 8
+Ram vs Goat"]
+    A --> D["Daniel 2
+Feet of clay = EU?"]
+    A --> E["Ezekiel 38
+Gog-Magog coalition"]
+    F["✝️ New Testament
+96 CE"] --> G["Rev 16
+Euphrates dries up"]
+    F --> H["Rev 17
+Whore of Babylon"]
+    I["🔮 Modern Seers
+1555-1996"] --> J["Nostradamus
+Persian wars"]
+    I --> K["Duduman 1984
+America burns"]
+    I --> L["Gruver 1986
+Russian naval strike"]
+    M["⚔️ 2026"] --> N["Feb 28
+USA & Israel strike Iran"]
+    M --> O["Mar 6
+Iran rejects talks"]
+    C --> N
+    E --> N
+    style M fill:#8B0000,color:#fff
+    style N fill:#8B0000,color:#fff
+    style O fill:#8B0000,color:#fff
         Mar 1  : Day 2 — Iran fires ballistic missiles (Jer 49 — bow of Elam)
         Mar 2  : Day 3 — US bases in Azerbaijan and Qatar hit
         Mar 3  : Day 4 — Beirut bombed; Damascus clock ticking (Isa 17)
