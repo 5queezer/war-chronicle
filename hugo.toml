@@ -9,6 +9,10 @@ defaultContentLanguage = "en"
   home = ["HTML", "RSS", "JSON"]
 
 [markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
@@ -46,11 +50,6 @@ defaultContentLanguage = "en"
     [languages.en.params.logo]
       logoText = "WAR-CHRONICLE"
       logoHomeLink = "/en/"
-    [[languages.en.menu.main]]
-      identifier = "search"
-      name = "Search"
-      url = "/en/search/"
-
   [languages.de]
     languageName = "DE"
     weight = 2
@@ -71,11 +70,6 @@ defaultContentLanguage = "en"
     [languages.de.params.logo]
       logoText = "KRIEGSCHRONIK"
       logoHomeLink = "/de/"
-    [[languages.de.menu.main]]
-      identifier = "search"
-      name = "Suche"
-      url = "/de/search/"
-
   [languages.es]
     languageName = "ES"
     weight = 3
@@ -96,11 +90,6 @@ defaultContentLanguage = "en"
     [languages.es.params.logo]
       logoText = "CRÓNICA DE GUERRA"
       logoHomeLink = "/es/"
-    [[languages.es.menu.main]]
-      identifier = "search"
-      name = "Búsqueda"
-      url = "/es/search/"
-
   [languages.ru]
     languageName = "RU"
     weight = 4
@@ -121,7 +110,4 @@ defaultContentLanguage = "en"
     [languages.ru.params.logo]
       logoText = "ВОЕННАЯ ХРОНИКА"
       logoHomeLink = "/ru/"
-    [[languages.ru.menu.main]]
-      identifier = "search"
-      name = "Поиск"
-      url = "/ru/search/"
+
