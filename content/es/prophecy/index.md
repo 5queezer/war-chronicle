@@ -2,13 +2,10 @@
 title: "Profecías & La Guerra de 2026"
 date: 2026-03-06
 draft: false
-tags: ["profecía", "Daniel", "Ezequiel", "Apocalipsis", "Nostradamus", "Irán", "UE"]
-description: "Antiguas profecías de la Biblia, el Islam y Nostradamus comparadas con el conflicto Irán-EEUU-Israel-UE de 2026."
-toc: true
+tags: ["prophecy"]
+description: "See the English version for the full analysis."
 ---
 
-*Esta página está disponible en inglés: [Prophecy & The War of 2026](/en/prophecy/)*
+<script>window.location.href='/en/prophecy/';</script>
 
-{{< rawhtml >}}
-<meta http-equiv="refresh" content="0; url=/en/prophecy/">
-{{< /rawhtml >}}
+*[→ Read in English](/en/prophecy/)*

@@ -1,14 +1,11 @@
 ---
-title: "Пророчества и война 2026 года"
+title: "Пророчества и война 2026"
 date: 2026-03-06
 draft: false
-tags: ["пророчество", "Даниил", "Иезекиил", "Откровение", "Нострадамус", "Иран", "ЕС"]
-description: "Древние пророчества из Библии, Ислама и Нострадамуса в сравнении с конфликтом Иран-США-Израиль-ЕС 2026 года."
-toc: true
+tags: ["prophecy"]
+description: "See the English version for the full analysis."
 ---
 
-*Эта страница доступна на английском: [Prophecy & The War of 2026](/en/prophecy/)*
+<script>window.location.href='/en/prophecy/';</script>
 
-{{< rawhtml >}}
-<meta http-equiv="refresh" content="0; url=/en/prophecy/">
-{{< /rawhtml >}}
+*[→ Read in English](/en/prophecy/)*
