@@ -1,0 +1,20 @@
+# Markdownlint config for war-chronicle Hugo blog
+# Philosophy: catch broken structure, not stylistic preferences.
+
+default: true
+
+# Disabled — stylistic / causes noise on existing blog content
+MD013: false   # line-length (long lines are fine in prose)
+MD033: false   # inline HTML (Hugo shortcodes use it)
+MD028: false   # blank line inside blockquote (used intentionally in prophecy content)
+MD034: false   # bare URLs (common in README / prose)
+MD036: false   # emphasis as heading (Hugo content uses **bold** as section markers)
+
+# Disabled — heading spacing is strict and conflicts with Hugo front-matter style
+MD022: false   # headings should be surrounded by blank lines
+MD032: false   # lists should be surrounded by blank lines
+
+# Disabled — fenced code blocks: language tag + blank lines
+# These fire in AI-generated translation posts; not worth blocking commits over
+MD031: false   # blanks around fences
+MD040: false   # fenced code language required
