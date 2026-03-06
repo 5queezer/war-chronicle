@@ -5,3 +5,73 @@ document.querySelectorAll('.menu__trigger').forEach(function(trigger) {
   });
 });
 </script>
+<script>
+(function () {
+  // Create the overlay once
+  var overlay = document.createElement('div');
+  overlay.className = 'mermaid-overlay';
+  document.body.appendChild(overlay);
+
+  overlay.addEventListener('click', function () {
+    overlay.classList.remove('active');
+    overlay.innerHTML = '';
+  });
+
+  // Close on Escape key
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      overlay.classList.remove('active');
+      overlay.innerHTML = '';
+    }
+  });
+
+  function wrapMermaidSvg(svg) {
+    if (svg.closest('.mermaid-wrapper')) return; // already wrapped
+    var wrapper = document.createElement('div');
+    wrapper.className = 'mermaid-wrapper';
+    wrapper.title = 'Click to zoom';
+    svg.parentNode.insertBefore(wrapper, svg);
+    wrapper.appendChild(svg);
+
+    wrapper.addEventListener('click', function () {
+      var clone = svg.cloneNode(true);
+      // Remove fixed dimensions so the clone fills the overlay naturally
+      clone.removeAttribute('width');
+      clone.removeAttribute('height');
+      clone.style.width = '';
+      clone.style.height = '';
+      overlay.innerHTML = '';
+      overlay.appendChild(clone);
+      overlay.classList.add('active');
+    });
+  }
+
+  // Mermaid renders async; use MutationObserver to catch SVGs as they appear
+  function observeMermaid() {
+    // Wrap any already-rendered SVGs first
+    document.querySelectorAll('.mermaid svg').forEach(wrapMermaidSvg);
+
+    // Then watch for new ones (Mermaid replaces .mermaid content with <svg>)
+    var observer = new MutationObserver(function (mutations) {
+      mutations.forEach(function (mutation) {
+        mutation.addedNodes.forEach(function (node) {
+          if (node.nodeType !== 1) return;
+          if (node.tagName === 'svg' && node.closest && node.closest('.mermaid')) {
+            wrapMermaidSvg(node);
+          }
+          // Also check descendants
+          node.querySelectorAll && node.querySelectorAll('.mermaid svg').forEach(wrapMermaidSvg);
+        });
+      });
+    });
+
+    observer.observe(document.body, { childList: true, subtree: true });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', observeMermaid);
+  } else {
+    observeMermaid();
+  }
+})();
+</script>

@@ -22,3 +22,45 @@
     });
   });
 </script>
+<style>
+/* Mermaid zoom lightbox */
+.mermaid-wrapper {
+  cursor: zoom-in;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.mermaid-wrapper svg {
+  max-width: 100%;
+  border: 1px solid rgba(0, 255, 0, 0.15);
+  border-radius: 8px;
+  transition: box-shadow 0.2s;
+}
+
+.mermaid-wrapper:hover svg {
+  box-shadow: 0 0 12px rgba(0, 255, 0, 0.2);
+}
+
+.mermaid-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.92);
+  z-index: 9999;
+  cursor: zoom-out;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.mermaid-overlay.active {
+  display: flex;
+}
+
+.mermaid-overlay svg {
+  max-width: 95vw;
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+}
+</style>
