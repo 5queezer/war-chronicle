@@ -50,3 +50,5 @@ Der Krieg hat nun die See erreicht. Die Versenkung eines Kriegsschiffes ist ein 
 *Titelbild: Ein US-Kriegsschiff patrouilliert neben einem kleineren Fahrzeug im Persischen Golf während des Tankerkriegs (1987-1988) — das letzte Mal vor diesem Krieg, dass die US-Marine iranische Seestreitkräfte direkt bekämpfte.*
 
 *Quelle: U.S. Navy / Nationalarchiv (NARA), über Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Operation_Earnest_Will. US-Regierung / Gemeinfrei*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*

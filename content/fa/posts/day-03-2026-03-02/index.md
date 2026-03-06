@@ -44,3 +44,9 @@ toc: true
 ## یادداشت نبوی
 
 *وقتی پارس از بیرون ضربه می‌خورد و از درون به لرزه در می‌آید به‌طور همزمان — این الگویی است که در دانیال ۸ توصیف شده است.*
+
+---
+
+*Cover image: Iranian Shahed-136 loitering munitions (suicide drones) on wooden launch rails, displayed at the 44th Islamic Revolution anniversary rally in Tehran, February 2023 — the drone type Iran deployed in mass attacks on U.S. military bases.*
+
+*Source: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*

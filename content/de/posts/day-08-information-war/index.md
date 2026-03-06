@@ -85,3 +85,5 @@ Der Informationskrieg von Tag 8 ist nicht die Ursache dessen, was als nächstes 
 *Titelbild: Pressesprecher des Pentagon, Konteradmiral John Kirby, beim täglichen Pressebriefing im Pentagon, 4. November 2014 — dasselbe Briefing-Format, mit dem US-Sprecher Angriffszahlen, Opferschätzungen und operative Updates bekannt geben.*
 
 *Quelle: Master Sgt. Adrian Cadiz / US-Verteidigungsministerium, DVIDS Foto-ID 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. US-Regierung / Gemeinfrei*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*

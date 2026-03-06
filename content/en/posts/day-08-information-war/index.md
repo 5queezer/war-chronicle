@@ -85,3 +85,5 @@ Day 8's information war is not the cause of what happens next. It is a symptom o
 *Cover image: Pentagon Press Secretary Rear Adm. John Kirby conducts a press briefing at the Pentagon, November 4, 2014 — the same daily briefing format U.S. officials use to announce strike totals, casualty estimates, and operational updates during wartime.*
 
 *Source: Master Sgt. Adrian Cadiz / U.S. DoD, DVIDS photo ID 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. U.S. Government / Public Domain*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*

@@ -69,3 +69,9 @@ toc: true
 هر توالی نبوی بزرگ در سنت کتاب مقدس با یک رویداد خاص و قابل‌تاریخ‌گذاری آغاز می‌شود که دوره‌ای از ثبات نسبی را می‌شکند. مهر اول باز می‌شود. پیاله اول ریخته می‌شود. اولین شیپور به صدا در می‌آید. روز اول — ۲۸ فوریه ۲۰۲۶ — از این نوع رویداد است. نه به این دلیل که لزوماً ماورائی است، بلکه به این دلیل که برگشت‌ناپذیر است. جنگ آغاز شده است. قوچ ضربه خورده است. توالی بعدی تصادفی نیست.
 
 *بز تاخته است. پاهای قوچ هنوز بر پاست. منتظر لحظه‌ای باشید که خم می‌شوند.*
+
+---
+
+*Cover image: Annotated map of Iranian ballistic missile strikes on Israel's Military Intelligence School (Camp Moshe Dayan) and Camp Glilot near Herzliya during Operation True Promise III, June 2025.*
+
+*Source: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Iranian_Airstrikes_on_the_Israeli_Military_Intelligence_School_during_Operation_True_Promise_III.png. CC BY-SA 2.0*

@@ -85,3 +85,5 @@ La guerra de la información del Día 8 no es la causa de lo que sucede después
 *Imagen de portada: El secretario de prensa del Pentágono, contralmirante John Kirby, ofrece una rueda de prensa en el Pentágono el 4 de noviembre de 2014 — el mismo formato de conferencia de prensa diaria que los portavoces estadounidenses usan para anunciar totales de ataques, estimaciones de bajas y actualizaciones operativas.*
 
 *Fuente: Master Sgt. Adrian Cadiz / Departamento de Defensa de EE. UU., ID de foto DVIDS 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. Gobierno de EE. UU. / Dominio público*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*

@@ -51,3 +51,5 @@ Irán está agotando su inventario de misiles a un ritmo elevado, pero no se ha 
 *Imagen de portada: El USS Santa Barbara (LCS-32), un buque de combate litoral de la clase Independence, lanza un dron LUCAS desde su cubierta de vuelo al transitar por el Golfo Arábigo, 16 de diciembre de 2025 — uno de los buques de la Marina de EE. UU. que opera en el teatro.*
 
 *Fuente: U.S. Navy / DoD, ID de foto 251216-N-NO146-1025, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:U_S_Navy_in_Middle_East_Employs_Attack_Drone_at_Sea_for_First_Time_(9450745).jpg. Gobierno de EE. UU. / Dominio público*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*

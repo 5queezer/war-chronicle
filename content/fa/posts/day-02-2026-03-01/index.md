@@ -45,3 +45,9 @@ toc: true
 ## یادداشت نبوی
 
 *«کمان ایلام شکسته» (ارمیا ۴۹) — کمپین موشکی ایران با دفاع فعال مواجه می‌شود؛ کمان ممکن است در حال خم شدن باشد.*
+
+---
+
+*Cover image: Iranian air defense missiles light up the night sky over Tehran as Israeli strikes begin during the Iran-Israel war, June 2025.*
+
+*Source: Seyed Mostafa Tehrani / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Air_Defense_Activity_Against_Hostile_Targets_in_the_Skies_of_Tehran_1_Tasnim.jpg. CC BY 4.0*

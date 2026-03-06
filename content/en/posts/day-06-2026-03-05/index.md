@@ -50,3 +50,5 @@ The war just went naval. Sinking a warship is a qualitative leap — it signals 
 *Cover image: A U.S. Navy warship patrols alongside a smaller vessel in the Persian Gulf during the Tanker War (1987-1988) — the last time before this war that the U.S. Navy directly engaged Iranian naval forces in open combat.*
 
 *Source: U.S. Navy / National Archives (NARA), via Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Operation_Earnest_Will. U.S. Government / Public Domain*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*

@@ -46,3 +46,9 @@ toc: true
 ## یادداشت نبوی
 
 *اشعیا ۱۷ بر فراز هر کمپین هوایی اسرائیل به سمت شمال آویزان است — دمشق هنوز سقوط نکرده، اما بیروت می‌سوزد.*
+
+---
+
+*Cover image: Pro-Palestinian demonstrators at a nighttime rally in Greece, carrying banners reading "Freedom to Palestine" in Greek — one of the global solidarity protests triggered by the war's rising civilian toll.*
+
+*Source: Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Pro-Palestinian_demonstrations. CC BY-SA 4.0*

@@ -51,3 +51,5 @@ Der Iran verbraucht seine Raketenvorräte in hohem Tempo, hat aber nicht aufgeh�
 *Titelbild: USS Santa Barbara (LCS-32), ein Küstenkampfschiff der Independence-Klasse, startet eine LUCAS-Drohne (Low-cost Unmanned Combat Attack System) vom Flugdeck beim Transit durch den Arabischen Golf, 16. Dezember 2025 — eines der US-Marine-Schiffe im Operationsgebiet.*
 
 *Quelle: U.S. Navy / DoD, Foto-ID 251216-N-NO146-1025, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:U_S_Navy_in_Middle_East_Employs_Attack_Drone_at_Sea_for_First_Time_(9450745).jpg. US-Regierung / Gemeinfrei*
+
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
