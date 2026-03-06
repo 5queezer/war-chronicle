@@ -18,43 +18,22 @@ The war started on February 28, 2026. The texts cited below were written between
 ## The Master Timeline
 
 <div class="mermaid">
-graph LR
-    A["📜 Old Testament
-~600 BCE"] --> B["Isaiah 17
-Damascus falls"]
-    A --> C["Daniel 8
-Ram vs Goat"]
-    A --> D["Daniel 2
-Feet of clay = EU?"]
-    A --> E["Ezekiel 38
-Gog-Magog coalition"]
-    F["✝️ New Testament
-96 CE"] --> G["Rev 16
-Euphrates dries up"]
-    F --> H["Rev 17
-Whore of Babylon"]
-    I["🔮 Modern Seers
-1555-1996"] --> J["Nostradamus
-Persian wars"]
-    I --> K["Duduman 1984
-America burns"]
-    I --> L["Gruver 1986
-Russian naval strike"]
-    M["⚔️ 2026"] --> N["Feb 28
-USA & Israel strike Iran"]
-    M --> O["Mar 6
-Iran rejects talks"]
-    C --> N
-    E --> N
-    style M fill:#8B0000,color:#fff
-    style N fill:#8B0000,color:#fff
-    style O fill:#8B0000,color:#fff
-        Mar 1  : Day 2 — Iran fires ballistic missiles (Jer 49 — bow of Elam)
-        Mar 2  : Day 3 — US bases in Azerbaijan and Qatar hit
-        Mar 3  : Day 4 — Beirut bombed; Damascus clock ticking (Isa 17)
-        Mar 4  : Day 5 — 500 missiles, 2000 drones (Joel 2 — swarm)
-        Mar 5  : Day 6 — US Navy sinks Iranian warship
-        Mar 6  : Day 7 — Iran rejects talks; Zelensky threatens Orbán (Dan 2 — clay cracks)
+graph TD
+    OT["Old Testament 600 BCE"] --> IS["Isaiah 17: Damascus"]
+    OT --> D8["Daniel 8: Ram vs Goat"]
+    OT --> D2["Daniel 2: Iron and Clay"]
+    OT --> EZ["Ezekiel 38: Gog-Magog"]
+    NT["New Testament 96 CE"] --> R16["Rev 16: Euphrates"]
+    NT --> R17["Rev 17: Babylon"]
+    MS["Modern Seers 1555-1996"] --> NOS["Nostradamus: Persian wars"]
+    MS --> DUD["Duduman 1984: America burns"]
+    WAR["2026 War"] --> D1["Feb 28: USA and Israel strike Iran"]
+    WAR --> D7["Mar 6: Iran rejects talks"]
+    D8 --> D1
+    EZ --> D1
+    style WAR fill:#8B0000,color:#fff
+    style D1 fill:#8B0000,color:#fff
+    style D7 fill:#8B0000,color:#fff
 </div>
 
 ---
@@ -74,15 +53,12 @@ Daniel sees a ram standing at the river Ulai (near modern Ahvaz, southwestern Ir
 
 <div class="mermaid">
 flowchart LR
-    RAM["🐏 THE RAM\nTwo Horns\n= Media + Persia\n────────────\nModern Iran:\nHorn 1: Supreme Leader\nHorn 2: IRGC Military\n────────────\nPushes West, North, South:\nHezbollah · Hamas\nHouthis · PMF Iraq"]
-
-    GOAT["🐐 THE GOAT\nOne Great Horn\n= Greece / Alexander\n────────────\nModern West:\nUSA + Israel\nUnified command\nTrump + Netanyahu\n────────────\nComes from the West\nWithout touching ground:\nAir campaign, Day 1"]
-
-    CLASH["💥 CLASH\nDan 8:7\n'He was moved with\nrage against him'\n────────────\nFeb 28, 2026:\nCoordinated strike on\nIRGC, missiles, nukes"]
-
-    RAM -->|"pushes in all directions\n(regional hegemony)"| CLASH
-    GOAT -->|"comes from the west\nat furious speed\n(air supremacy)"| CLASH
-    CLASH -->|"Ram's horns broken\nRam trampled"| OUTCOME["Ram falls:\nIran's military\ncapacity degraded\n(in progress)"]
+    RAM["THE RAM - Two Horns - Media and Persia - Modern Iran - IRGC + Supreme Leader"] --> CLASH["CLASH - Daniel 8:7 - Feb 28 2026 - Coordinated strike"]
+    GOAT["THE GOAT - One Horn - Greece / Alexander - Modern West - USA + Israel + Trump + Netanyahu"] --> CLASH
+    CLASH --> OUTCOME["Ram broken - Horn shattered - Iran defeated?"]
+    style RAM fill:#006400,color:#fff
+    style GOAT fill:#00008B,color:#fff
+    style CLASH fill:#8B0000,color:#fff
 </div>
 
 **What the text says happens next:** The great horn on the goat is broken at the peak of its power. Four horns grow in its place. Then from one of those four comes a "little horn" — the figure that most futurist scholars identify as the Antichrist or a final world dictator.
@@ -102,15 +78,13 @@ flowchart LR
 
 <div class="mermaid">
 flowchart TD
-    HEAD["👑 GOLD HEAD\nBabylon\n(Nebuchadnezzar)"]
-    CHEST["⚔️ SILVER CHEST\nMedo-Persia\n(modern Iran — again at center)"]
-    BELLY["🏛️ BRONZE BELLY\nGreece\n(Alexander the Great)"]
-    LEGS["🗡️ IRON LEGS\nRome\n(The undivided empire)"]
-    FEET["🧱 IRON + CLAY FEET\nRevived Roman Order\nThe European Union\n────────────\nIRON = EU institutions\nNATO · Euro · Schengen\nClay = national vetoes\nHungary · populism\nBrexit · Eurosceptics\n────────────\n'They shall not adhere'"]
-    STONE["💥 THE STONE\nNot cut by human hands\nStrikes the feet\nDestroying the whole statue\n= Divine intervention\nat the end of history"]
-
-    HEAD --> CHEST --> BELLY --> LEGS --> FEET
-    STONE -->|"strikes iron + clay"| FEET
+    HEAD["GOLD HEAD - Babylon"] --> CHEST["SILVER CHEST - Medo-Persia - Modern Iran"]
+    CHEST --> BELLY["BRONZE BELLY - Greece - Alexander the Great"]
+    BELLY --> LEGS["IRON LEGS - Rome - Western Empires"]
+    LEGS --> FEET["IRON AND CLAY FEET - European Union - Strong but fragile"]
+    FEET --> STONE["STONE - Kingdom of God - Destroys all kingdoms"]
+    style FEET fill:#8B4513,color:#fff
+    style STONE fill:#4B0082,color:#fff
 </div>
 
 ### The EU as Iron + Clay — A Live Demonstration
@@ -147,18 +121,16 @@ This is Daniel 2:43 playing out in a single news cycle. The iron (Brussels, the 
 
 <div class="mermaid">
 flowchart TD
-    GOG["🇷🇺 GOG of MAGOG\n= Russia\n(Rosh = archaic Rus)\nLed by 'Gog'\nthe chief prince"]
-
-    COALITION["COALITION MEMBERS\nEzekiel 38:2-6\n────────────\nMeshech + Tubal = Turkey\nPersia = Iran ✓ AT WAR NOW\nCush/Ethiopia = Sudan/East Africa\nPut = Libya\nGomer = Central Europe\nBeth-togarmah = Turkey/Caucasus"]
-
-    ISRAEL["🇮🇱 ISRAEL\n'Dwelling safely'\nin unwalled villages\n(Ezek 38:11)\n────────────\nSemi-fulfilled: Iron Dome\ngives false security"]
-
-    GOG -->|"leads coalition\nfrom the far north"| COALITION
-    COALITION -->|"invades Israel\n'like a cloud'"| ISRAEL
-
-    GOG2["⚡ GOD'S RESPONSE\nEzek 38:22\n'I will rain down great\nhailstones, fire and brimstone'\n────────────\nCoalition destroyed\non Israel's mountains"]
-
-    ISRAEL --> GOG2
+    GOG["GOG of MAGOG - Russia"] --> COALITION["COALITION - Ezekiel 38:5-6"]
+    PERSIA["PERSIA - Iran"] --> COALITION
+    ETHIOPIA["Ethiopia - Cush"] --> COALITION
+    LIBYA["Libya - Put"] --> COALITION
+    TURKEY["Turkey - Gomer and Togarmah"] --> COALITION
+    COALITION --> ATTACK["Attack on Israel - Mountains of Israel"]
+    ATTACK --> DEFEAT["Divine defeat - Fire, earthquake, pestilence"]
+    style GOG fill:#8B0000,color:#fff
+    style COALITION fill:#8B0000,color:#fff
+    style DEFEAT fill:#006400,color:#fff
 </div>
 
 **Current status:** Persia (Iran) is the only Ezekiel 38 nation currently at war. Russia (Gog/Magog) is watching — Suwalki Gap quiet as of Day 7. Turkey is ambiguous. The coalition is not yet assembled. But the trigger event — a war in which Iran is degraded — could accelerate Russian entry, assembling Ezekiel 38 in response to Iran's defeat rather than alongside it.
@@ -312,19 +284,14 @@ Russia is watching. The Suwalki Gap is quiet. Putin has not moved. If Russia's r
 
 <div class="mermaid">
 flowchart TD
-    subgraph BIBLICAL_ROLES["PROPHETIC ROLES — Biblical Framework"]
-        IRAN_B["🇮🇷 IRAN\nRam — Dan 8\nElam — Jer 49\nPersia in Gog coalition — Ezek 38\nKing pushing West/North/South"]
-        ISRAEL_B["🇮🇱 ISRAEL\nUnwalled villages — Ezek 38:11\nGlory of Jacob waning — Isa 17:4\nThe land being fought over"]
-        USA_B["🇺🇸 USA\nGoat from the West — Dan 8\nYoung Lions — Ezek 38:13\nor: End-times Babylon — Rev 18"]
-        RUSSIA_B["🇷🇺 RUSSIA\nGog of Magog — Ezek 38\nKing of the North — Dan 11\nWatching — for now"]
-        EU_B["🇪🇺 EU / EUROPE\nFeet of Iron+Clay — Dan 2\nWhore of Babylon — Rev 17\nParalyzed by internal fracture"]
-    end
-
-    IRAN_B -->|"strikes"| ISRAEL_B
-    USA_B -->|"defends + strikes"| IRAN_B
-    RUSSIA_B -->|"watches\n(Suwalki Gap quiet)"| IRAN_B
-    EU_B -->|"sanctions,\nbut divided"| IRAN_B
-    EU_B -->|"Zelensky-Orbán\ncrisis Mar 6"| CRACK["⚡ Daniel 2:43\nIron does not\nbond with clay"]
+    IRAN["IRAN - Ram Dan 8 - Elam Jer 49 - Gog coalition member"] --> CONFLICT["2026 CONFLICT"]
+    USA["USA - Great Eagle Rev 12 - Babylon Duduman"] --> CONFLICT
+    ISRAEL["ISRAEL - Goat Dan 8 - Protected Ezek 38"] --> CONFLICT
+    EU["EUROPEAN UNION - Iron and Clay Dan 2 - Babylon Rev 17 - DIVIDED: Orban vs Zelensky"] --> CONFLICT
+    RUSSIA["RUSSIA - Gog of Magog Ezek 38 - Hope of world Cayce"] --> CONFLICT
+    CONFLICT --> OUTCOME["Prophetic Fulfillment?"]
+    style EU fill:#8B4513,color:#fff
+    style CONFLICT fill:#8B0000,color:#fff
 </div>
 
 ---
