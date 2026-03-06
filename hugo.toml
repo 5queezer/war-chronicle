@@ -1,4 +1,4 @@
-baseURL = "http://war.vasudev.xyz/"
+baseURL = "https://war.vasudev.xyz/"
 theme = "terminal"
 defaultContentLanguage = "en"
 
