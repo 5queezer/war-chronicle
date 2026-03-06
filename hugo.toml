@@ -24,6 +24,7 @@ defaultContentLanguage = "en"
   fullWidthTheme = false
   centerTheme = true
   showLanguageSelector = true
+  readMore = "Read more →"
 
 [taxonomies]
   tag = "tags"
