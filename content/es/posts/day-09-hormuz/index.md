@@ -1,6 +1,6 @@
 ---
 title: "Día 9 — El Cuello de Botella: El Bloqueo Naval Selectivo de Irán y la Batalla por el Estrecho de Ormuz"
-date: 2026-03-07
+date: 2026-03-07T12:00:00
 draft: false
 tags: ["Estrecho de Ormuz", "Irán", "Guerra Naval", "Bloqueo del Petróleo", "IRGC", "China", "Rusia", "Comercio Global", "Gog-Magog", "Apocalipsis 18"]
 description: "Irán declara el Estrecho de Ormuz cerrado selectivamente para buques vinculados a EE.UU. e Israel. 43 buques de guerra iraníes hundidos. Un radar estadounidense de 300 millones de dólares destruido. Putin pide alto el fuego. China prepara ayuda militar para Teherán. El Día 9 es el día en que la guerra se vuelve global."

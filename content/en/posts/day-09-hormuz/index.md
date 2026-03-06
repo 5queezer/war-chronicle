@@ -1,6 +1,6 @@
 ---
 title: "Day 9 — The Chokepoint: Iran's Selective Naval Blockade and the Battle for the Strait of Hormuz"
-date: 2026-03-07
+date: 2026-03-07T12:00:00
 draft: false
 tags: ["Strait of Hormuz", "Iran", "Naval War", "Oil Blockade", "IRGC", "China", "Russia", "Global Trade", "Gog-Magog", "Revelation 18"]
 description: "Iran declares the Strait of Hormuz selectively closed to US- and Israel-linked ships. 43 Iranian naval vessels sunk. A $300M US radar destroyed. Putin calls for ceasefire. China reportedly preparing military aid for Tehran. Day 9 is where the war goes global."

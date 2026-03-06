@@ -1,6 +1,6 @@
 ---
 title: "Tag 9 — Der Engpass: Irans selektive Seeblockade und der Kampf um die Straße von Hormuz"
-date: 2026-03-07
+date: 2026-03-07T12:00:00
 draft: false
 tags: ["Straße von Hormuz", "Iran", "Seekrieg", "Ölblockade", "IRGC", "China", "Russland", "Welthandel", "Gog-Magog", "Offenbarung 18"]
 description: "Iran erklärt die Straße von Hormuz für US- und israelverlinkte Schiffe gesperrt. 43 iranische Kriegsschiffe versenkt. Ein 300-Millionen-Dollar-Radar zerstört. Putin fordert Waffenstillstand. China soll Rüstungshilfe für Teheran vorbereiten. Tag 9 ist der Tag, an dem der Krieg global wird."
