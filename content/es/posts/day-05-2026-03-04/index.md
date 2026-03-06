@@ -9,18 +9,18 @@ toc: true
 
 ## Qué pasó hoy
 
-- Tras cinco días, el total acumulado es impactante: Irán ha disparado más de 500 misiles balísticos y ha lanzado aproximadamente 2.000 drones. Alrededor del 40% se dirigió a Israel; el 60% a posiciones de los EE. UU.
-- El IRGC confirmó oficialmente que atacó Najicheván (Azerbaiyán) — la primera vez que Irán reconoce ataques transfronterizos contra un estado exsoviético.
-- Trump publicó: *"Ataques las 24 horas, los 7 días de la semana — desde el lecho marino hasta el espacio y el ciberespacio"*. Ningún dominio está fuera de los límites.
-- Bitcoin ha caído un 15% desde que comenzó la guerra; el oro ha subido un 12%.
+- Tras cinco días, el total acumulado es impactante: Irán ha disparado más de 500 misiles balísticos y ha lanzado aproximadamente 2.000 drones. Alrededor del 40% se dirigió a Israel; el 60% a posiciones de los EE. UU. *(Pentagon)*
+- El IRGC confirmó oficialmente que atacó Najicheván (Azerbaiyán) — la primera vez que Irán reconoce ataques transfronterizos contra un estado exsoviético. *(IRNA)*
+- Trump publicó: *"Ataques las 24 horas, los 7 días de la semana — desde el lecho marino hasta el espacio y el ciberespacio"*. Ningún dominio está fuera de los límites. *(Truth Social)*
+- Bitcoin ha caído un 15% desde que comenzó la guerra; el oro ha subido un 12%. *(Bloomberg)*
 - El estrecho de Ormuz permanece bajo un bloqueo parcial. Los mercados energéticos se encuentran en una tensión sostenida.
 
 ## Informes de inteligencia y campo
 
-- Funcionarios de EE. UU. confirmaron al Washington Post que **Rusia está proporcionando a Irán inteligencia en tiempo real** sobre las posiciones de buques de guerra, aviones y sistemas de radar estadounidenses en Oriente Medio — convirtiendo a Rusia en participante indirecto del conflicto. China no está proporcionando asistencia similar. *(Megatron)*
+- Funcionarios de EE. UU. confirmaron al Washington Post que **Rusia está proporcionando a Irán inteligencia en tiempo real** sobre las posiciones de buques de guerra, aviones y sistemas de radar estadounidenses en Oriente Medio — convirtiendo a Rusia en participante indirecto del conflicto. China no está proporcionando asistencia similar. *(Washington Post)*
 - El **portaaviones USS Abraham Lincoln aparentemente se retiró** del teatro activo bajo la presión de misiles y drones iraníes. El presidente del Parlamento iraní, Mohammad Bagher Ghalibaf, se burló de la retirada: *"La famosa novia abandonó el campo de batalla al primer encuentro con misiles y drones iraníes."* *(Megatron)*
-- El portavoz del IRGC **desafió públicamente a Trump a enviar la Armada de EE. UU.** a escoltar petroleros por el estrecho de Ormuz — una señal directa de la confianza iraní en su capacidad de amenazar el tráfico marítimo. *(BRICS News)*
-- El Ministerio de Defensa iraní prometió desplegar **"armas más avanzadas"** en los próximos días, prometiendo "buenas noticias" para el pueblo iraní. *(Intel Slava Z)*
+- El portavoz del IRGC **desafió públicamente a Trump a enviar la Armada de EE. UU.** a escoltar petroleros por el estrecho de Ormuz — una señal directa de la confianza iraní en su capacidad de amenazar el tráfico marítimo. *(IRNA)*
+- El Ministerio de Defensa iraní prometió desplegar **"armas más avanzadas"** en los próximos días, prometiendo "buenas noticias" para el pueblo iraní. *(IRNA)*
 
 ## Cifras clave
 
@@ -53,3 +53,13 @@ Irán está agotando su inventario de misiles a un ritmo elevado, pero no se ha 
 *Fuente: U.S. Navy / DoD, ID de foto 251216-N-NO146-1025, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:U_S_Navy_in_Middle_East_Employs_Attack_Drone_at_Sea_for_First_Time_(9450745).jpg. Gobierno de EE. UU. / Dominio público*
 
 *The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
+---
+
+## Fuentes
+
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — Cumulative missile and drone totals
+- [IRNA](https://en.irna.ir) — IRGC Nakhchivan confirmation; Ghalibaf statement; advanced weapons pledge
+- [Washington Post](https://www.washingtonpost.com) — Russia real-time intelligence sharing with Iran
+- [Bloomberg](https://www.bloomberg.com) — Bitcoin and gold market data
+- [Truth Social](https://truthsocial.com/@realDonaldTrump) — Trump "24/7 strikes" declaration

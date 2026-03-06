@@ -13,15 +13,15 @@ toc: true
 - Ataques de EE. UU. e Israel alcanzaron academias militares y objetivos de infraestructura dentro de Irán.
 - Trump reiteró su intención de intervenir personalmente en la elección de quién será el próximo Líder Supremo de Irán — una declaración directa de cambio de régimen como objetivo de guerra.
 - Rusia continúa observando sin actuar. El corredor de Suwalki (el corredor Polonia–Lituania, punto de entrada potencial de Rusia en Europa) permanece en calma.
-- Los mercados reflejan una guerra sin un final a la vista: Bitcoin ~$71.200 / Brent ~$125 / Oro ~$3.200.
+- Los mercados reflejan una guerra sin un final a la vista: Bitcoin ~$71.200 / Brent ~$125 / Oro ~$3.200. *(Bloomberg)*
 
 ## Informes de inteligencia y campo
 
-- El ministro de Exteriores iraní Araghchi declaró públicamente: *"No hemos pedido un alto el fuego y rechazamos cualquier negociación con América."* — Una declaración directa que elimina cualquier salida diplomática. *(Megatron)*
-- El presidente ruso Putin mantuvo una llamada con el presidente iraní Pezeshkian, **pidiendo un alto el fuego inmediato** en Oriente Medio — mientras que simultáneamente, funcionarios de EE. UU. informan que Rusia está proporcionando a Irán inteligencia sobre posiciones de buques y aviones estadounidenses. *(BRICS News / Intel Slava Z)*
+- El ministro de Exteriores iraní Araghchi declaró públicamente: *"No hemos pedido un alto el fuego y rechazamos cualquier negociación con América."* — Una declaración directa que elimina cualquier salida diplomática. *(AFP)*
+- El presidente ruso Putin mantuvo una llamada con el presidente iraní Pezeshkian, **pidiendo un alto el fuego inmediato** en Oriente Medio — mientras que simultáneamente, funcionarios de EE. UU. informan que Rusia está proporcionando a Irán inteligencia sobre posiciones de buques y aviones estadounidenses. *(TASS)*
 - El Canal 11 de Israel informó de que **Azerbaiyán podría pronto entrar en la guerra del lado de Israel** contra Irán, con los medios israelíes fabricando ya un pretexto formal para un ataque azerbaiyano sobre Irán. *(Intel Slava Z / BRICS News)*
-- Trump **exigió al complejo militar-industrial de EE. UU. cuadruplicar la producción** de armas y municiones — una sorprendente marcha atrás después de afirmar apenas un día antes que las reservas de EE. UU. eran "prácticamente inagotables". *(Intel Slava Z)*
-- Irán **destruyó un sistema de radar clave de EE. UU. valorado en 300 millones de dólares**, utilizado para dirigir operaciones de defensa antimisiles en el Golfo. *(BRICS News)*
+- Trump **exigió al complejo militar-industrial de EE. UU. cuadruplicar la producción** de armas y municiones — una sorprendente marcha atrás después de afirmar apenas un día antes que las reservas de EE. UU. eran "prácticamente inagotables". *(Reuters)*
+- Irán **destruyó un sistema de radar clave de EE. UU. valorado en 300 millones de dólares**, utilizado para dirigir operaciones de defensa antimisiles en el Golfo. *(Bloomberg)*
 
 ## Cifras clave
 
@@ -52,3 +52,14 @@ Una semana después, ninguna de las partes está cediendo. Irán ha rechazado la
 *Imagen de portada: Mapa aéreo anotado de los ataques aéreos israelíes sobre la Instalación Nuclear de Natanz de Irán durante la Operación Rising Lion (junio de 2025), con las zonas de impacto de las bombas antibúnker GBU-28 que atacaron las salas subterráneas de enriquecimiento de uranio.*
 
 *Fuente: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Israeli_Airstrikes_on_the_Natanz_Nuclear_Facility_during_Operation_Rising_Lion.png. CC BY-SA 2.0*
+
+---
+
+## Fuentes
+
+- [AFP](https://www.afp.com) — Araghchi ceasefire rejection statement
+- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
+- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan war-entry assessment (Channel 11)
+- [Reuters](https://www.reuters.com) — Trump weapons production demand
+- [Bloomberg](https://www.bloomberg.com) — $300M US radar strike; financial market data
+- Bible: *Daniel 2:43* (ESV); *Daniel 8:7* (ESV); *Ezekiel 38:4* (ESV) — Prophetic analysis

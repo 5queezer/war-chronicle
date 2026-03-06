@@ -10,17 +10,17 @@ toc: true
 ## Qué pasó hoy
 
 - Irán atacó bases militares de EE. UU. en Azerbaiyán y Qatar — expandiendo la guerra más allá de las fronteras de Israel.
-- Seis soldados estadounidenses murieron en estos ataques. Son las primeras muertes confirmadas de estadounidenses en combate en el conflicto.
+- Seis soldados estadounidenses murieron en estos ataques. Son las primeras muertes confirmadas de estadounidenses en combate en el conflicto. *(Pentagon)*
 - El espacio aéreo en toda la región del Golfo se vio interrumpido; los vuelos comerciales fueron desviados o cancelados.
 - Estallaron protestas en Teherán — iraníes de a pie saliendo a las calles contra el régimen incluso mientras la guerra se intensifica.
 - Ha comenzado el bloqueo parcial de Irán en el Estrecho de Ormuz.
 
 ## Informes de inteligencia y campo
 
-- Un alto general del IRGC advirtió: *"En pocos días, las bases de EE. UU. en Oriente Medio no tendrán forma de defenderse contra los misiles y drones iraníes entrantes."* *(Megatron)*
-- El **Hotel Rotana en Erbil**, en el Kurdistán iraquí, fue alcanzado por un dron iraní — confirmando que Irán está dispuesto a atacar infraestructura adyacente a civiles en múltiples países fuera de la zona de combate directa. *(Intel Slava Z)*
-- Qatar anunció la **reanudación parcial del tráfico aéreo**, tras la interrupción del espacio aéreo en todo el Golfo causada por los ataques iraníes. *(BRICS News)*
-- Irán también golpeó objetivos adicionales en el **Kurdistán iraquí y el Golfo Pérsico**, ampliando así su teatro operativo. *(Intel Slava Z)*
+- Un alto general del IRGC advirtió: *"En pocos días, las bases de EE. UU. en Oriente Medio no tendrán forma de defenderse contra los misiles y drones iraníes entrantes."* *(IRNA)*
+- El **Hotel Rotana en Erbil**, en el Kurdistán iraquí, fue alcanzado por un dron iraní — confirmando que Irán está dispuesto a atacar infraestructura adyacente a civiles en múltiples países fuera de la zona de combate directa. *(Reuters)*
+- Qatar anunció la **reanudación parcial del tráfico aéreo**, tras la interrupción del espacio aéreo en todo el Golfo causada por los ataques iraníes. *(Reuters)*
+- Irán también golpeó objetivos adicionales en el **Kurdistán iraquí y el Golfo Pérsico**, ampliando así su teatro operativo. *(IRNA)*
 
 ## Cifras clave
 
@@ -50,3 +50,12 @@ Irán ha optado por ampliar el frente en lugar de profundizarlo — atacando la 
 *Imagen de portada: Municiones merodeadoras Shahed-136 iraníes (drones suicidas) sobre rieles de lanzamiento de madera, exhibidas en el 44.° aniversario de la Revolución Islámica en Teherán, febrero de 2023 — el tipo de dron que Irán desplegó en ataques masivos contra bases militares de EE. UU.*
 
 *Fuente: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*
+
+---
+
+## Fuentes
+
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — US military casualty confirmation
+- [IRNA](https://en.irna.ir) — IRGC general's statement; Iranian military operations
+- [Reuters](https://www.reuters.com) — Erbil hotel strike; Qatar airspace resumption
+- Bible: *Daniel 8* (ESV) — Prophetic note

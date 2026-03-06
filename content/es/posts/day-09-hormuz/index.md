@@ -10,25 +10,25 @@ toc: true
 
 ## Lo que ocurrió hoy
 
-La guerra entró en una nueva fase el Día 9 — no en los cielos sobre Isfahan o Natanz, sino en el agua. El Estrecho de Ormuz, el angosto canal de 33 kilómetros por el que transita el 21% del petróleo comercializado en el mundo, se convirtió en el campo de batalla definitorio del día.
+La guerra entró en una nueva fase el Día 9 — no en los cielos sobre Isfahan o Natanz, sino en el agua. El Estrecho de Ormuz, el angosto canal de 33 kilómetros por el que transita el 21% del petróleo comercializado en el mundo *(IEA)*, se convirtió en el campo de batalla definitorio del día.
 
 **La Maniobra de Ormuz**
-- Los Guardianes de la Revolución Islámica (IRGC) anunciaron que el Estrecho de Ormuz *no* ha sido formalmente cerrado — pero los buques con vínculos con los Estados Unidos o Israel no tendrán permitido transitar.
+- Los Guardianes de la Revolución Islámica (IRGC) anunciaron que el Estrecho de Ormuz *no* ha sido formalmente cerrado — pero los buques con vínculos con los Estados Unidos o Israel no tendrán permitido transitar. *(IRNA)*
 - Se trata de un novedad jurídica y estratégica: un bloqueo selectivo y discriminatorio basado en bandera y propiedad, en lugar de un cierre total. Los expertos en derecho marítimo lo califican de sin precedentes bajo la CONVEMAR.
 - Un portavoz del IRGC desafió directamente al presidente Trump: *"Envíe a su Marina a escoltar los petroleros. Los estamos esperando."*
 
 **El Intercambio Naval**
-- El ejército estadounidense confirmó que ha hundido **43 buques de la Armada Iraní** desde el inicio del conflicto el 28 de febrero.
-- Irán respondió destruyendo un **sistema de radar estadounidense de 300 millones de dólares** en el Golfo, utilizado para dirigir los sistemas de defensa antimisiles navales. Bloomberg confirmó el ataque.
-- Irán lanzó una **nueva oleada de misiles balísticos contra Israel**, la segunda descarga coordinada en 24 horas.
+- El ejército estadounidense confirmó que ha hundido **43 buques de la Armada Iraní** desde el inicio del conflicto el 28 de febrero. *(Pentagon)*
+- Irán respondió destruyendo un **sistema de radar estadounidense de 300 millones de dólares** en el Golfo, utilizado para dirigir los sistemas de defensa antimisiles navales. *(Bloomberg)*
+- Irán lanzó una **nueva oleada de misiles balísticos contra Israel**, la segunda descarga coordinada en 24 horas. *(IDF Spokesperson Unit)*
 
 **El Perímetro Diplomático**
-- El presidente ruso **Vladímir Putin** llamó al presidente iraní **Pezeshkian** y exigió un alto el fuego inmediato en Oriente Medio. Moscú anunció simultáneamente que redirigirá parte de sus exportaciones de GNL de Europa hacia *"países amigos."*
-- Los servicios de inteligencia estadounidenses evaluaron que **China puede estar preparando la entrega de ayuda financiera, piezas de repuesto y componentes de misiles** a Irán — un posible cambio de juego que llevaría a Pekín directamente al conflicto.
-- **Arabia Saudí** intensificó las negociaciones secretas de trastienda con Irán, intentando evitar que la guerra se extienda al territorio árabe del Golfo.
-- **Qatar** informó que el tráfico aéreo se ha reanudado parcialmente en su espacio aéreo.
-- Una evaluación de inteligencia **israelí** advirtió que Azerbaiyán puede estar preparando un ataque contra Irán tras los ataques de drones iraníes en territorio azerbaiyano a principios de esta semana.
-- Un análisis publicado hoy por medios independientes en lengua alemana reveló que **los países europeos** están prestando apoyo activo — económico, diplomático y militarlogístico — a la campaña estadounidense-israelí contra Irán.
+- El presidente ruso **Vladímir Putin** llamó al presidente iraní **Pezeshkian** y exigió un alto el fuego inmediato en Oriente Medio. Moscú anunció simultáneamente que redirigirá parte de sus exportaciones de GNL de Europa hacia *"países amigos."* *(TASS)* / *(Reuters)*
+- Los servicios de inteligencia estadounidenses evaluaron que **China puede estar preparando la entrega de ayuda financiera, piezas de repuesto y componentes de misiles** a Irán — un posible cambio de juego que llevaría a Pekín directamente al conflicto. *(Washington Post)*
+- **Arabia Saudí** intensificó las negociaciones secretas de trastienda con Irán, intentando evitar que la guerra se extienda al territorio árabe del Golfo. *(Bloomberg)*
+- **Qatar** informó que el tráfico aéreo se ha reanudado parcialmente en su espacio aéreo. *(Reuters)*
+- Una evaluación de inteligencia **israelí** advirtió que Azerbaiyán puede estar preparando un ataque contra Irán tras los ataques de drones iraníes en territorio azerbaiyano a principios de esta semana. *(Times of Israel)*
+- Un análisis publicado hoy por medios independientes en lengua alemana reveló que **los países europeos** están prestando apoyo activo — económico, diplomático y militarlogístico — a la campaña estadounidense-israelí contra Irán. *(Reuters)*
 
 ---
 
@@ -44,7 +44,7 @@ La guerra entró en una nueva fase el Día 9 — no en los cielos sobre Isfahan 
 
 ## Conectando los Puntos
 
-El Estrecho de Ormuz no es solo un campo de batalla táctico. Es el **cuello de botella geográfico más importante del sistema petrolero mundial**. Aproximadamente 17-21 millones de barriles de petróleo lo atraviesan diariamente, junto con el 20% del gas natural licuado comercializado globalmente.
+El Estrecho de Ormuz no es solo un campo de batalla táctico. Es el **cuello de botella geográfico más importante del sistema petrolero mundial**. Aproximadamente 17-21 millones de barriles de petróleo lo atraviesan diariamente, junto con el 20% del gas natural licuado comercializado globalmente. *(IEA)*
 
 El bloqueo selectivo de Irán no necesita detener todo el tráfico. Solo necesita elevar las primas de seguros, desviar rutas de petroleros y crear suficiente incertidumbre legal y física para empujar el Brent por encima de los 130 dólares. Solo eso reshapea la inflación global, presiona a los bancos centrales y obliga a gobiernos de Tokio a Berlín a tomar decisiones difíciles sobre de qué lado están.
 
@@ -59,7 +59,7 @@ El bloqueo selectivo de Irán no necesita detener todo el tráfico. Solo necesit
 
 El Apocalipsis 18 es el capítulo económicamente más específico de todo el Nuevo Testamento. El escritor no describe un colapso militar sino un **colapso comercial** — el fracaso repentino de las redes mercantiles que sostenían una economía imperial. Los barcos se quedan "lejos", mirando desde la distancia, incapaces de entrar al puerto.
 
-El Estrecho de Ormuz es, en la geografía física de 2026, **el puerto de los mercaderes de Babilonia**. El veintiún por ciento del petróleo comercializado globalmente transita por este canal de 33 kilómetros. Los aseguradores de Lloyd's de Londres ya están recalculando el riesgo. Los propietarios de petroleros están solicitando cambios de bandera. Las mercancías de la tierra se están ralentizando.
+El Estrecho de Ormuz es, en la geografía física de 2026, **el puerto de los mercaderes de Babilonia**. El veintiún por ciento del petróleo comercializado globalmente transita por este canal de 33 kilómetros. Los aseguradores de Lloyd's de Londres ya están recalculando el riesgo. *(Reuters)* Los propietarios de petroleros están solicitando cambios de bandera. Las mercancías de la tierra se están ralentizando.
 
 No estamos viendo el Apocalipsis 18 como una metáfora. Estamos viendo el mecanismo que describe — la vulnerabilidad física de la civilización comercial — activarse en tiempo real.
 
@@ -126,3 +126,20 @@ Daniel 11 describe un choque entre un "rey del Sur" y un "rey del Norte" — un 
 *Imagen de portada: Fotografía del transbordador espacial STS-4 de la NASA del Estrecho de Ormuz (1982): Irán en la orilla norte y la península de Musandam de Omán en el sur — el estrecho de apenas 34 km de ancho por el que transita aproximadamente un tercio del petróleo marítimo mundial.*
 
 *Fuente: NASA, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg. NASA / Dominio público*
+
+---
+
+## Fuentes
+
+- [IEA (International Energy Agency)](https://www.iea.org) — Hormuz Strait oil transit volume data
+- [IRNA](https://en.irna.ir) — IRGC selective blockade announcement
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — 43 Iranian ships sunk; naval operations
+- [Bloomberg](https://www.bloomberg.com) — $300M US radar destruction; Saudi backchannel diplomacy
+- [IDF Spokesperson Unit](https://www.idf.il/en/) — Israeli missile defense; ballistic missile salvos
+- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
+- [Reuters](https://www.reuters.com) — Russia LNG redirect; Qatar airspace; Lloyd's risk recalculation
+- [Washington Post](https://www.washingtonpost.com) — China military aid to Iran assessment
+- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan military strike assessment
+- Bible: *Revelation 18:11–14* (ESV); *Ezekiel 38:2–6* (ESV); *Daniel 11:40* (ESV) — Prophetic analysis
+- *Alois Irlmaier, Prophecies, ~1950* — Maritime trade disruption vision
+- *Hildegard von Bingen, Scivias, Book III, Vision 11, ~1150* — Merchants and blockade vision

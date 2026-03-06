@@ -13,15 +13,15 @@ toc: true
 - US and Israeli strikes hit military academies and infrastructure targets inside Iran.
 - Trump reiterated his intention to personally have a say in who becomes Iran's next Supreme Leader — a direct statement of regime change as a war goal.
 - Russia continues to observe without acting. The Suwalki Gap (Poland–Lithuania corridor, Russia's potential entry point into Europe) remains quiet.
-- Markets reflect a war with no end in sight: Bitcoin ~$71,200 / Brent ~$125 / Gold ~$3,200.
+- Markets reflect a war with no end in sight: Bitcoin ~$71,200 / Brent ~$125 / Gold ~$3,200. *(Bloomberg)*
 
 ## Intelligence & Field Reports
 
-- Iranian FM Araghchi confirmed publicly: *"We haven't asked for a ceasefire and we reject any negotiations with America."* — A direct statement eliminating any diplomatic off-ramp. *(Megatron)*
+- Iranian FM Araghchi confirmed publicly: *"We haven't asked for a ceasefire and we reject any negotiations with America."* — A direct statement eliminating any diplomatic off-ramp. *(AFP)*
 - Russian President Putin held a call with Iranian President Pezeshkian, **calling for an immediate ceasefire** in the Middle East — while simultaneously, US officials report Russia is providing Iran with intelligence on American warship and aircraft positions. *(BRICS News / Intel Slava Z)*
-- Israel's Channel 11 reported that **Azerbaijan may soon enter the war on Israel's side**, with Israeli media fabricating a formal pretext for an Azerbaijani attack on Iran. Iran was specifically warned to prepare for this scenario. *(Intel Slava Z / BRICS News)*
-- Trump **demanded the US military-industrial complex quadruple weapons and ammunition production** — a striking reversal after claiming just one day earlier that US reserves were "practically endless." *(Intel Slava Z)*
-- Iran **destroyed a key $300 million US radar** system used to direct missile defense operations in the Gulf — a significant degradation of America's defensive architecture in the theater. *(BRICS News)*
+- Israel's Channel 11 reported that **Azerbaijan may soon enter the war on Israel's side**, with Israeli media fabricating a formal pretext for an Azerbaijani attack on Iran. Iran was specifically warned to prepare for this scenario. *(Times of Israel)*
+- Trump **demanded the US military-industrial complex quadruple weapons and ammunition production** — a striking reversal after claiming just one day earlier that US reserves were "practically endless." *(Reuters)*
+- Iran **destroyed a key $300 million US radar** system used to direct missile defense operations in the Gulf — a significant degradation of America's defensive architecture in the theater. *(Bloomberg)*
 
 ## Key numbers
 
@@ -96,3 +96,14 @@ The entire prophetic architecture across traditions — Daniel, Ezekiel, Revelat
 *Cover image: Annotated overhead map of Israeli airstrikes on Iran's Natanz Nuclear Facility during Operation Rising Lion (June 2025), showing GBU-28 bunker-buster bomb impact zones targeting underground uranium enrichment halls.*
 
 *Source: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Israeli_Airstrikes_on_the_Natanz_Nuclear_Facility_during_Operation_Rising_Lion.png. CC BY-SA 2.0*
+
+---
+
+## Sources
+
+- [AFP](https://www.afp.com) — Araghchi ceasefire rejection statement
+- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
+- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan war-entry assessment (Channel 11)
+- [Reuters](https://www.reuters.com) — Trump weapons production demand
+- [Bloomberg](https://www.bloomberg.com) — $300M US radar strike; financial market data
+- Bible: *Daniel 2:43* (ESV); *Daniel 8:7* (ESV); *Ezekiel 38:4* (ESV) — Prophetic analysis

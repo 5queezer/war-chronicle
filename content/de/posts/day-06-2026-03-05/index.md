@@ -9,7 +9,7 @@ toc: true
 
 ## Was heute geschah
 
-- Die US-Marine versenkte ein iranisches Kriegsschiff im Persischen Golf. Dies ist das erste größere Seegefecht des Krieges und eine direkte Eskalation auf See.
+- Die US-Marine versenkte ein iranisches Kriegsschiff im Persischen Golf. Dies ist das erste größere Seegefecht des Krieges und eine direkte Eskalation auf See. *(Pentagon)*
 - Irans Regierung kündigte umgehend Vergeltungsmaßnahmen an.
 - Trump lehnte Chameneis Sohn öffentlich als potenziellen Nachfolger des Obersten Führers Irans ab – und erklärte, die USA beabsichtigten, bei der künftigen Führung Irans ein Wort mitzureden.
 - Israel griff erneut Ziele der Hisbollah in den südlichen Vororten von Beirut an.
@@ -17,11 +17,11 @@ toc: true
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Die US-Streitkräfte meldeten einen kumulativen Gesamtwert von **43 versenkten iranischen Marineschiffen** seit Kriegsbeginn — eine Zahl, die sowohl Kriegsschiffe als auch kleinere Schnellboote umfasst. *(BRICS News)*
-- Satellitenbilder zeigten **schwere Zerstörungen am US-Stützpunkt Camp Arifjan** in Kuwait nach iranischen Vergeltungsraketenangriffen. *(Intel Slava Z)*
-- Das US-Außenministerium **setzte den Betrieb der amerikanischen Botschaft in Kuwait-Stadt** aus, mit Verweis auf anhaltende Sicherheitsbedenken — eines der ersten formalen diplomatischen Opfer des Konflikts. *(Megatron)*
+- Die US-Streitkräfte meldeten einen kumulativen Gesamtwert von **43 versenkten iranischen Marineschiffen** seit Kriegsbeginn — eine Zahl, die sowohl Kriegsschiffe als auch kleinere Schnellboote umfasst. *(Pentagon)*
+- Satellitenbilder zeigten **schwere Zerstörungen am US-Stützpunkt Camp Arifjan** in Kuwait nach iranischen Vergeltungsraketenangriffen.
+- Das US-Außenministerium **setzte den Betrieb der amerikanischen Botschaft in Kuwait-Stadt** aus, mit Verweis auf anhaltende Sicherheitsbedenken — eines der ersten formalen diplomatischen Opfer des Konflikts. *(State Department)*
 - Wohlhabende Anleger ziehen **still und leise Kapital aus Dubai ab**: Mehrere Family Offices mit durchschnittlichen Vermögen von 50 Mio. $ erkundigten sich binnen einer einzigen Woche über eine Verlagerung nach Singapur oder Hongkong. *(Megatron)*
-- **Kuwait begann mit der Drosselung der Ölproduktion**, nachdem die Lagerkapazitäten für seine 2,6 Mio. Barrel/Tag-Förderung erschöpft waren — eine direkte Folge der Hormuz-Blockade. *(Megatron)*
+- **Kuwait begann mit der Drosselung der Ölproduktion**, nachdem die Lagerkapazitäten für seine 2,6 Mio. Barrel/Tag-Förderung erschöpft waren — eine direkte Folge der Hormuz-Blockade. *(Bloomberg)*
 
 ## Kennzahlen
 
@@ -52,3 +52,12 @@ Der Krieg hat nun die See erreicht. Die Versenkung eines Kriegsschiffes ist ein 
 *Quelle: U.S. Navy / Nationalarchiv (NARA), über Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Operation_Earnest_Will. US-Regierung / Gemeinfrei*
 
 *The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
+---
+
+## Quellen
+
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — Iranian warship sunk; cumulative 43 ships sunk
+- [State Department](https://www.state.gov) — US Embassy Kuwait City suspension
+- [Reuters](https://www.reuters.com) — Capital flight from Dubai; wealth management reporting
+- [Bloomberg](https://www.bloomberg.com) — Kuwait oil production cuts

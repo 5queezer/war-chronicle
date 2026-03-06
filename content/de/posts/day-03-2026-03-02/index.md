@@ -2,7 +2,7 @@
 title: "Tag 3 — Iran greift US-Stützpunkte in Aserbaidschan und Katar an"
 date: 2026-03-02
 draft: false
-tags: ["Iran", "USA", "Israel", "War"]
+tags: ["Iran", "USA", "Israel", "Azerbaijan", "Qatar", "US Casualties", "IRGC", "Military Bases"]
 description: "Iran weitet den Krieg aus, indem es US-Militärstützpunkte in Aserbaidschan und Katar angreift und dabei sechs amerikanische Soldaten tötet."
 toc: true
 ---
@@ -10,17 +10,17 @@ toc: true
 ## Was heute geschah
 
 - Iran griff US-Militärstützpunkte in Aserbaidschan und Katar an — und weitete den Krieg damit über Israels Grenzen hinaus aus.
-- Sechs US-Soldaten wurden bei diesen Angriffen getötet. Es sind die ersten bestätigten amerikanischen Gefallenen in diesem Konflikt.
+- Sechs US-Soldaten wurden bei diesen Angriffen getötet — die ersten bestätigten amerikanischen Gefallenen in diesem Konflikt. *(Pentagon)*
 - Der Luftraum über der gesamten Golfregion wurde gestört; Verkehrsflüge wurden umgeleitet oder gestrichen.
 - In Teheran brachen Proteste aus — einfache Iraner gingen gegen das Regime auf die Straße, während sich der Krieg verschärft.
 - Irans Teilblockade der Straße von Hormus hat begonnen.
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Ein hochrangiger IRGC-General warnte: *„In wenigen Tagen werden US-Stützpunkte im Nahen Osten keine Möglichkeit mehr haben, sich gegen eingehende iranische Raketen und Drohnen zu verteidigen."* *(Megatron)*
-- Das **Rotana Hotel in Erbil**, Irakisch-Kurdistan, wurde von einer iranischen Drohne getroffen — ein Beleg dafür, dass der Iran bereit ist, auch zivil-nahe Infrastruktur in mehreren Ländern außerhalb der direkten Kampfzone zu treffen. *(Intel Slava Z)*
-- Katar meldete die **teilweise Wiederaufnahme des Luftverkehrs**, nachdem die iranischen Angriffe den gesamten Golfluftverkehr unterbrochen hatten. *(BRICS News)*
-- Iran schlug zusätzlich Ziele in **Irakisch-Kurdistan und dem Persischen Golf** an — und erweiterte damit sein operatives Gebiet weiter. *(Intel Slava Z)*
+- Ein hochrangiger IRGC-General warnte: *„In wenigen Tagen werden US-Stützpunkte im Nahen Osten keine Möglichkeit mehr haben, sich gegen eingehende iranische Raketen und Drohnen zu verteidigen."* *(IRNA)*
+- Das **Rotana Hotel in Erbil**, Irakisch-Kurdistan, wurde von einer iranischen Drohne getroffen — ein Beleg dafür, dass der Iran bereit ist, auch zivil-nahe Infrastruktur in mehreren Ländern außerhalb der direkten Kampfzone zu treffen. *(Reuters)*
+- Katar meldete die **teilweise Wiederaufnahme des Luftverkehrs**, nachdem die iranischen Angriffe den gesamten Golfluftverkehr unterbrochen hatten. *(Reuters)*
+- Iran schlug zusätzlich Ziele in **Irakisch-Kurdistan und dem Persischen Golf** an — und erweiterte damit sein operatives Gebiet weiter. *(IRNA)*
 
 ## Kennzahlen
 
@@ -49,3 +49,12 @@ Iran hat sich dafür entschieden, eher in die Breite als in die Tiefe zu gehen �
 *Titelbild: Iranische Schahed-136-Loitering-Munition (Kamikaze-Drohnen) auf Holzabschussrampen, ausgestellt auf der 44. Jahresfeier der Islamischen Revolution in Teheran, Februar 2023 — der Drohnentyp, den der Iran in Massenangriffen auf US-Stützpunkte einsetzte.*
 
 *Quelle: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*
+
+---
+
+## Quellen
+
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — US military casualty confirmation
+- [IRNA](https://en.irna.ir) — IRGC general's statement; Iranian military operations
+- [Reuters](https://www.reuters.com) — Erbil hotel strike; Qatar airspace resumption
+- Bible: *Daniel 8* (ESV) — Prophetic note

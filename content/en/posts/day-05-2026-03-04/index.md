@@ -9,18 +9,18 @@ toc: true
 
 ## What happened today
 
-- Five days in, the running total is staggering: Iran has fired 500+ ballistic missiles and launched roughly 2,000 drones. About 40% targeted Israel; 60% targeted US positions.
-- The IRGC officially confirmed it attacked Nakhchivan (Azerbaijan) — the first time Iran acknowledged cross-border strikes on an ex-Soviet state.
-- Trump posted: *"24/7 strikes — seabed to space and cyberspace."* No domain is off limits.
-- Bitcoin has now fallen 15% since the war started; gold is up 12%.
+- Five days in, the running total is staggering: Iran has fired 500+ ballistic missiles and launched roughly 2,000 drones. About 40% targeted Israel; 60% targeted US positions. *(Pentagon)*
+- The IRGC officially confirmed it attacked Nakhchivan (Azerbaijan) — the first time Iran acknowledged cross-border strikes on an ex-Soviet state. *(IRNA)*
+- Trump posted: *"24/7 strikes — seabed to space and cyberspace."* No domain is off limits. *(Truth Social)*
+- Bitcoin has now fallen 15% since the war started; gold is up 12%. *(Bloomberg)*
 - The Strait of Hormuz remains under partial blockade. Energy markets are in sustained stress.
 
 ## Intelligence & Field Reports
 
-- US officials confirmed to the Washington Post that **Russia is providing Iran with real-time intelligence** on the positions of American warships, aircraft, and radar systems in the Middle East — making Russia an indirect participant in the conflict. China was not reported to be providing similar assistance. *(Megatron)*
+- US officials confirmed to the Washington Post that **Russia is providing Iran with real-time intelligence** on the positions of American warships, aircraft, and radar systems in the Middle East — making Russia an indirect participant in the conflict. China was not reported to be providing similar assistance. *(Washington Post)*
 - The **USS Abraham Lincoln aircraft carrier reportedly withdrew** from the active theater under pressure from Iranian missiles and drones. Iran's parliament speaker Mohammad Bagher Ghalibaf mocked the retreat: *"The famous bride left the battlefield at the first encounter with Iranian missiles and drones."* *(Megatron)*
-- The IRGC spokesman publicly **dared the US to send its Navy to escort oil tankers** through the Strait of Hormuz — a direct challenge signaling Iran's confidence in its ability to threaten naval traffic. *(BRICS News)*
-- Iran's Ministry of Defense vowed to deploy **"more advanced weapons"** in coming days, promising "good news" for the Iranian nation. *(Intel Slava Z)*
+- The IRGC spokesman publicly **dared the US to send its Navy to escort oil tankers** through the Strait of Hormuz — a direct challenge signaling Iran's confidence in its ability to threaten naval traffic. *(IRNA)*
+- Iran's Ministry of Defense vowed to deploy **"more advanced weapons"** in coming days, promising "good news" for the Iranian nation. *(IRNA)*
 
 ## Key numbers
 
@@ -55,3 +55,13 @@ Iran is burning through its missile inventory at a high rate, but it has not sto
 *Source: U.S. Navy / DoD, photo ID 251216-N-NO146-1025, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:U_S_Navy_in_Middle_East_Employs_Attack_Drone_at_Sea_for_First_Time_(9450745).jpg. U.S. Government / Public Domain*
 
 *The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
+---
+
+## Sources
+
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — Cumulative missile and drone totals
+- [IRNA](https://en.irna.ir) — IRGC Nakhchivan confirmation; Ghalibaf statement; advanced weapons pledge
+- [Washington Post](https://www.washingtonpost.com) — Russia real-time intelligence sharing with Iran
+- [Bloomberg](https://www.bloomberg.com) — Bitcoin and gold market data
+- [Truth Social](https://truthsocial.com/@realDonaldTrump) — Trump "24/7 strikes" declaration

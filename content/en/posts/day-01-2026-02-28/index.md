@@ -11,15 +11,15 @@ toc: true
 
 - The United States and Israel launched coordinated airstrikes targeting Iran's IRGC (Revolutionary Guards), missile storage sites, and nuclear infrastructure.
 - Iran began mobilizing forces and fired the first drones in response — most were shot down.
-- The UN Security Council held an emergency session but reached no agreement; Russia and China vetoed any resolution.
-- Oil prices jumped 8% within hours of the strikes being confirmed.
-- Bitcoin dropped 5% as risk-off sentiment hit markets.
+- The UN Security Council held an emergency session but reached no agreement; Russia and China vetoed any resolution. *(Reuters)*
+- Oil prices jumped 8% within hours of the strikes being confirmed. *(Reuters)*
+- Bitcoin dropped 5% as risk-off sentiment hit markets. *(Bloomberg)*
 
 ## Intelligence & Field Reports
 
-- Trump announced **"Operation Epic Fury"** via a video posted to Truth Social at 2:30 AM Washington time on February 28, 2026 — the first public declaration of the strikes before mainstream media confirmed. *(Uncut News)*
+- Trump announced **"Operation Epic Fury"** via a video posted to Truth Social at 2:30 AM Washington time on February 28, 2026 — the first public declaration of the strikes before mainstream media confirmed. *(Truth Social)*
 - Independent analysts note that the Iran campaign follows a recognizable pattern: Iraq (2003), Syria (2011), Libya (2011), Somalia, Sudan — Iran is described as the final entry in a decade-long series of US military campaigns targeting nations on a pre-existing list. *(Uncut News)*
-- Russia and China vetoed the UN Security Council resolution, publicly confirming their bloc against Western military action in the region — a geopolitical alignment with direct implications for the next phase. *(Intel Slava Z)*
+- Russia and China vetoed the UN Security Council resolution, publicly confirming their bloc against Western military action in the region — a geopolitical alignment with direct implications for the next phase. *(Reuters)*
 
 ## Key numbers
 
@@ -74,3 +74,12 @@ Every great prophetic sequence in the biblical tradition starts with a specific,
 *Cover image: Annotated map of Iranian ballistic missile strikes on Israel's Military Intelligence School (Camp Moshe Dayan) and Camp Glilot near Herzliya during Operation True Promise III, June 2025.*
 
 *Source: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Iranian_Airstrikes_on_the_Israeli_Military_Intelligence_School_during_Operation_True_Promise_III.png. CC BY-SA 2.0*
+
+---
+
+## Sources
+
+- [Reuters](https://www.reuters.com) — UN Security Council veto; oil price reporting
+- [Bloomberg](https://www.bloomberg.com) — Financial and market data; Bitcoin
+- [Truth Social](https://truthsocial.com/@realDonaldTrump) — Trump's official Operation Epic Fury announcement
+- Bible: *Daniel 8:7* (ESV); *Jeremiah 49:35–36* (ESV) — Prophetic analysis

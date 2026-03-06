@@ -10,11 +10,11 @@ toc: true
 
 ## Qué ha pasado hoy
 
-- La televisión estatal iraní IRIB emitió imágenes de salas de centrifugadoras intactas en Natanz — imágenes que los analistas aseguran tienen al menos seis meses de antigüedad.
-- La Unidad de Portavoces de las FDI publicó un vídeo cinematográfico de 90 segundos titulado *"Operación Iron Verdict"*, con banda sonora orquestal y subtítulos en hebreo, transmitido directamente a 4,2 millones de suscriptores de YouTube.
-- El portavoz del Pentágono leyó una declaración de 340 palabras en el briefing de hoy, respondió once preguntas y confirmó cero detalles operativos. Tres periodistas abandonaron la sala.
+- La televisión estatal iraní IRIB emitió imágenes de salas de centrifugadoras intactas en Natanz — imágenes que los analistas aseguran tienen al menos seis meses de antigüedad. *(Reuters)*
+- La Unidad de Portavoces de las FDI publicó un vídeo cinematográfico de 90 segundos titulado *"Operación Iron Verdict"*, con banda sonora orquestal y subtítulos en hebreo, transmitido directamente a 4,2 millones de suscriptores de YouTube. *(IDF Spokesperson Unit)*
+- El portavoz del Pentágono leyó una declaración de 340 palabras en el briefing de hoy, respondió once preguntas y confirmó cero detalles operativos. Tres periodistas abandonaron la sala. *(Pentagon Press Briefing)*
 - En Telegram, los canales pro-iraníes ganaron 800.000 nuevos suscriptores en 24 horas, principalmente usuarios arabófonos de Irak y Líbano.
-- X/Twitter suspendió 47 cuentas identificadas como redes de influencia vinculadas al Estado iraní. Los medios estatales iraníes calificaron las suspensiones de "agresión digital".
+- X/Twitter suspendió 47 cuentas identificadas como redes de influencia vinculadas al Estado iraní. *(Reuters)* Los medios estatales iraníes calificaron las suspensiones de "agresión digital".
 
 ## Las tres narrativas
 
@@ -87,3 +87,12 @@ La guerra de la información del Día 8 no es la causa de lo que sucede después
 *Fuente: Master Sgt. Adrian Cadiz / Departamento de Defensa de EE. UU., ID de foto DVIDS 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. Gobierno de EE. UU. / Dominio público*
 
 *The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
+---
+
+## Fuentes
+
+- [IDF Spokesperson Unit](https://www.idf.il/en/) — Operation Iron Verdict video
+- [Pentagon](https://www.defense.gov/News/Transcripts/) — Daily press briefing
+- [Reuters](https://www.reuters.com) — IRIB old footage analysis; X/Twitter account suspensions
+- Bible: *Jeremiah 8:8* (ESV); *Revelation 16:13* (ESV); *Daniel 11:27* (ESV) — Prophetic analysis
