@@ -1,6 +1,3 @@
-I will translate the markdown blog post into Spanish, ensuring all formatting, frontmatter structure, and emojis are preserved while only translating the text content.
-
-```markdown
 ---
 title: "Día 3 — Irán ataca bases de EE. UU. en Azerbaiyán y Qatar"
 date: 2026-03-02

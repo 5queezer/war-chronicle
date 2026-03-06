@@ -1,4 +1,3 @@
-I will now read one of the existing Russian posts to ensure the translation style is consistent.
 ---
 title: "День 6 — США потопили иранский военный корабль в Персидском заливе"
 date: 2026-03-05

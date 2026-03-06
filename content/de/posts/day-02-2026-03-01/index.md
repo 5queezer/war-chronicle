@@ -1,4 +1,3 @@
-
 ---
 title: "Tag 02 — Iran feuert erste ballistische Raketen ab"
 date: 2026-03-01
