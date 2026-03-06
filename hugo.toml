@@ -114,8 +114,26 @@ defaultContentLanguage = "en"
       logoHomeLink = "/ru/"
 
 
-[[menu.main]]
+[[languages.en.menu.main]]
   identifier = "prophecy"
   name = "Prophecy"
   url = "/prophecy/"
+  weight = 20
+
+[[languages.de.menu.main]]
+  identifier = "prophecy"
+  name = "Prophezeiung"
+  url = "/de/prophecy/"
+  weight = 20
+
+[[languages.es.menu.main]]
+  identifier = "prophecy"
+  name = "Profecía"
+  url = "/es/prophecy/"
+  weight = 20
+
+[[languages.ru.menu.main]]
+  identifier = "prophecy"
+  name = "Пророчество"
+  url = "/ru/prophecy/"
   weight = 20
