@@ -120,3 +120,9 @@ Daniel 11 beschreibt einen Zusammenstoß zwischen einem „König des Südens" u
 
 *Karte der Straße von Hormuz, gemeinfrei über Wikimedia Commons.*
 *Quelle: [Wikimedia Commons — Straße von Hormuz](https://commons.wikimedia.org/wiki/File:Hormuz_Strait_NASA_STS059_NARA.jpg) — NASA STS-059 Foto, US-Regierung, gemeinfrei.*
+
+---
+
+*Titelbild: NASA-Foto der Raumfähre STS-4 von der Straße von Hormuz (1982): Iran am Nordufer, die Musandam-Halbinsel Omans im Süden — der nur 34 km schmale Engpass, durch den etwa ein Drittel des weltweiten Seetransports von Öl fließt.*
+
+*Quelle: NASA, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg. NASA / Gemeinfrei*

@@ -44,3 +44,9 @@ Irán ha pasado de los drones a los misiles balísticos, una escalada significat
 ## Nota profética
 
 *"El arco de Elam quebrado" (Jeremías 49): la campaña de misiles de Irán está encontrando una defensa activa; es posible que el arco ya se esté doblando.*
+
+---
+
+*Imagen de portada: Misiles de defensa aérea iraníes iluminan el cielo nocturno sobre Teherán mientras Israel lanza sus primeros ataques durante la guerra Irán-Israel, junio de 2025.*
+
+*Fuente: Seyed Mostafa Tehrani / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Air_Defense_Activity_Against_Hostile_Targets_in_the_Skies_of_Tehran_1_Tasnim.jpg. CC BY 4.0*

@@ -46,3 +46,9 @@ Una semana después, ninguna de las partes está cediendo. Irán ha rechazado la
 ## Nota profética
 
 *Siete días después — y el Carnero aún no ha sido quebrantado. Pero sus patas están temblando. Daniel 8 dice que el Carnero cae por completo. Estén atentos al momento en que la capacidad ofensiva de Irán colapse.*
+
+---
+
+*Imagen de portada: Mapa aéreo anotado de los ataques aéreos israelíes sobre la Instalación Nuclear de Natanz de Irán durante la Operación Rising Lion (junio de 2025), con las zonas de impacto de las bombas antibúnker GBU-28 que atacaron las salas subterráneas de enriquecimiento de uranio.*
+
+*Fuente: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Israeli_Airstrikes_on_the_Natanz_Nuclear_Facility_during_Operation_Rising_Lion.png. CC BY-SA 2.0*

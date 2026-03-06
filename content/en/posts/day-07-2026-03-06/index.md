@@ -90,3 +90,9 @@ Day 7 checks: Middle East war (✓), American domestic division (War Powers vote
 The entire prophetic architecture across traditions — Daniel, Ezekiel, Revelation, Duduman, Gruver — points toward a common pattern: a Middle East war that exhausts Western attention, followed by a second blow from a direction no one is watching. Russia. The Suwalki Gap. The oceans.
 
 *Damascus still stands. The Euphrates corridor is open. The clay is cracking. The Ram has not yet fallen. The Goat's great horn is still unbroken. Every day now is a day inside the prophetic sequence.*
+
+---
+
+*Cover image: Annotated overhead map of Israeli airstrikes on Iran's Natanz Nuclear Facility during Operation Rising Lion (June 2025), showing GBU-28 bunker-buster bomb impact zones targeting underground uranium enrichment halls.*
+
+*Source: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Israeli_Airstrikes_on_the_Natanz_Nuclear_Facility_during_Operation_Rising_Lion.png. CC BY-SA 2.0*

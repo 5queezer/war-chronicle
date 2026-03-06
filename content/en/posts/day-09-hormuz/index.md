@@ -122,7 +122,8 @@ Day 9's battle is a naval battle. 43 ships sunk. A radar destroyed at sea. A blo
 
 ---
 
-## Cover image source
+---
 
-*Map of the Strait of Hormuz, public domain via Wikimedia Commons. Geographic context for the world's most critical maritime chokepoint.*
-*Source: [Wikimedia Commons — Strait of Hormuz](https://commons.wikimedia.org/wiki/File:Hormuz_Strait_NASA_STS059_NARA.jpg) — NASA STS-059 photograph, US Government public domain.*
+*Cover image: NASA Space Shuttle STS-4 photograph of the Strait of Hormuz (1982), showing Iran on the north shore and the Musandam Peninsula of Oman on the south — the 21-mile-wide chokepoint through which roughly a third of the world's seaborne oil transits.*
+
+*Source: NASA, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg. NASA / Public Domain*

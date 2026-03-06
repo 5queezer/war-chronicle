@@ -68,3 +68,9 @@ Daniel 2's iron-and-clay feet are already relevant on Day 1. France and Germany 
 Every great prophetic sequence in the biblical tradition starts with a specific, datable event that breaks a period of relative stability. The First Seal is opened. The first bowl is poured. The first trumpet sounds. Day 1 — February 28, 2026 — is that kind of event. Not because it is necessarily supernatural, but because it is irreversible. The war has started. The ram has been struck. The sequence that follows is not random.
 
 *The goat has charged. The ram's legs are still standing. Watch for the moment they buckle.*
+
+---
+
+*Cover image: Annotated map of Iranian ballistic missile strikes on Israel's Military Intelligence School (Camp Moshe Dayan) and Camp Glilot near Herzliya during Operation True Promise III, June 2025.*
+
+*Source: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Iranian_Airstrikes_on_the_Israeli_Military_Intelligence_School_during_Operation_True_Promise_III.png. CC BY-SA 2.0*

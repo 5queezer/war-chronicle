@@ -79,3 +79,9 @@ Daniel 11:27 is one of the most precise political observations in all of prophet
 Day 8's information war is not the cause of what happens next. It is a symptom of where we are in the sequence. Empires lie hardest when they sense the ground shifting. The propaganda intensity is itself a signal — not of strength, but of desperation on every side.
 
 *The fog of war is also a prophetic sign: when no one can see clearly, the appointed time is approaching.*
+
+---
+
+*Cover image: Pentagon Press Secretary Rear Adm. John Kirby conducts a press briefing at the Pentagon, November 4, 2014 — the same daily briefing format U.S. officials use to announce strike totals, casualty estimates, and operational updates during wartime.*
+
+*Source: Master Sgt. Adrian Cadiz / U.S. DoD, DVIDS photo ID 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. U.S. Government / Public Domain*

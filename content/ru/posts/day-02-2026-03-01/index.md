@@ -44,3 +44,9 @@ toc: true
 ## Пророческая заметка
 
 *"Лук Елама сокрушен" (Иеремия 49) — ракетная кампания Ирана встречает активную оборону; лук, возможно, уже гнется.*
+
+---
+
+*Обложка: Иранские зенитные ракеты озаряют ночное небо над Тегераном в начале израильских ударов — ирано-израильская война, июнь 2025 г.*
+
+*Источник: Сейед Мостафа Тегерани / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Air_Defense_Activity_Against_Hostile_Targets_in_the_Skies_of_Tehran_1_Tasnim.jpg. CC BY 4.0*

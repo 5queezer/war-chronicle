@@ -118,6 +118,50 @@ defaultContentLanguage = "en"
       logoHomeLink = "/ru/"
 
 
+  [languages.fa]
+    languageName = "FA"
+    weight = 5
+    contentDir = "content/fa"
+    title = "وقایع‌نگار جنگ ۲۰۲۶"
+    subtitle = "ایران / آمریکا / اسرائیل — گزارش روزانه"
+    keywords = "ایران, آمریکا, اسرائیل, جنگ, پیشگویی"
+    copyright = ""
+    menuMore = "بیشتر"
+    readMore = "ادامه مطلب ←"
+    readOtherPosts = "مطالب دیگر"
+    newerPosts = "جدیدتر"
+    olderPosts = "قدیمی‌تر"
+    missingContentMessage = "یافت نشد."
+    missingBackButtonLabel = "بازگشت"
+    minuteReadingTime = "دقیقه مطالعه"
+    words = "کلمات"
+    TocTitle = "فهرست مطالب"
+    [languages.fa.params.logo]
+      logoText = "وقایع‌نگار جنگ"
+      logoHomeLink = "/fa/"
+
+  [languages.ar]
+    languageName = "AR"
+    weight = 6
+    contentDir = "content/ar"
+    title = "سجل الحرب ٢٠٢٦"
+    subtitle = "إيران / الولايات المتحدة / إسرائيل — تقرير يومي"
+    keywords = "إيران, أمريكا, إسرائيل, حرب, نبوءة"
+    copyright = ""
+    menuMore = "المزيد"
+    readMore = "اقرأ المزيد ←"
+    readOtherPosts = "مقالات أخرى"
+    newerPosts = "أحدث"
+    olderPosts = "أقدم"
+    missingContentMessage = "غير موجود."
+    missingBackButtonLabel = "عودة"
+    minuteReadingTime = "دقيقة قراءة"
+    words = "كلمات"
+    TocTitle = "جدول المحتويات"
+    [languages.ar.params.logo]
+      logoText = "سجل الحرب"
+      logoHomeLink = "/ar/"
+
 [[languages.en.menu.main]]
   identifier = "prophecy"
   name = "Prophecy"
@@ -141,3 +185,13 @@ defaultContentLanguage = "en"
   name = "Пророчество"
   url = "/ru/prophecy/"
   weight = 20
+
+[[languages.fa.menu.main]]
+  name = "پیشگویی"
+  url = "/fa/prophecy/"
+  weight = 1
+
+[[languages.ar.menu.main]]
+  name = "النبوءة"
+  url = "/ar/prophecy/"
+  weight = 1

@@ -79,3 +79,9 @@ Daniel 11,27 ist eine der präzisesten politischen Beobachtungen in der gesamten
 Der Informationskrieg von Tag 8 ist nicht die Ursache dessen, was als nächstes geschieht. Er ist ein Symptom dafür, wo wir in der Sequenz stehen. Imperien lügen am stärksten, wenn sie spüren, dass sich der Boden verschiebt. Die Propaganda-Intensität ist selbst ein Signal — nicht von Stärke, sondern von Verzweiflung auf allen Seiten.
 
 *Der Nebel des Krieges ist auch ein prophetisches Zeichen: Wenn niemand klar sehen kann, nähert sich die festgesetzte Zeit.*
+
+---
+
+*Titelbild: Pressesprecher des Pentagon, Konteradmiral John Kirby, beim täglichen Pressebriefing im Pentagon, 4. November 2014 — dasselbe Briefing-Format, mit dem US-Sprecher Angriffszahlen, Opferschätzungen und operative Updates bekannt geben.*
+
+*Quelle: Master Sgt. Adrian Cadiz / US-Verteidigungsministerium, DVIDS Foto-ID 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. US-Regierung / Gemeinfrei*

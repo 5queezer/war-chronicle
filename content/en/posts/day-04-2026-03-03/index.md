@@ -45,3 +45,9 @@ The war has crossed into Lebanon. Israel is dealing with Iran and Hezbollah simu
 ## Prophetic note
 
 *Isaiah 17 hangs over every Israeli air campaign heading north — Damascus has not fallen yet, but Beirut burns.*
+
+---
+
+*Cover image: Pro-Palestinian demonstrators at a nighttime rally in Greece, carrying banners reading "Freedom to Palestine" in Greek — one of the global solidarity protests triggered by the war's rising civilian toll.*
+
+*Source: Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Pro-Palestinian_demonstrations. CC BY-SA 4.0*

@@ -44,3 +44,9 @@ Der Krieg hat nun die See erreicht. Die Versenkung eines Kriegsschiffes ist ein 
 ## Prophetische Notiz
 
 *Wenn das Schiff des Jägers versenkt wird, wird der Jäger zum Gejagten – Persiens Seemacht beginnt zu brechen.*
+
+---
+
+*Titelbild: Ein US-Kriegsschiff patrouilliert neben einem kleineren Fahrzeug im Persischen Golf während des Tankerkriegs (1987-1988) — das letzte Mal vor diesem Krieg, dass die US-Marine iranische Seestreitkräfte direkt bekämpfte.*
+
+*Quelle: U.S. Navy / Nationalarchiv (NARA), über Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Operation_Earnest_Will. US-Regierung / Gemeinfrei*

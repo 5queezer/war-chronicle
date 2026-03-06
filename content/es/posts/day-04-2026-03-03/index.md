@@ -45,3 +45,9 @@ La guerra se ha extendido al Líbano. Israel se enfrenta a Irán y a Hezbolá si
 ## Nota profética
 
 *Isaías 17 se cierne sobre cada campaña aérea israelí hacia el norte: Damasco aún no ha caído, pero Beirut arde.*
+
+---
+
+*Imagen de portada: Manifestantes propalestinos en una concentración nocturna en Grecia con pancartas que dicen "Libertad para Palestina" en griego — una de las protestas de solidaridad internacional provocadas por el creciente número de víctimas civiles.*
+
+*Fuente: Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Pro-Palestinian_demonstrations. CC BY-SA 4.0*

@@ -46,3 +46,9 @@ Nach einer Woche weicht keine der beiden Seiten zurück. Iran hat Verhandlungen 
 ## Prophetische Anmerkung
 
 *Sieben Tage sind vergangen – und der Widder wurde noch nicht gebrochen. Aber seine Beine wackeln. Daniel 8 besagt, dass der Widder vollständig fällt. Achten Sie auf den Moment, in dem Irans Offensivkapazität zusammenbricht.*
+
+---
+
+*Titelbild: Kommentierte Übersichtskarte der israelischen Luftangriffe auf den iranischen Atomkomplex Natanz, Operation Rising Lion (Juni 2025), mit den Einschlagzonen der GBU-28-Bunkerbrecher auf unterirdische Urananreicherungsanlagen.*
+
+*Quelle: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Israeli_Airstrikes_on_the_Natanz_Nuclear_Facility_during_Operation_Rising_Lion.png. CC BY-SA 2.0*

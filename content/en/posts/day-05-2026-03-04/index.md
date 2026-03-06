@@ -47,3 +47,9 @@ Iran is burning through its missile inventory at a high rate, but it has not sto
 *"Blow after blow" — the old Bavarian seer Mühlhiasl described exactly this kind of relentless tempo once the fire starts.*
 
 *Russia's confirmed intelligence sharing with Iran — now reported by the Washington Post — is a direct fulfillment of the Ezekiel 38 alignment: Gog moving in the shadows before the formal coalition assembles. The hooks are already in the jaw.*
+
+---
+
+*Cover image: USS Santa Barbara (LCS-32), an Independence-class littoral combat ship, launches a LUCAS (Low-cost Unmanned Combat Attack System) drone from its flight deck while transiting the Arabian Gulf, December 16, 2025 — one of the U.S. Navy vessels operating in the theater.*
+
+*Source: U.S. Navy / DoD, photo ID 251216-N-NO146-1025, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:U_S_Navy_in_Middle_East_Employs_Attack_Drone_at_Sea_for_First_Time_(9450745).jpg. U.S. Government / Public Domain*

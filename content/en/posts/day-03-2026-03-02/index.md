@@ -43,3 +43,9 @@ Iran has chosen to go wide rather than deep — striking US infrastructure acros
 ## Prophetic note
 
 *When Persia is struck from outside and shaken from within simultaneously — this is the pattern described in Daniel 8.*
+
+---
+
+*Cover image: Iranian Shahed-136 loitering munitions (suicide drones) on wooden launch rails, displayed at the 44th Islamic Revolution anniversary rally in Tehran, February 2023 — the drone type Iran deployed in mass attacks on U.S. military bases.*
+
+*Source: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*

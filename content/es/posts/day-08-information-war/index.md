@@ -79,3 +79,9 @@ Daniel 11:27 es una de las observaciones políticas más precisas de toda la lit
 La guerra de la información del Día 8 no es la causa de lo que sucede después. Es un síntoma de dónde nos encontramos en la secuencia. Los imperios mienten con más intensidad cuando sienten que el terreno se mueve. La intensidad propagandística es en sí misma una señal — no de fortaleza, sino de desesperación en todos los lados.
 
 *La niebla de la guerra es también una señal profética: cuando nadie puede ver con claridad, el tiempo señalado se acerca.*
+
+---
+
+*Imagen de portada: El secretario de prensa del Pentágono, contralmirante John Kirby, ofrece una rueda de prensa en el Pentágono el 4 de noviembre de 2014 — el mismo formato de conferencia de prensa diaria que los portavoces estadounidenses usan para anunciar totales de ataques, estimaciones de bajas y actualizaciones operativas.*
+
+*Fuente: Master Sgt. Adrian Cadiz / Departamento de Defensa de EE. UU., ID de foto DVIDS 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. Gobierno de EE. UU. / Dominio público*

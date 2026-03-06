@@ -42,3 +42,9 @@ La guerra ha comenzado. Aviones estadounidenses e israelíes atacaron simultáne
 ## Nota profética
 
 *Daniel 8 describe al Carnero (Irán) siendo derribado con fuerza por el Macho Cabrío (Occidente); el Día 1 parece el golpe de apertura.*
+
+---
+
+*Imagen de portada: Mapa anotado de los ataques iraníes con misiles balísticos sobre la Escuela de Inteligencia Militar israelí (Camp Moshe Dayan) y Camp Glilot cerca de Herzliya durante la Operación True Promise III, junio de 2025.*
+
+*Fuente: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Iranian_Airstrikes_on_the_Israeli_Military_Intelligence_School_during_Operation_True_Promise_III.png. CC BY-SA 2.0*

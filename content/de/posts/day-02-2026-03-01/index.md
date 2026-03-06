@@ -44,3 +44,9 @@ Der Iran ist von Drohnen zu ballistischen Raketen übergegangen – eine erhebli
 ## Prophetische Anmerkung
 
 *"Den Bogen Elams zerbrechen" (Jeremia 49) — Irans Raketenkampagne wird mit aktiver Verteidigung beantwortet; der Bogen könnte sich bereits biegen.*
+
+---
+
+*Titelbild: Iranische Luftabwehrraketen erhellen den Nachthimmel über Teheran, während Israel seine ersten Angriffe startet — Iran-Israel-Krieg, Juni 2025.*
+
+*Quelle: Seyed Mostafa Tehrani / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Air_Defense_Activity_Against_Hostile_Targets_in_the_Skies_of_Tehran_1_Tasnim.jpg. CC BY 4.0*

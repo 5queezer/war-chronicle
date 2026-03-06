@@ -44,3 +44,9 @@ Irán ha optado por ampliar el frente en lugar de profundizarlo — atacando la 
 
 *Cuando Persia es golpeada desde fuera y sacudida desde dentro simultáneamente — este es el patrón descrito en Daniel 8.*
 ```
+
+---
+
+*Imagen de portada: Municiones merodeadoras Shahed-136 iraníes (drones suicidas) sobre rieles de lanzamiento de madera, exhibidas en el 44.° aniversario de la Revolución Islámica en Teherán, febrero de 2023 — el tipo de dron que Irán desplegó en ataques masivos contra bases militares de EE. UU.*
+
+*Fuente: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*

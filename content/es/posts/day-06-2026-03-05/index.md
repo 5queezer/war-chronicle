@@ -44,3 +44,9 @@ La guerra acaba de volverse naval. Hundir un buque de guerra es un salto cualita
 ## Nota profética
 
 *Cuando el barco del cazador se hunde, el cazador se convierte en la presa: el poder naval de Persia comienza a romperse.*
+
+---
+
+*Imagen de portada: Un buque de guerra de la Marina de EE. UU. patrulla junto a una embarcación más pequeña en el Golfo Pérsico durante la Guerra de los Petroleros (1987-1988) — la última vez antes de esta guerra que la Marina de EE. UU. combatió directamente a las fuerzas navales iraníes.*
+
+*Fuente: U.S. Navy / Archivos Nacionales (NARA), vía Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Operation_Earnest_Will. Gobierno de EE. UU. / Dominio público*

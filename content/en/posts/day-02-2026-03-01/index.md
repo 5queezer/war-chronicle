@@ -44,3 +44,9 @@ Iran has moved from drones to ballistic missiles — a significant escalation. U
 ## Prophetic note
 
 *"The bow of Elam broken" (Jeremiah 49) — Iran's missile campaign is being met with active defense; the bow may already be bending.*
+
+---
+
+*Cover image: Iranian air defense missiles light up the night sky over Tehran as Israeli strikes begin during the Iran-Israel war, June 2025.*
+
+*Source: Seyed Mostafa Tehrani / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Air_Defense_Activity_Against_Hostile_Targets_in_the_Skies_of_Tehran_1_Tasnim.jpg. CC BY 4.0*

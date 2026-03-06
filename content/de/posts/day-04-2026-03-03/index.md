@@ -45,3 +45,9 @@ Der Krieg hat auf den Libanon übergegriffen. Israel hat es gleichzeitig mit dem
 ## Prophetische Anmerkung
 
 *Jesaja 17 hängt über jedem israelischen Feldzug gen Norden – Damaskus ist noch nicht gefallen, aber Beirut brennt.*
+
+---
+
+*Titelbild: Propalästinensische Demonstranten bei einer nächtlichen Kundgebung in Griechenland mit Transparenten: Freiheit für Palästina auf Griechisch — eine der weltweiten Solidaritätsdemos angesichts der steigenden Opferzahlen im Krieg.*
+
+*Quelle: Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Pro-Palestinian_demonstrations. CC BY-SA 4.0*

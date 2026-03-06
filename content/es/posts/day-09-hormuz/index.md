@@ -120,3 +120,9 @@ Daniel 11 describe un choque entre un "rey del Sur" y un "rey del Norte" — un 
 
 *Mapa del Estrecho de Ormuz, dominio público en Wikimedia Commons.*
 *Fuente: [Wikimedia Commons — Estrecho de Ormuz](https://commons.wikimedia.org/wiki/File:Hormuz_Strait_NASA_STS059_NARA.jpg) — Fotografía NASA STS-059, dominio público del gobierno de EE.UU.*
+
+---
+
+*Imagen de portada: Fotografía del transbordador espacial STS-4 de la NASA del Estrecho de Ormuz (1982): Irán en la orilla norte y la península de Musandam de Omán en el sur — el estrecho de apenas 34 km de ancho por el que transita aproximadamente un tercio del petróleo marítimo mundial.*
+
+*Fuente: NASA, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg. NASA / Dominio público*

@@ -42,3 +42,9 @@ Der Krieg hat begonnen. US-amerikanische und israelische Flugzeuge griffen gleic
 ## Prophetische Anmerkung
 
 *Daniel 8 beschreibt den Widder (Iran), der vom Ziegenbock (der Westen) hart niedergestreckt wird — Tag 1 sieht wie der Eröffnungsschlag aus.*
+
+---
+
+*Titelbild: Kommentierte Karte der iranischen Raketenangriffe auf die Israelische Militärgeheimdienstschule (Camp Moshe Dayan) und Camp Glilot bei Herzliya, Operation True Promise III, Juni 2025.*
+
+*Quelle: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Iranian_Airstrikes_on_the_Israeli_Military_Intelligence_School_during_Operation_True_Promise_III.png. CC BY-SA 2.0*

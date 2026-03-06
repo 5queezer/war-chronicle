@@ -43,3 +43,9 @@ toc: true
 
 *В 8-й главе Даниила описывается Овен (Иран), сильно пораженный Козлом (Запад) — День 1 выглядит как первый удар.*
 ```
+
+---
+
+*Обложка: Аннотированная карта иранских ракетных ударов по Израильской военной разведывательной школе (лагерь Моше Даян) и лагерю Глилот вблизи Герцлии, операция «Истинное обещание III», июнь 2025 г.*
+
+*Источник: WeatherWriter, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Iranian_Airstrikes_on_the_Israeli_Military_Intelligence_School_during_Operation_True_Promise_III.png. CC BY-SA 2.0*
