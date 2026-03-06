@@ -113,3 +113,9 @@ defaultContentLanguage = "en"
       logoText = "ВОЕННАЯ ХРОНИКА"
       logoHomeLink = "/ru/"
 
+
+[[menu.main]]
+  identifier = "prophecy"
+  name = "Prophecy"
+  url = "/en/prophecy/"
+  weight = 20
