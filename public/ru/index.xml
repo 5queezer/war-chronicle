@@ -42,8 +42,32 @@
  &lt;/tbody>
 &lt;/table>
 &lt;h2 id="текущее-положение-дел">Текущее положение дел&lt;/h2>
-&lt;p>Спустя неделю ни одна из сторон не отступает. Иран отказался от переговоров. США сделали смену режима явной целью. Удары продолжаются с обеих сторон. Россия выжидает. Мировая экономика поглощает нефть по $125 — пока что. Следующий важный рубеж — Дамаск: если Израиль нанесет удар по Сирии, расчеты России могут измениться.&lt;/p></description></item><item><title>Пророчества и война 2026</title><link>https://war.vasudev.xyz/ru/prophecy/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://war.vasudev.xyz/ru/prophecy/</guid><description>&lt;script>window.location.href='https://war.vasudev.xyz/en/prophecy/';&lt;/script>
-&lt;p>&lt;em>&lt;a href="https://war.vasudev.xyz/en/prophecy/">→ Read in English&lt;/a>&lt;/em>&lt;/p></description></item><item><title>День 6 — США потопили иранский военный корабль в Персидском заливе</title><link>https://war.vasudev.xyz/ru/posts/day-06-2026-03-05/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://war.vasudev.xyz/ru/posts/day-06-2026-03-05/</guid><description>&lt;h2 id="что-произошло-сегодня">Что произошло сегодня&lt;/h2>
+&lt;p>Спустя неделю ни одна из сторон не отступает. Иран отказался от переговоров. США сделали смену режима явной целью. Удары продолжаются с обеих сторон. Россия выжидает. Мировая экономика поглощает нефть по $125 — пока что. Следующий важный рубеж — Дамаск: если Израиль нанесет удар по Сирии, расчеты России могут измениться.&lt;/p></description></item><item><title>Пророчества и война 2026 года</title><link>https://war.vasudev.xyz/ru/prophecy/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://war.vasudev.xyz/ru/prophecy/</guid><description>&lt;h2 id="как-читать-эту-страницу">Как читать эту страницу&lt;/h2>
+&lt;p>Это не богословская апологетика. Это структурированное сравнение: древние тексты с одной стороны, наблюдаемые события — с другой. Читатели могут делать собственные выводы. Пророческие традиции представлены с их внутренней логикой нетронутой — а их ограничения честно обозначены.&lt;/p>
+&lt;p>Война началась 28 февраля 2026 года. Тексты, процитированные ниже, были написаны от 2600 до 450 лет назад. Вы сами решаете, что это означает.&lt;/p>
+&lt;hr>
+&lt;h2 id="главная-хронология">Главная хронология&lt;/h2>
+&lt;div class="mermaid">
+graph TD
+ OT["Old Testament 600 BCE"] --> IS["Isaiah 17: Damascus"]
+ OT --> D8["Daniel 8: Ram vs Goat"]
+ OT --> D2["Daniel 2: Iron and Clay"]
+ OT --> EZ["Ezekiel 38: Gog-Magog"]
+ NT["New Testament 96 CE"] --> R16["Rev 16: Euphrates"]
+ NT --> R17["Rev 17: Babylon"]
+ MS["Modern Seers 1555-1996"] --> NOS["Nostradamus: Persian wars"]
+ MS --> DUD["Duduman 1984: America burns"]
+ WAR["2026 War"] --> D1["Feb 28: USA and Israel strike Iran"]
+ WAR --> D7["Mar 6: Iran rejects talks"]
+ D8 --> D1
+ EZ --> D1
+ style WAR fill:#8B0000,color:#fff
+ style D1 fill:#8B0000,color:#fff
+ style D7 fill:#8B0000,color:#fff
+&lt;/div>
+&lt;hr>
+&lt;h2 id="i-даниил-8--овен-и-козёл">I. Даниил 8 — Овен и Козёл&lt;/h2>
+&lt;p>&lt;em>Написано: ~550 г. до н.э. Толкование дано в самом тексте.&lt;/em>&lt;/p></description></item><item><title>День 6 — США потопили иранский военный корабль в Персидском заливе</title><link>https://war.vasudev.xyz/ru/posts/day-06-2026-03-05/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://war.vasudev.xyz/ru/posts/day-06-2026-03-05/</guid><description>&lt;h2 id="что-произошло-сегодня">Что произошло сегодня&lt;/h2>
 &lt;ul>
 &lt;li>ВМС США потопили иранский военный корабль в Персидском заливе. Это первое крупное морское сражение войны и прямая эскалация на море.&lt;/li>
 &lt;li>Правительство Ирана немедленно объявило, что за этим последует возмездие.&lt;/li>
