@@ -325,5 +325,36 @@ Beobachten und aufzeichnen.
 
 ---
 
-*Zuletzt aktualisiert: Tag 7 — 6. März 2026*
+*Zuletzt aktualisiert: Tag 9 — 7. März 2026*
 *← [Zurück zur War Chronicle](/de/)*
+
+---
+
+## XIII. Tag-9-Update — Offenbarung 18 und die Hormuz-Blockade
+
+Tag 9 brachte die bedeutendste prophetische Entwicklung seit Kriegsbeginn: Irans **selektive Seeblockade** der Straße von Hormuz — für US- und israelverlinkte Schiffe geschlossen, für neutrale Nationen offen. Dies ist keine Totalblockade; es ist die *Bewaffnung des Handels* in seiner reinsten Form.
+
+**Offenbarung 18 in Echtzeit**
+
+Offenbarung 18 beschreibt den Kollaps des Kaufmannsnetzwerks von „Babylon" — einem globalen Handelsimperium, dessen Schiffe plötzlich nicht mehr in den Hafen einlaufen können. Die Warenlisten in Versen 11-14 sind spezifisch: Getreide, Vieh, Öl, Luxusgüter und *Menschenseelen*. Die Schiffe stehen „weit entfernt" und beobachten, wie der Hafen brennt.
+
+Die Straße von Hormuz transportiert:
+- 21% des weltweit gehandelten Öls
+- 20% des globalen LNG
+- Den Handel von 18 Nationen, die an den Persischen Golf grenzen
+
+Wenn dieser Kanal gestört wird — auch selektiv — stehen die Schiffe der Erde in der Ferne. Das ist das Bild der Offenbarung 18.
+
+**Die Gog-Magog-Koalition — Stand Tag 9**
+
+US-Geheimdienste bewerteten am Tag 9, dass China möglicherweise Militärhilfe (Finanzhilfe, Ersatzteile, Raketenkomponenten) an Iran liefern könnte. Zusammen mit Russlands LNG-Pivot weg von Europa vervollständigt dies eine Drei-Knoten-Achse:
+
+- **Rosch (Russland):** Putin fordert Waffenstillstand; leitet Energieexporte in „befreundete Länder" um
+- **Persien (Iran):** Selektive Hormuz-Blockade; neuer Raketenabschuss auf Israel; Zerstörung des US-Radars
+- **Östliche Macht (China):** Bereitet Militärversorgungskette für Iran vor
+
+Hesekiel 38:2-6 nennt Persien ausdrücklich in der Gog-Koalition. Die Zusammensetzung dieser Achse ist die bedeutendste Hesekiel-38-Entwicklung in lebendiger Erinnerung.
+
+**Irlmaiers Sequenz — Schritt 1 aktiviert**
+
+Alois Irlmaiers vorhergesagte Sequenz für den Dritten Weltkrieg: *Unterbrechung des Seehandels → Wirtschaftsschock → europäische Instabilität → großer Marsch aus dem Osten.* Tag 9 aktiviert Schritt eins. Der Seehandel wird gestört. Die Sequenz ist in Bewegung.

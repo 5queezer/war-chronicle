@@ -325,5 +325,36 @@ Observar y registrar.
 
 ---
 
-*Última actualización: Día 7 — 6 de marzo de 2026*
+*Última actualización: Día 9 — 7 de marzo de 2026*
+
+---
+
+## XIII. Actualización del Día 9 — Apocalipsis 18 y el Bloqueo de Ormuz
+
+El Día 9 trajo el desarrollo profético más significativo desde el inicio de la guerra: el **bloqueo naval selectivo** de Irán del Estrecho de Ormuz — cerrado para buques vinculados a EE.UU. e Israel, abierto para naciones neutrales. No es un cierre total; es la *militarización del comercio* en su forma más pura.
+
+**Apocalipsis 18 en tiempo real**
+
+Apocalipsis 18 describe el colapso de la red mercantil de "Babilonia" — un imperio comercial global cuyos barcos de repente no pueden entrar al puerto. Las listas de mercancías en los versículos 11-14 son específicas: granos, ganado, aceite, bienes de lujo y *almas humanas*. Los barcos se quedan "lejos" observando cómo arde el puerto.
+
+El Estrecho de Ormuz transporta:
+- El 21% del petróleo comercializado globalmente
+- El 20% del GNL mundial
+- El comercio de 18 naciones que bordean el Golfo Pérsico
+
+Cuando este canal se perturba — incluso selectivamente — los barcos de la tierra se quedan a distancia. Esa es la imagen del Apocalipsis 18.
+
+**La Coalición Gog-Magog — Estado en el Día 9**
+
+La inteligencia estadounidense evaluó el Día 9 que China puede entregar ayuda militar (asistencia financiera, repuestos, componentes de misiles) a Irán. Combinado con el giro ruso del GNL lejos de Europa, esto completa un eje de tres nodos:
+
+- **Ros (Rusia):** Putin pide alto el fuego; redirige exportaciones de energía a "países amigos"
+- **Persia (Irán):** Bloqueo selectivo de Ormuz; nueva descarga de misiles sobre Israel; destrucción del radar estadounidense
+- **Potencia oriental (China):** Preparando cadena de suministro militar para Irán
+
+Ezequiel 38:2-6 nombra a Persia explícitamente en la coalición de Gog. La formación de este eje es el desarrollo más significativo de Ezequiel 38 en la memoria viva.
+
+**La Secuencia de Irlmaier — Paso 1 Activado**
+
+La secuencia predicha por Alois Irlmaier para la Tercera Guerra Mundial: *perturbación del comercio marítimo → shock económico → inestabilidad europea → gran marcha desde el Este.* El Día 9 activa el primer paso. El comercio marítimo está siendo perturbado. La secuencia está en marcha.
 *← [Volver a War Chronicle](/es/)*

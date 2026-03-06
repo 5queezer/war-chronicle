@@ -303,13 +303,15 @@ These are the specific prophetic tripwires — events that, if they occur, would
 | Tripwire | Prophecy | Status |
 |----------|----------|--------|
 | Damascus destroyed | Isaiah 17:1 | ⏳ Ticking — Israel moving north |
-| Russia enters the war | Ezekiel 38 (Gog descends) | 👀 Watching — Suwalki quiet |
-| EU breaks on Ukraine/Iran | Daniel 2:41-43 (clay cracks) | ⚡ Happening — Zelensky/Orbán |
-| Iran's missile arsenal destroyed | Jeremiah 49:35 (bow broken) | 🔄 In progress — 500+ fired |
+| Russia enters the war | Ezekiel 38 (Gog descends) | 👀 Watching — Suwalki quiet; Putin calls ceasefire |
+| EU breaks on Ukraine/Iran | Daniel 2:41-43 (clay cracks) | ⚡ Happening — Europe joins US/Israel war |
+| Iran's missile arsenal destroyed | Jeremiah 49:35 (bow broken) | 🔄 In progress — new volley on Israel (Day 9) |
 | US becomes distracted, then struck | Duduman/Gruver vision | ⚠️ Step 1-2 active |
 | Global "peace and safety" cry | 1 Thess 5:3 | ⏳ Requires ceasefire first |
 | Euphrates corridor opens fully | Revelation 16:12 | 🔄 Iraq/Syria corridor de facto open |
 | Goat's great horn broken | Daniel 8:8 | ⏳ After Iran falls — what then? |
+| Maritime trade collapses | Revelation 18:11-14 | 🔴 **ACTIVE** — Hormuz selective blockade Day 9 |
+| Gog-Magog coalition forms | Ezekiel 38:2-6 | 🔴 **ACTIVE** — Russia + Iran + China axis (Day 9) |
 
 ---
 
@@ -325,5 +327,36 @@ Watch and record.
 
 ---
 
-*Last updated: Day 7 — March 6, 2026*
+*Last updated: Day 9 — March 7, 2026*
+
+---
+
+## XIII. Day 9 Update — Revelation 18 and the Hormuz Blockade
+
+Day 9 brought the most significant prophetic development since the war began: Iran's **selective naval blockade** of the Strait of Hormuz — closing it to US- and Israel-linked ships while leaving it open for neutral nations. This is not a total closure; it is the *weaponization of commerce* in its purest form.
+
+**Revelation 18 in Real Time**
+
+Revelation 18 describes the collapse of the merchant network of "Babylon" — a global trading empire whose ships suddenly cannot enter port. The cargo lists in verses 11-14 are specific: grain, livestock, oil, luxury goods, and *human souls*. The ships stand "far off" watching the harbor burn.
+
+The Strait of Hormuz carries:
+- 21% of globally traded oil
+- 20% of global LNG
+- The commerce of 18 nations that border the Persian Gulf
+
+When this channel is disrupted — even selectively — the ships of the earth stand off. That is the image of Revelation 18.
+
+**The Gog-Magog Coalition — Day 9 Status**
+
+US intelligence assessed on Day 9 that China may deliver military aid (financial assistance, spare parts, missile components) to Iran. Combined with Russia's LNG pivot away from Europe, this completes a three-node axis:
+
+- **Rosh (Russia):** Putin calls for ceasefire; redirects energy exports to "friendly countries"
+- **Persia (Iran):** Selective Hormuz blockade; new missile volley at Israel; destroys US radar
+- **Eastern power (China):** Preparing military supply chain to Iran
+
+Ezekiel 38:2-6 names Persia explicitly in the Gog coalition. The assembly of this axis — even imperfectly, even still at the diplomatic stage — is the most significant Ezekiel 38 development in living memory.
+
+**Irlmaier's Sequence — Step 1 Activated**
+
+Alois Irlmaier's predicted sequence for World War III: *disruption of sea trade → economic shock → European instability → great march from the East.* Day 9 activates step one. The sea trade is being disrupted. The sequence is in motion.
 *← [Return to War Chronicle](/en/)*
