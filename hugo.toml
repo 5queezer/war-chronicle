@@ -1,0 +1,85 @@
+baseURL = "https://5queezer.github.io/war-chronicle/"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "War Chronicle"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowRelatedPosts = true
+  comments = true
+
+  [params.cover]
+    linkFullImages = true
+    responsiveImages = false
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    minMatchCharLength = 2
+    keys = ["title", "permalink", "summary", "content"]
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/5queezer"
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "/war-chronicle/index.xml"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
+    title = "War Chronicle 2026"
+    [languages.en.params.homeInfoParams]
+      Title = "War Chronicle 2026"
+      Content = "Daily chronicle of the Iran/USA/Israel conflict — military, geopolitical, and prophetic analysis."
+
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 2
+    contentDir = "content/de"
+    title = "Kriegschronik 2026"
+    [languages.de.params.homeInfoParams]
+      Title = "Kriegschronik 2026"
+      Content = "Tagesaktuelle Dokumentation des Iran/USA/Israel-Konflikts — militaerisch, geopolitisch und prophetisch eingeordnet."
+
+  [languages.es]
+    languageName = "Español"
+    weight = 3
+    contentDir = "content/es"
+    title = "Crónica de Guerra 2026"
+    [languages.es.params.homeInfoParams]
+      Title = "Crónica de Guerra 2026"
+      Content = "Crónica diaria del conflicto Irán/EE.UU./Israel — análisis militar, geopolítico y profético."
+
+  [languages.ru]
+    languageName = "Русский"
+    weight = 4
+    contentDir = "content/ru"
+    title = "Военная хроника 2026"
+    [languages.ru.params.homeInfoParams]
+      Title = "Военная хроника 2026"
+      Content = "Ежедневная хроника конфликта Иран/США/Израиль — военный, геополитический и пророческий анализ."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
