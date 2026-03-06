@@ -1,42 +1,25 @@
 baseURL = "https://5queezer.github.io/war-chronicle/"
-theme = "PaperMod"
+theme = "terminal"
 defaultContentLanguage = "en"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
 
 [pagination]
   pagerSize = 10
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
-  author = "War Chronicle"
-  defaultTheme = "dark"
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowToc = true
-  ShowRelatedPosts = true
-  comments = true
-
-  [params.cover]
-    linkFullImages = true
-    responsiveImages = false
-
-  [params.fuseOpts]
-    isCaseSensitive = false
-    shouldSort = true
-    minMatchCharLength = 2
-    keys = ["title", "permalink", "summary", "content"]
-
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/5queezer"
-
-[[params.socialIcons]]
-  name = "rss"
-  url = "/war-chronicle/index.xml"
+  contentTypeName = "posts"
+  themeColor = "green"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = true
+  showLanguageSelector = true
 
 [taxonomies]
   tag = "tags"
@@ -44,42 +27,101 @@ defaultContentLanguage = "en"
 
 [languages]
   [languages.en]
-    languageName = "English"
+    languageName = "EN"
     weight = 1
     contentDir = "content/en"
     title = "War Chronicle 2026"
-    [languages.en.params.homeInfoParams]
-      Title = "War Chronicle 2026"
-      Content = "Daily chronicle of the Iran/USA/Israel conflict — military, geopolitical, and prophetic analysis."
+    subtitle = "Iran / USA / Israel — Daily Intelligence Log"
+    keywords = "Iran, USA, Israel, war, prophecy"
+    copyright = ""
+    menuMore = "More"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer"
+    olderPosts = "Older"
+    missingContentMessage = "Not found."
+    missingBackButtonLabel = "Back"
+    minuteReadingTime = "min read"
+    words = "words"
+    [languages.en.params.logo]
+      logoText = "WAR-CHRONICLE"
+      logoHomeLink = "/en/"
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/en/search/"
 
   [languages.de]
-    languageName = "Deutsch"
+    languageName = "DE"
     weight = 2
     contentDir = "content/de"
     title = "Kriegschronik 2026"
-    [languages.de.params.homeInfoParams]
-      Title = "Kriegschronik 2026"
-      Content = "Tagesaktuelle Dokumentation des Iran/USA/Israel-Konflikts — militaerisch, geopolitisch und prophetisch eingeordnet."
+    subtitle = "Iran / USA / Israel — Tägliches Lagebild"
+    keywords = "Iran, USA, Israel, Krieg, Prophezeiung"
+    copyright = ""
+    menuMore = "Mehr"
+    readMore = "Weiterlesen"
+    readOtherPosts = "Andere Beiträge"
+    newerPosts = "Neuere"
+    olderPosts = "Ältere"
+    missingContentMessage = "Nicht gefunden."
+    missingBackButtonLabel = "Zurück"
+    minuteReadingTime = "Min. Lesezeit"
+    words = "Wörter"
+    [languages.de.params.logo]
+      logoText = "KRIEGSCHRONIK"
+      logoHomeLink = "/de/"
+    [[languages.de.menu.main]]
+      identifier = "search"
+      name = "Suche"
+      url = "/de/search/"
 
   [languages.es]
-    languageName = "Español"
+    languageName = "ES"
     weight = 3
     contentDir = "content/es"
     title = "Crónica de Guerra 2026"
-    [languages.es.params.homeInfoParams]
-      Title = "Crónica de Guerra 2026"
-      Content = "Crónica diaria del conflicto Irán/EE.UU./Israel — análisis militar, geopolítico y profético."
+    subtitle = "Irán / EE.UU. / Israel — Informe Diario"
+    keywords = "Iran, USA, Israel, guerra, profecía"
+    copyright = ""
+    menuMore = "Más"
+    readMore = "Leer más"
+    readOtherPosts = "Otros artículos"
+    newerPosts = "Más reciente"
+    olderPosts = "Más antiguo"
+    missingContentMessage = "No encontrado."
+    missingBackButtonLabel = "Volver"
+    minuteReadingTime = "min de lectura"
+    words = "palabras"
+    [languages.es.params.logo]
+      logoText = "CRÓNICA DE GUERRA"
+      logoHomeLink = "/es/"
+    [[languages.es.menu.main]]
+      identifier = "search"
+      name = "Búsqueda"
+      url = "/es/search/"
 
   [languages.ru]
-    languageName = "Русский"
+    languageName = "RU"
     weight = 4
     contentDir = "content/ru"
     title = "Военная хроника 2026"
-    [languages.ru.params.homeInfoParams]
-      Title = "Военная хроника 2026"
-      Content = "Ежедневная хроника конфликта Иран/США/Израиль — военный, геополитический и пророческий анализ."
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+    subtitle = "Иран / США / Израиль — Ежедневный дайджест"
+    keywords = "Иран, США, Израиль, война, пророчество"
+    copyright = ""
+    menuMore = "Ещё"
+    readMore = "Читать далее"
+    readOtherPosts = "Другие посты"
+    newerPosts = "Новее"
+    olderPosts = "Старше"
+    missingContentMessage = "Не найдено."
+    missingBackButtonLabel = "Назад"
+    minuteReadingTime = "мин чтения"
+    words = "слов"
+    [languages.ru.params.logo]
+      logoText = "ВОЕННАЯ ХРОНИКА"
+      logoHomeLink = "/ru/"
+    [[languages.ru.menu.main]]
+      identifier = "search"
+      name = "Поиск"
+      url = "/ru/search/"
