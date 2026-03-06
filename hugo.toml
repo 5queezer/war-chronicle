@@ -18,6 +18,7 @@ defaultContentLanguage = "en"
       unsafe = true
 
 [params]
+  autoCover = true
   contentTypeName = "posts"
   themeColor = "green"
   showMenuItems = 3
