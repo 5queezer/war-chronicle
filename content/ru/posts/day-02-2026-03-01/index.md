@@ -1,4 +1,3 @@
-I will check the existing Russian posts to ensure the translation follows the established conventions for tags and frontmatter.
 I will read the existing `day-02-2026-03-01.md` in the Russian directory to see if it's a placeholder or already contains content.
 I will read `content/ru/posts/day-01-2026-02-28.md` to check its structure.
 I have completed the translation and will now update the Russian blog post file with the translated content.

@@ -1,4 +1,3 @@
-I will translate the English blog post for Day 2 into German, ensuring all formatting, frontmatter, and structure are preserved while checking the existing German post for stylistic consistency.
 
 ---
 title: "Tag 02 — Iran feuert erste ballistische Raketen ab"
