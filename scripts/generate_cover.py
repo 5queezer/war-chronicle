@@ -7,7 +7,7 @@ Uses Google Gemini Imagen 3 (gemini-2.5-flash-image) for image generation.
 import os, sys, argparse, base64, re
 from pathlib import Path
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyBn-vzXBFfeeEeHy4HDN_ntyu70srIHhZc")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 DAILY_THEMES = {
     "iran": "Persian architectural silhouettes, mosque domes and minarets against a burning sky",
