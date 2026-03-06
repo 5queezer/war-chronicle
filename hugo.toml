@@ -1,4 +1,5 @@
 baseURL = "https://war.vasudev.xyz/"
+buildFuture = true
 theme = "terminal"
 defaultContentLanguage = "en"
 
