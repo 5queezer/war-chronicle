@@ -15,6 +15,14 @@ toc: true
 - Russland beobachtet weiterhin, ohne einzugreifen. Die Suwalki-Lücke (Korridor zwischen Polen und Litauen, Russlands potenzieller Eintrittspunkt nach Europa) bleibt ruhig.
 - Die Märkte spiegeln einen Krieg ohne absehbares Ende wider: Bitcoin ~$71.200 / Brent ~$125 / Gold ~$3.200.
 
+## Geheimdienstberichte & Frontmeldungen
+
+- Der iranische Außenminister Araghchi erklärte öffentlich: *„Wir haben keinen Waffenstillstand beantragt und lehnen jegliche Verhandlungen mit Amerika ab."* — eine direkte Aussage, die jeden diplomatischen Ausweg verschließt. *(Megatron)*
+- Russlands Präsident Putin führte ein Telefonat mit dem iranischen Präsidenten Peseschkian und **forderte einen sofortigen Waffenstillstand** im Nahen Osten — während US-Beamte gleichzeitig berichten, dass Russland dem Iran Geheimdienstinformationen über amerikanische Schiffs- und Flugzeugpositionen liefert. *(BRICS News / Intel Slava Z)*
+- Israels Kanal 11 berichtete, dass **Aserbaidschan möglicherweise bald auf Israels Seite in den Krieg gegen den Iran eintreten** wird — ein Szenario, auf das der Iran ausdrücklich hingewiesen und vorbereitet wurde. *(Intel Slava Z / BRICS News)*
+- Trump **forderte den US-Militär-Industriekomplex auf, die Waffen- und Munitionsproduktion zu vervierfachen** — eine auffällige Kehrtwende, nachdem er einen Tag zuvor erklärt hatte, die US-Reserven seien „praktisch unendlich". *(Intel Slava Z)*
+- Iran **zerstörte ein wichtiges US-Radarsystem im Wert von 300 Millionen Dollar**, das zur Steuerung der Raketenabwehr im Persischen Golf eingesetzt wurde. *(BRICS News)*
+
 ## Kennzahlen
 
 | Metrik | Wert |

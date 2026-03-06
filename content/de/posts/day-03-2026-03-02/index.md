@@ -15,6 +15,13 @@ toc: true
 - In Teheran brachen Proteste aus — einfache Iraner gingen gegen das Regime auf die Straße, während sich der Krieg verschärft.
 - Irans Teilblockade der Straße von Hormus hat begonnen.
 
+## Geheimdienstberichte & Frontmeldungen
+
+- Ein hochrangiger IRGC-General warnte: *„In wenigen Tagen werden US-Stützpunkte im Nahen Osten keine Möglichkeit mehr haben, sich gegen eingehende iranische Raketen und Drohnen zu verteidigen."* *(Megatron)*
+- Das **Rotana Hotel in Erbil**, Irakisch-Kurdistan, wurde von einer iranischen Drohne getroffen — ein Beleg dafür, dass der Iran bereit ist, auch zivil-nahe Infrastruktur in mehreren Ländern außerhalb der direkten Kampfzone zu treffen. *(Intel Slava Z)*
+- Katar meldete die **teilweise Wiederaufnahme des Luftverkehrs**, nachdem die iranischen Angriffe den gesamten Golfluftverkehr unterbrochen hatten. *(BRICS News)*
+- Iran schlug zusätzlich Ziele in **Irakisch-Kurdistan und dem Persischen Golf** an — und erweiterte damit sein operatives Gebiet weiter. *(Intel Slava Z)*
+
 ## Kennzahlen
 
 | Kennzahl | Wert |

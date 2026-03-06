@@ -15,6 +15,13 @@ toc: true
 - Oil hit Brent $120/barrel for the first time since the 2022 energy crisis.
 - The Strait of Hormuz remains under partial blockade.
 
+## Intelligence & Field Reports
+
+- Satellite imagery confirmed a **large fire at the Fujairah Oil Industry Zone** in the UAE, following an Iranian strike the previous day — the first confirmed Iranian strike on UAE territory, adding a new state to the conflict's geography. *(Megatron)*
+- Iran launched a **fresh wave of ballistic missiles** at Israel on Day 4, maintaining offensive tempo despite mounting losses inside Iran. *(BRICS News)*
+- European nations are moving from **passive to active support** of the US-Israeli campaign: economic, diplomatic, and limited military assistance is being provided despite official EU calls for restraint — contradicting the bloc's public neutrality. *(Uncut News)*
+- A US stealth pilot departing from Israel's **Ovda Air Base forgot to disable his transponder** and was tracked over Saudi Arabia via Flightradar24 — revealing the route of US strikes and potentially compromising operational security. *(Megatron)*
+
 ## Key numbers
 
 | Metric | Value |

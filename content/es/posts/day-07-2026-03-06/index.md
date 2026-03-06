@@ -15,6 +15,14 @@ toc: true
 - Rusia continúa observando sin actuar. El corredor de Suwalki (el corredor Polonia–Lituania, punto de entrada potencial de Rusia en Europa) permanece en calma.
 - Los mercados reflejan una guerra sin un final a la vista: Bitcoin ~$71.200 / Brent ~$125 / Oro ~$3.200.
 
+## Informes de inteligencia y campo
+
+- El ministro de Exteriores iraní Araghchi declaró públicamente: *"No hemos pedido un alto el fuego y rechazamos cualquier negociación con América."* — Una declaración directa que elimina cualquier salida diplomática. *(Megatron)*
+- El presidente ruso Putin mantuvo una llamada con el presidente iraní Pezeshkian, **pidiendo un alto el fuego inmediato** en Oriente Medio — mientras que simultáneamente, funcionarios de EE. UU. informan que Rusia está proporcionando a Irán inteligencia sobre posiciones de buques y aviones estadounidenses. *(BRICS News / Intel Slava Z)*
+- El Canal 11 de Israel informó de que **Azerbaiyán podría pronto entrar en la guerra del lado de Israel** contra Irán, con los medios israelíes fabricando ya un pretexto formal para un ataque azerbaiyano sobre Irán. *(Intel Slava Z / BRICS News)*
+- Trump **exigió al complejo militar-industrial de EE. UU. cuadruplicar la producción** de armas y municiones — una sorprendente marcha atrás después de afirmar apenas un día antes que las reservas de EE. UU. eran "prácticamente inagotables". *(Intel Slava Z)*
+- Irán **destruyó un sistema de radar clave de EE. UU. valorado en 300 millones de dólares**, utilizado para dirigir operaciones de defensa antimisiles en el Golfo. *(BRICS News)*
+
 ## Cifras clave
 
 | Métrica | Valor |

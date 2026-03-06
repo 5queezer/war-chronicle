@@ -15,6 +15,14 @@ toc: true
 - Israel griff erneut Ziele der Hisbollah in den südlichen Vororten von Beirut an.
 - Damaskus bleibt unversehrt. Syrien wurde bisher nicht hineingezogen.
 
+## Geheimdienstberichte & Frontmeldungen
+
+- Die US-Streitkräfte meldeten einen kumulativen Gesamtwert von **43 versenkten iranischen Marineschiffen** seit Kriegsbeginn — eine Zahl, die sowohl Kriegsschiffe als auch kleinere Schnellboote umfasst. *(BRICS News)*
+- Satellitenbilder zeigten **schwere Zerstörungen am US-Stützpunkt Camp Arifjan** in Kuwait nach iranischen Vergeltungsraketenangriffen. *(Intel Slava Z)*
+- Das US-Außenministerium **setzte den Betrieb der amerikanischen Botschaft in Kuwait-Stadt** aus, mit Verweis auf anhaltende Sicherheitsbedenken — eines der ersten formalen diplomatischen Opfer des Konflikts. *(Megatron)*
+- Wohlhabende Anleger ziehen **still und leise Kapital aus Dubai ab**: Mehrere Family Offices mit durchschnittlichen Vermögen von 50 Mio. $ erkundigten sich binnen einer einzigen Woche über eine Verlagerung nach Singapur oder Hongkong. *(Megatron)*
+- **Kuwait begann mit der Drosselung der Ölproduktion**, nachdem die Lagerkapazitäten für seine 2,6 Mio. Barrel/Tag-Förderung erschöpft waren — eine direkte Folge der Hormuz-Blockade. *(Megatron)*
+
 ## Kennzahlen
 
 | Metrik | Wert |

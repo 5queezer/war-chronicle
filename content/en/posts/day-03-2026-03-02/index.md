@@ -15,6 +15,13 @@ toc: true
 - Protests broke out in Tehran — ordinary Iranians taking to the streets against the regime even as the war intensifies.
 - Iran's partial blockade of the Strait of Hormuz has begun.
 
+## Intelligence & Field Reports
+
+- A senior IRGC General warned: *"Within a few days, US bases in the Middle East will have no way to defend against incoming Iranian missiles and drones."* *(Megatron)*
+- The **Rotana Hotel in Erbil**, Iraqi Kurdistan, was struck by an Iranian drone — confirming Iran's willingness to target civilian-adjacent infrastructure across multiple countries beyond the direct combat zone. *(Intel Slava Z)*
+- Qatar announced **partial resumption of air traffic**, following the Gulf-wide airspace disruption triggered by Day 3 Iranian strikes — signaling the conflict's direct impact on regional commercial aviation. *(BRICS News)*
+- Iran struck additional targets in **Iraqi Kurdistan and the Persian Gulf** on the same day, broadening its operational theater beyond Azerbaijan and Qatar. *(Intel Slava Z)*
+
 ## Key numbers
 
 | Metric | Value |

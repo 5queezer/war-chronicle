@@ -15,6 +15,13 @@ toc: true
 - El petróleo alcanzó los 120 dólares por barril de Brent por primera vez desde la crisis energética de 2022.
 - El estrecho de Ormuz permanece bajo un bloqueo parcial.
 
+## Informes de inteligencia y campo
+
+- Imágenes satelitales confirmaron un **gran incendio en la Zona Industrial Petrolera de Fujairah** en los Emiratos Árabes Unidos, tras un ataque iraní del día anterior — el primer ataque iraní confirmado en territorio emiratí. *(Megatron)*
+- Irán lanzó una **nueva oleada de misiles balísticos** contra Israel, manteniendo el ritmo ofensivo a pesar de las crecientes bajas en Irán. *(BRICS News)*
+- Las naciones europeas están pasando de un **apoyo pasivo a un apoyo activo** de la campaña de EE. UU. e Israel: se presta asistencia económica, diplomática y militar limitada, a pesar de los llamamientos oficiales de la UE a la contención. *(Uncut News)*
+- Un piloto furtivo de EE. UU. que despegó de la **base aérea israelí de Ovda olvidó apagar su transpondedor** y fue rastreado sobre Arabia Saudí mediante Flightradar24 — revelando la ruta de los ataques y comprometiendo la seguridad operativa. *(Megatron)*
+
 ## Cifras clave
 
 | Métrica | Valor |

@@ -2,7 +2,7 @@
 title: "Day 6 — US Sinks Iranian Warship in the Persian Gulf"
 date: 2026-03-05
 draft: false
-tags: ["Iran", "USA", "Israel", "War"]
+tags: ["Iran", "USA", "Israel", "War", "Kuwait", "Navy", "Economy"]
 description: "The US Navy sinks an Iranian warship in the Persian Gulf — a major naval escalation — as Trump intervenes in Iran's succession politics."
 toc: true
 ---
@@ -14,6 +14,14 @@ toc: true
 - Trump publicly rejected Khamenei's son as a potential successor to Iran's Supreme Leader — and said the US intends to have a say in who leads Iran next.
 - Israel struck Hezbollah targets in Beirut's southern suburbs again.
 - Damascus remains intact. Syria has not been drawn in yet.
+
+## Intelligence & Field Reports
+
+- The US military reported a cumulative total of **43 Iranian naval vessels sunk** since the start of the conflict — a figure encompassing both warships and smaller fast-attack craft. *(BRICS News)*
+- Satellite imagery showed **severe destruction at US Camp Arifjan** military base in Kuwait following Iranian retaliatory missile strikes — including confirmed damage to hangars and logistics infrastructure. *(Intel Slava Z)*
+- The US State Department **suspended operations at the American Embassy in Kuwait City**, citing ongoing security concerns — one of the first formal diplomatic casualties of the conflict. *(Megatron)*
+- Wealthy investors are quietly **withdrawing capital from Dubai**: multiple family offices with average holdings of $50M+ each inquired about relocating to Singapore or Hong Kong within a single week, per Reuters-cited wealth advisors. The Gulf's "safe haven" status is evaporating. *(Megatron)*
+- **Kuwait began cutting oil production** after running out of storage capacity for its 2.6 million barrels/day output — a direct consequence of the Hormuz blockade disrupting Gulf export routes. *(Megatron)*
 
 ## Key numbers
 

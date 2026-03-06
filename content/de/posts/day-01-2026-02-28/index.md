@@ -15,6 +15,12 @@ toc: true
 - Die Ölpreise stiegen innerhalb weniger Stunden nach Bestätigung der Angriffe um 8 %.
 - Bitcoin fiel um 5 %, da eine Risikoaversion die Märkte erfasste.
 
+## Geheimdienstberichte & Frontmeldungen
+
+- Trump verkündete **„Operation Epic Fury"** über ein Video auf Truth Social um 2:30 Uhr morgens Washingtoner Zeit am 28. Februar 2026 — die erste öffentliche Ankündigung der Angriffe, noch bevor die Mainstream-Medien sie bestätigten. *(Uncut News)*
+- Unabhängige Analysten weisen darauf hin, dass der Iran-Feldzug einem bekannten Muster folgt: Irak (2003), Syrien (2011), Libyen (2011), Somalia, Sudan — der Iran gilt als letzter Eintrag in einer jahrzehntelangen Reihe von US-Militäreinsätzen in der Region. *(Uncut News)*
+- Russland und China legten ihr Veto im UN-Sicherheitsrat ein und bestätigten damit öffentlich ihren Block gegen westliche Militäraktionen — eine geopolitische Ausrichtung mit direkten Folgen für die nächsten Phasen des Krieges. *(Intel Slava Z)*
+
 ## Kennzahlen
 
 | Metrik | Wert |

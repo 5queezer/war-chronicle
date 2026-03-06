@@ -15,6 +15,13 @@ toc: true
 - Irans Cyber-Einheiten starteten Angriffe gegen die israelische und US-amerikanische Energie- und Kommunikationsinfrastruktur.
 - Die Straße von Hormus bleibt offen, steht aber nun unter Spannung.
 
+## Geheimdienstberichte & Frontmeldungen
+
+- Das iranische Verteidigungsministerium behauptete am Abend, dass die US-amerikanischen und israelischen Militärverluste deutlich höher seien als öffentlich eingeräumt; Krankenwagen lieferten laufend Tote und Verwundete aus von iranischen Raketen getroffenen Gebieten — insbesondere aus US-Einrichtungen in **Bahrain**. *(Intel Slava Z)*
+- Satellitenbilder bestätigten mindestens **20 Direkttreffer** auf dem US-Luftwaffenstützpunkt Ali Al Salem in Kuwait, darunter ein Patriot-Luftabwehrsystem, Hangars und Radaranlagen. *(Megatron)*
+- Iran erklärte offiziell: *„Die Straße von Hormus ist nicht geschlossen — aber Schiffe mit US- oder Israel-Bezug werden nicht passieren dürfen."* Eine selektive Blockade, keine vollständige Schließung. *(BRICS News)*
+- Saudi-Arabien **intensivierte diplomatische Hinterkanal-Gespräche** mit dem Iran, um den Konflikt zu entschärfen — trotz öffentlicher Zurückhaltung Riyadhs. *(BRICS News)*
+
 ## Kennzahlen
 
 | Metrik | Wert |

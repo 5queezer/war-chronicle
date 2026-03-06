@@ -15,6 +15,13 @@ toc: true
 - Las unidades cibernéticas de Irán lanzaron ataques contra la infraestructura de energía y comunicaciones de Israel y Estados Unidos.
 - El estrecho de Ormuz permanece abierto pero ahora bajo tensión.
 
+## Informes de inteligencia y campo
+
+- El Ministerio de Defensa iraní afirmó al anochecer que las bajas militares de EE. UU. e Israel son significativamente más altas de lo reconocido públicamente; ambulancias trasladaban continuamente muertos y heridos desde zonas alcanzadas por misiles iraníes, especialmente instalaciones de EE. UU. en **Baréin**. *(Intel Slava Z)*
+- Imágenes satelitales confirmaron al menos **20 impactos directos** en la base aérea estadounidense Ali Al Salem en Kuwait, con un sistema de defensa antimisiles Patriot, hangares y radares presuntamente dañados. *(Megatron)*
+- Irán declaró oficialmente: *"El estrecho de Ormuz no está cerrado, pero no se permitirá el paso a barcos vinculados a EE. UU. o Israel."* Un bloqueo selectivo, no un cierre total. *(BRICS News)*
+- Arabia Saudí **intensificó conversaciones diplomáticas secretas** con Irán para intentar desactivar el conflicto, según Bloomberg — a pesar del silencio público oficial de Riad. *(BRICS News)*
+
 ## Cifras clave
 
 | Métrica | Valor |

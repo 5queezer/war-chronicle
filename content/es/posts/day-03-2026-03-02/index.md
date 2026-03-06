@@ -15,6 +15,13 @@ toc: true
 - Estallaron protestas en Teherán — iraníes de a pie saliendo a las calles contra el régimen incluso mientras la guerra se intensifica.
 - Ha comenzado el bloqueo parcial de Irán en el Estrecho de Ormuz.
 
+## Informes de inteligencia y campo
+
+- Un alto general del IRGC advirtió: *"En pocos días, las bases de EE. UU. en Oriente Medio no tendrán forma de defenderse contra los misiles y drones iraníes entrantes."* *(Megatron)*
+- El **Hotel Rotana en Erbil**, en el Kurdistán iraquí, fue alcanzado por un dron iraní — confirmando que Irán está dispuesto a atacar infraestructura adyacente a civiles en múltiples países fuera de la zona de combate directa. *(Intel Slava Z)*
+- Qatar anunció la **reanudación parcial del tráfico aéreo**, tras la interrupción del espacio aéreo en todo el Golfo causada por los ataques iraníes. *(BRICS News)*
+- Irán también golpeó objetivos adicionales en el **Kurdistán iraquí y el Golfo Pérsico**, ampliando así su teatro operativo. *(Intel Slava Z)*
+
 ## Cifras clave
 
 | Métrica | Valor |

@@ -15,6 +15,12 @@ toc: true
 - Los precios del petróleo subieron un 8% a las pocas horas de confirmarse los ataques.
 - Bitcoin cayó un 5% debido al sentimiento de aversión al riesgo que afectó a los mercados.
 
+## Informes de inteligencia y campo
+
+- Trump anunció **"Operación Epic Fury"** mediante un video publicado en Truth Social a las 2:30 AM hora de Washington el 28 de febrero de 2026 — la primera declaración pública de los ataques antes de que los medios principales los confirmaran. *(Uncut News)*
+- Analistas independientes señalan que la campaña contra Irán sigue un patrón reconocible: Irak (2003), Siria (2011), Libia (2011), Somalia, Sudán — Irán sería la última entrada en una serie de décadas de campañas militares estadounidenses en la región. *(Uncut News)*
+- Rusia y China vetaron la resolución del Consejo de Seguridad de la ONU, confirmando públicamente su bloque contra la acción militar occidental — una alineación geopolítica con implicaciones directas para las próximas fases del conflicto. *(Intel Slava Z)*
+
 ## Cifras clave
 
 | Métrica | Valor |

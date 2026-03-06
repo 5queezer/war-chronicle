@@ -15,6 +15,13 @@ toc: true
 - Iran's cyber units launched attacks against Israeli and US energy and communications infrastructure.
 - The Strait of Hormuz remains open but is now under tension.
 
+## Intelligence & Field Reports
+
+- Iran's Ministry of Defense stated in the evening that US and Israeli military casualties are significantly higher than publicly acknowledged; ambulances were continuously delivering bodies and wounded from areas hit by Iranian missiles — particularly US facilities in **Bahrain**. Iran claimed its own military losses are "significantly lower." *(Intel Slava Z)*
+- Satellite imagery confirmed at least **20 direct hits** on the US Ali Al Salem Air Base in Kuwait, with a Patriot air defense system, hangars, radars, and other military structures reportedly struck. *(Megatron)*
+- Iran officially stated: *"The Strait of Hormuz is not closed — but ships linked to the US or Israel will not be allowed to pass."* A selective blockade, not a total closure — a precise legal and military maneuver. *(BRICS News)*
+- Saudi Arabia **intensified backchannel diplomatic talks** with Iran in an effort to defuse the conflict, according to Bloomberg — despite Riyadh's official public silence. *(BRICS News)*
+
 ## Key numbers
 
 | Metric | Value |

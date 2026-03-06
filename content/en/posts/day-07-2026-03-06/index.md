@@ -2,7 +2,7 @@
 title: "Day 7 — Iran Rejects All Talks; Trump Eyes Iran's Next Leader"
 date: 2026-03-06
 draft: false
-tags: ["Iran", "USA", "Israel", "War"]
+tags: ["Iran", "USA", "Israel", "War", "Russia", "Azerbaijan", "Ceasefire"]
 description: "Iran's foreign minister slams the door on any ceasefire as Bitcoin sits at $71K, oil at $125, and gold at $3,200."
 toc: true
 ---
@@ -14,6 +14,14 @@ toc: true
 - Trump reiterated his intention to personally have a say in who becomes Iran's next Supreme Leader — a direct statement of regime change as a war goal.
 - Russia continues to observe without acting. The Suwalki Gap (Poland–Lithuania corridor, Russia's potential entry point into Europe) remains quiet.
 - Markets reflect a war with no end in sight: Bitcoin ~$71,200 / Brent ~$125 / Gold ~$3,200.
+
+## Intelligence & Field Reports
+
+- Iranian FM Araghchi confirmed publicly: *"We haven't asked for a ceasefire and we reject any negotiations with America."* — A direct statement eliminating any diplomatic off-ramp. *(Megatron)*
+- Russian President Putin held a call with Iranian President Pezeshkian, **calling for an immediate ceasefire** in the Middle East — while simultaneously, US officials report Russia is providing Iran with intelligence on American warship and aircraft positions. *(BRICS News / Intel Slava Z)*
+- Israel's Channel 11 reported that **Azerbaijan may soon enter the war on Israel's side**, with Israeli media fabricating a formal pretext for an Azerbaijani attack on Iran. Iran was specifically warned to prepare for this scenario. *(Intel Slava Z / BRICS News)*
+- Trump **demanded the US military-industrial complex quadruple weapons and ammunition production** — a striking reversal after claiming just one day earlier that US reserves were "practically endless." *(Intel Slava Z)*
+- Iran **destroyed a key $300 million US radar** system used to direct missile defense operations in the Gulf — a significant degradation of America's defensive architecture in the theater. *(BRICS News)*
 
 ## Key numbers
 
