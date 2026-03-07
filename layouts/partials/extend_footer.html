@@ -1,3 +1,40 @@
+<!-- GLightbox — image zoom for post images -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Wrap unwrapped <img> tags in the post content with lightbox anchors
+  document.querySelectorAll('.post-content img, article img').forEach(function (img) {
+    if (img.closest('a')) return; // already linked
+    if (img.closest('.mermaid')) return; // mermaid has its own zoom
+    var a = document.createElement('a');
+    a.href = img.src;
+    a.className = 'glightbox';
+    a.setAttribute('data-title', img.alt || '');
+    img.parentNode.insertBefore(a, img);
+    a.appendChild(img);
+  });
+  if (typeof GLightbox !== 'undefined') {
+    GLightbox({ touchNavigation: true, loop: false, zoomable: true });
+  }
+});
+</script>
+<style>
+/* Post images — full width, zoom cursor */
+.post-content img, article img {
+  max-width: 100%;
+  width: 100%;
+  cursor: zoom-in;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+  display: block;
+  margin: 1rem 0;
+}
+.post-content img:hover, article img:hover {
+  opacity: 0.88;
+}
+</style>
+
 <script>
 document.querySelectorAll('.menu__trigger').forEach(function(trigger) {
   trigger.addEventListener('click', function(e) {
