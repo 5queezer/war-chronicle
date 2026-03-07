@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{{ $lang := $.Site.Language.Lang }}
+{{ $rtlLangs := slice "fa" "ar" "he" "ur" }}
+{{ $isRTL := in $rtlLangs $lang }}
+<html lang="{{ $.Site.Language }}"{{ if $isRTL }} dir="rtl"{{ end }}>
+<head>
+  {{ block "title" . }}
+    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
+  {{ end }}
+  {{ partial "head.html" . }}
+  {{ if $isRTL }}
+  <style>
+    body { font-family: 'Tahoma', 'Arial', sans-serif; }
+    .post-content { text-align: right; }
+    .post-title { text-align: right; }
+    .post-meta { text-align: right; }
+    table { text-align: right; }
+    blockquote { border-right: 3px solid; border-left: none; padding-right: 1em; padding-left: 0; }
+    .menu__inner { flex-direction: row-reverse; }
+    .logo__mark { margin-left: 0.5em; margin-right: 0; }
+  </style>
+  {{ end }}
+</head>
+<body>
+{{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond ($.Site.Params.CenterTheme | default false) "container center" "container") }}
+
+<div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default false) " headings--one-size" "" }}">
+
+  {{ partial "header.html" . }}
+
+  <div class="content">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
+
+  {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+  {{ end }}
+</div>
+
+</body>
+</html>
