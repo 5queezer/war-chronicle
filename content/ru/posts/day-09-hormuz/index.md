@@ -121,6 +121,8 @@ toc: true
 *Карта Ормузского пролива, общественное достояние через Wikimedia Commons.*
 *Источник: [Wikimedia Commons — Ормузский пролив](https://commons.wikimedia.org/wiki/File:Hormuz_Strait_NASA_STS059_NARA.jpg) — Фото NASA STS-059, общественное достояние правительства США.*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 ---
 
 *Обложка: Фотография Пролива Ормуз с борта космического шаттла STS-4 (1982 г.): Иран — на северном берегу, полуостров Мусандам (Оман) — на южном. Этот 34-километровый пролив — стратегический маршрут, через который проходит около трети мирового морского нефтяного транзита.*

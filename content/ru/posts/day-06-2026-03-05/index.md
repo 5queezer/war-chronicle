@@ -51,6 +51,8 @@ toc: true
 
 *Источник: ВМС США / Национальный архив (NARA), через Wikimedia Commons — https://commons.wikimedia.org/wiki/Category:Operation_Earnest_Will. Правительство США / общественное достояние*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 ---
 
 ## Источники

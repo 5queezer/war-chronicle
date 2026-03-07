@@ -50,6 +50,8 @@ Iran hat sich dafür entschieden, eher in die Breite als in die Tiefe zu gehen �
 
 *Quelle: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 ---
 
 ## Quellen

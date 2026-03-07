@@ -52,6 +52,8 @@ toc: true
 
 *Источник: ВМС США / Министерство обороны, фото ID 251216-N-NO146-1025, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:U_S_Navy_in_Middle_East_Employs_Attack_Drone_at_Sea_for_First_Time_(9450745).jpg. Правительство США / общественное достояние*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 ---
 
 ## Источники

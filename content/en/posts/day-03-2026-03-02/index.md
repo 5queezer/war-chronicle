@@ -50,6 +50,8 @@ Iran has chosen to go wide rather than deep — striking US infrastructure acros
 
 *Source: Meghdad Madadi / Tasnim News Agency, Wikimedia Commons — https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg. CC BY 4.0*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 ---
 
 ## Sources
