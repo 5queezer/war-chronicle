@@ -9,79 +9,327 @@ toc: true
 
 ## مقدمه
 
-این صفحه یک استدلال الهیاتی نیست. این یک *چارچوب برای تشخیص الگو* است.
+این صفحه یک استدلال الهیاتی نیست. بلکه یک *چارچوب برای تشخیص الگوها* است.
 
-تمدن‌های باستان — در میان فرهنگ‌ها، قاره‌ها و قرن‌ها — سنت‌های نبوی را توسعه دادند که پایان یک عصر و تولد عصری دیگر را توصیف می‌کردند. آن سنت‌ها از زبان‌های مختلف، کیهان‌شناسی‌های مختلف و شخصیت‌های مختلف استفاده می‌کنند. اما آن‌ها بر روی یک ساختار همگرا می‌شوند: هرج‌ومرج فزاینده، یک جنگ بزرگ، فروپاشی اخلاقی و در نهایت دگرگونی.
+تمدن‌های باستان — در میان فرهنگ‌ها، قاره‌ها و قرن‌های مختلف — سنت‌های پیشگویانه‌ای را توسعه دادند که پایان یک عصر و تولد عصری دیگر را توصیف می‌کردند. آن سنت‌ها از زبان‌های متفاوت، کیهان‌شناسی‌های متفاوت و شخصیت‌های متفاوت استفاده می‌کنند. اما آن‌ها بر روی یک ساختار همگرا می‌شوند: هرج‌ومرج فزاینده، یک جنگ بزرگ، فروپاشی اخلاقی و در نهایت دگرگونی.
 
-جنگی که در February 28, 2026 آغاز شد، در عرض نه روز بیش از آنچه اکثر مورخان در یک دهه انتظار دارند، تله‌های نبوی بیشتری را فعال کرده است. ما آن‌ها را در اینجا مستند می‌کنیم — نه برای اینکه ادعا کنیم پایان نزدیک است، بلکه به این دلیل که *الگوها واقعی هستند و پیوندها شایسته بررسی صادقانه می‌باشند.*
+جنگی که در February 28, 2026 آغاز شد، در عرض نه روز بیش از آنچه اکثر مورخان در یک دهه انتظار داشتند، تله‌های انفجاری پیشگویانه را فعال کرده است. ما آن‌ها را در اینجا مستند می‌کنیم — نه برای اینکه ادعا کنیم پایان نزدیک است، بلکه به این دلیل که *الگوها واقعی هستند و پیوندها شایسته بررسی صادقانه می‌باشند.*
 
-هر نسلی در بحران، خود را در این متون دیده است. ما صراحتاً به این هشدار اشاره می‌کنیم و با این حال ادامه می‌دهیم.
+هر نسلی که در بحران بوده، خود را در این متون دیده است. ما صراحتاً به این هشدار اشاره می‌کنیم و با این حال ادامه می‌دهیم.
 
 ---
 
 ## I. سنت ابراهیمی
 
-### نبوت کتاب‌مقدسی
+### پیشگویی‌های کتاب مقدس
 
-#### [Daniel 8](https://www.biblegateway.com/passage/?search=Daniel+8&version=ESV) — قوچ و بز نر
+#### [Daniel 8](https://www.biblegateway.com/passage/?search=Daniel+8&version=ESV) — قو و بز نر
 
-*نوشته شده در: حدود 550 BCE. به طور غیرمعمولی، متن تفسیر خود را ارائه می‌دهد.*
+*نگاشته شده: حدود ۵۵۰ BCE. به شکلی غیرمعمول، متن تفسیر خود را ارائه می‌دهد.*
 
-> *«قوچی که دیدی و دارای دو شاخ بود — آن‌ها پادشاهان Media و Persia هستند. و بز نر، پادشاهی Greece است. شاخ بزرگی که بین چشمان اوست، اولین پادشاه است.»*
+> *"قوچی که دیدی و دارای دو شاخ بود، پادشاهان Media و Persia هستند. و بز نر، پادشاهی Greece است. شاخ بزرگی که میان چشمان اوست، اولین پادشاه است."*
 > — [Daniel 8:20–21](https://www.biblegateway.com/passage/?search=Daniel+8%3A20-21&version=ESV)
 
-**رؤیا:** Daniel یک قوچ را در رودخانه Ulai (نزدیک Ahvaz امروزی،
+**رؤیا:** Daniel قوچی را در کنار رودخانه Ulai (نزدیک Ahvaz امروزی، جنوب غربی Iran) می‌بیند که به سمت غرب، شمال و جنوب یورش می‌برد. هیچ‌چیز نمی‌تواند در برابر آن ایستادگی کند. سپس یک بز نر از غرب می‌آید، چنان سریع حرکت می‌کند که پاهایش زمین را لمس نمی‌کنند. یک شاخ بزرگ میان چشمانش است. با خشم به قوچ حمله می‌کند، هر دو شاخ او را می‌شکند و او را زیر پا له می‌کند.
 
-## II. غیب‌گویان اروپایی
+**انطباق با ۲۰۲۶:**
 
-### Alois Irlmaier (~1950, Bavaria)
+| متن | تفسیر |
+|------|----------------|
+| قوچ با دو شاخ | Iran — ساختار قدرت دوگانه رهبر معظم (Khamenei) + IRGC |
+| یورش قوچ به تمام جهات | گسترش پیش از جنگ Iran: Lebanon، Syria، Yemen، Iraq |
+| بز نر از غرب | ائتلاف USA + Israel — کارزار هوایی ("پاهایی که زمین را لمس نمی‌کنند") |
+| شاخ بزرگ بز نر | فرماندهی واحد: Trump + Netanyahu |
+| حمله بز نر "با خشم قدرت" | Feb 28, 2026: ضربه آغازین هماهنگ‌شده |
 
-[Alois Irlmaier](https://www.prophetischeworte.de/alois-irlmaier/) یک غیب‌گوی Bavaria بود که در سال‌های پس از جنگ، رؤیاهای مفصلی از یک World War III قریب‌الوقوع ارائه داد. او حوادث را با جزئیات جغرافیایی غیرمعمولی توصیف کرد — از جمله جزئیات در سطح خیابان از جابجایی تانک‌ها در Bavaria. گزارش‌های او از دهه ۱۹۵۰ در اسناد German-language حفظ شده است.
+**وضعیت روز ۹:** پاهای قوچ در حال لرزیدن است — بیش از ۵۰۰ موشک بالستیک شلیک شده، کشتی جنگی غرق شده، پدافندهای هوایی تضعیف شده‌اند — اما IRGC همچنان پرتاب می‌کند. [Daniel 8:7](https://www.biblegateway.com/passage/?search=Daniel+8%3A7&version=ESV) می‌گوید قوچ *به زمین افکنده شده و پایمال می‌شود.* آن لحظه در حال نزدیک شدن است اما هنوز فرا نرسیده است.
 
-**توالی سه مرحله‌ای او:**
+**آنچه پس از آن رخ می‌دهد:** شاخ بزرگ در اوج قدرت خود شکسته می‌شود. چهار شاخ برمی‌خیزند. سپس یک "شاخ کوچک" پدیدار می‌شود — شخصیتی که اکثر مفسران نبوت‌ها او را به عنوان آخرین حاکم جهان شناسایی می‌کنند. فروپاشی ائتلاف غرب پس از پیروزی، از هم‌اکنون قابل مشاهده است.
 
-> *«ابتدا، تجارت مختل می‌شود. کشتی‌ها دیگر نمی‌توانند عبور کنند. سپس مرگ بزرگ فرا می‌رسد. و بعد، سکوت ناگهانی.»*
+#### [Daniel 11:40](https://www.biblegateway.com/passage/?search=Daniel+11%3A40&version=ESV) — کشتی‌ها در جنگ آخرالزمان
 
-**مرحله ۱ — اختلال در تجارت:** ✅ **اکنون فعال** (March 6, 2026)
-محاصره انتخابی Hormuz. تغییر مسیر کشتی‌ها. اختلال در ۲۱٪ از عرضه جهانی نفت. عبارت «کشتی‌ها دیگر نمی‌توانند عبور کنند» از Alois Irlmaier، دقیق‌ترین تصویر از این وضعیت است.
+> *"در زمان پایان، پادشاه South به او حمله خواهد کرد؛ و پادشاه North مانند گردبادی با ارابه‌ها، سواران و با کشتی‌های بسیار علیه او خواهد آمد."*
+> — [Daniel 11:40](https://www.biblegateway.com/passage/?search=Daniel+11%3A40&version=ESV)
 
-**مرحله ۲ — جنگ بزرگ:** ⏳ در انتظار
-Alois Irlmaier یک حمله برق‌آسای ناگهانی به Western Europe از سمت شرق را توصیف کرد — نیروهای Russian که از شکافی در دفاع‌های NATO عبور می‌کنند. Suwalki Gap (بین Belarus و Kaliningrad) تا Day 9 آرام است. اما او گفت که این اتفاق هفته‌ها پس از اختلال در تجارت رخ می‌دهد، نه سال‌ها بعد.
-
-**مرحله ۳ — سکوت ناگهانی:** ⏳ در انتظار
-توقف ناگهانی جنگ — نه یک صلح مذاکره شده، بلکه یک توقف ناگهانی، گویی چیزی مداخله کرده است.
-
-**آنچه او درباره عامل محرک گفت:**
-> *«همه چیز با نزاع بین ملت بزرگ و کوچک شروع می‌شود. سپس قدرت زرد درگیر می‌شود و چهار قدرت بزرگ با یکدیگر در جنگ خواهند بود.»*
-
-ملت کوچک = Israel؟ ملت بزرگ = USA؟ «قدرت زرد» = ورود China. این توالی قابل شناسایی است.
+نبرد دریایی در Strait of Hormuz، در Day 6 (March 6, 2026): US Navy یک کشتی جنگی Iranian را غرق می‌کند. چندین گروه ضربت ناو هواپیمابر در Persian Gulf و Red Sea مستقر می‌شوند. «کشتی‌های بسیارِ» Daniel 11:40 مستقر شده‌اند.
 
 ---
 
+#### [Daniel 11:27](https://www.biblegateway.com/passage/?search=Daniel+11%3A27&version=ESV) — پادشاهان بر سر یک میز دروغ می‌گویند
+
+> *"دل‌های هر دو پادشاه متمایل به شرارت خواهد بود و بر سر یک میز دروغ خواهند گفت؛ اما موفقیتی حاصل نخواهد شد."*
+> — [Daniel 11:27](https://www.biblegateway.com/passage/?search=Daniel+11%3A27&version=ESV)
+
+مذاکرات آتش‌بس Day 7. Iran علناً گفتگوها را رد می‌کند. US به حملات خود ادامه می‌دهد. همه طرف‌ها به‌طور همزمان بیانیه‌های متناقض صادر می‌کنند. جنگ تبلیغاتی — که روزانه در Chronicle مستند می‌شود — تحقق عینی «دروغ گفتن بر سر یک میز» است.
+
+---
+
+#### [Ezekiel 38](https://www.biblegateway.com/passage/?search=Ezekiel+38&version=ESV) — ائتلاف Gog و Magog
+
+*نوشته شده: ~590 BCE. تهاجم ائتلافی به Israel در "سال‌های پایانی".*
+
+> *"تو از مکان خود از دوردست‌های شمال خواهی آمد، تو و مردمان بسیاری همراه تو... ارتشی عظیم. تو علیه قوم من Israel مانند ابری خواهی آمد تا زمین را بپوشانی."*
+> — [Ezekiel 38:15–16](https://www.biblegateway.com/passage/?search=Ezekiel+38%3A15-16&version=ESV)
+
+**ائتلاف نام‌برده شده در متن:**
+
+| نام Ezekiel 38 | هویت باستانی | کاربرد مدرن |
+|-----------------|-----------------|-------------------|
+| Gog از Magog | شاهزاده Rosh | Russia |
+| Meshech و Tubal | Anatolia مرکزی | Turkey |
+| **Persia** | Iran | **Iran — صراحتاً نام‌برده شده** |
+| Cush | Africa شرقی | Sudan/Ethiopia |
+| Put | Africa شمالی | Libya |
+| Gomer + Beth-togarmah | مناطق شمالی | Asia مرکزی/Caucasus |
+
+**وضعیت Day 9:** Persia (Iran) تنها ملت Ezekiel
+
+#### [Jeremiah 49:34–39](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A34-39&version=ESV) — کمان Elam
+
+> *"اینک، من کمان Elam را خواهم شکست، که سرآغاز قدرت آن‌هاست. بر علیه Elam چهار باد را از چهار گوشه آسمان خواهم آورد، و آن‌ها را به سوی تمام آن بادها پراکنده خواهم کرد."*
+> — [Jeremiah 49:35–36](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A35-36&version=ESV)
+
+**Elam** = جنوب غربی Iran — استان مدرن Khuzestan، قلب موشک‌های بالستیک Iran. "شکستن کمان" = نابودی توانمندی موشکی. "چهار باد از چهار گوشه" = بسته‌های تهاجمی چندجانبه US/Israeli که به طور همزمان از Red Sea، Persian Gulf، Mediterranean و مواضع زمینی به Iran ضربه می‌زنند.
+
+تا Day 9: ذخایر در حال اتمام، پرتابگرها هدف قرار گرفته، زیرساخت‌ها تضعیف شده‌اند. کمان در حال خم شدن است.
+
+---
+
+#### [Jeremiah 8:8](https://www.biblegateway.com/passage/?search=Jeremiah+8%3A8&version=ESV) — قلم دروغ‌زن کاتبان
+
+> *"چگونه می‌توانید بگویید: 'ما حکیم هستیم و شریعت خداوند با ماست'؟ اما اینک، قلم دروغ‌زن کاتبان آن را به دروغ بدل کرده است."*
+> — [Jeremiah 8:8](https://www.biblegateway.com/passage/?search=Jeremiah+8%3A8&version=ESV)
+
+جنگ اطلاعاتی به مثابه نبوت. هر روزِ این درگیری، رقابتی میان روایت‌ها بوده است. تصاویر تولید شده توسط هوش مصنوعی. اطلاعاتی که به صورت گزینشی منتشر شده‌اند. رسانه‌های دولتی در تمامی طرف‌ها. «قلم دروغ‌زن کاتبان» اکنون یک الگوریتم دروغ‌گو است. این الگو همچنان پابرجاست.
+
+---
+
+#### [Revelation 18](https://www.biblegateway.com/passage/?search=Revelation+18&version=ESV) — فروپاشی تجارت دریایی
+
+> *"و هر ناخدا، تمام کسانی که با کشتی سفر می‌کنند، ملوانان و همه کسانی که در دریا تجارت می‌کنند، در فاصله‌ای دور ایستادند و هنگامی که دود سوختن او را دیدند، فریاد برآوردند."*
+> — [Revelation 18:17–18](https://www.biblegateway.com/passage/?search=Revelation+18%3A17-18&version=ESV)
+
+**فعال‌سازی Day 9:** محاصره دریایی گزینشی Strait of Hormuz توسط Iran — بستن مسیر بر روی کشتیرانی مرتبط با US و Israel در حالی که آن را برای کشورهای بی‌طرف باز می‌گذارد. این Strait حامل ۲۱٪ نفت معامله‌شده در سطح جهان و ۲۰٪ LNG جهانی است. جمله «کشتی‌های تجاری در فاصله‌ای دور می‌ایستند» معنایی تحت‌اللفظی دارد.
+
+فهرست‌های محموله در [Revelation 18:11–14](https://www.biblegateway.com/passage/?search=Revelation+18%3A11-14&version=ESV) — غلات، نفت، کالاهای لوکس — همان کالاهایی هستند که دچار اختلال شده‌اند. کشتی‌ها در حال تغییر مسیر به اطراف Cape of Good Hope هستند که ۱۰–۱۴ روز زمان و بیش از ۲ میلیون دلار هزینه به هر سفر اضافه می‌کند.
+
+---
+
+#### [Revelation 16:13](https://www.biblegateway.com/passage/?search=Revelation+16%3A13&version=ESV) — سه روح ناپاک
+
+> *"و دیدم سه روح ناپاک شبیه قورباغه که از دهان dragon، از دهان beast، و از دهان false prophet خارج می‌شدند."*
+> — [Revelation 16:13](https://www.biblegateway.com/passage/?search=Revelation+16%3A13&version=ESV)
+
+سه منبع پروپاگاندا: رسانه‌های دولتی، ضد-اطلاعات نظامی، و روایت‌های ایدئولوژیک/مذهبی. هر سه با حداکثر شدت در این درگیری در حال فعالیت هستند. هر طرف — US، Iran، Israel، Russia، China — در حال اجرای یک کمپین اطلاعاتی است که «واقعیتی» را که جمعیت‌هایشان در آن ساکن هستند، شکل می‌دهد.
+
+---
+
+### سنت‌های آخرالزمانی اسلامی
+
+#### نشانه‌های روز قیامت
+
+فرجام‌شناسی کلاسیک اسلامی ([Sahih Muslim](https://sunnah.com/muslim)، [Sahih Bukhari](https://sunnah.com/bukhari)) نشانه‌های بزرگی را پیش از «ساعت» شناسایی می‌کند. در میان مواردی که در 2026 بیش از همه مورد بحث قرار گرفته‌اند:
+
+- **جنگ‌های بزرگ میان ملت‌های قدرتمند** — در جریان
+- **راستگویی کمیاب و دروغگویی عادی‌سازی می‌شود** — جنگ اطلاعاتی
+- **رهبرانی که به وعده خود عمل نمی‌کنند** — تمام طرف‌های درگیر در منازعه
+- **Euphrates کوهی از طلا را آشکار می‌کند** (استعاره حدیثی: [Sahih Muslim 2894](https://sunnah.com/muslim:2894)) — جنگ‌های منابع در منطقه
+
+#### Al-Malhama Al-Kubra — نبرد بزرگ
+
+از [Sahih Muslim](https://sunnah.com/muslim) و [Sunan Abu Dawud](https://sunnah.com/abudawud):
+
+> *"The Hour فرا نخواهد رسید تا زمانی که Romans با Muslims در al-Amaq یا Dabiq بجنگند. سپاهی از بهترین مردم روی زمین از Medina خارج خواهند شد."*
+
+Al-Malhama Al-Kubra — "نبرد بزرگ" فرجام‌شناسانه — رویارویی میان جهان Islamic و یک قدرت بزرگ غربی است که پیش از ظهور Mahdi رخ می‌دهد. چارچوب ایدئولوژیک IRGC به‌طور صریح Axis of Resistance را به عنوان یک جنبش مقدماتی برای بازگشت Mahdi ترسیم می‌کند. این یک اعتقاد مذهبی صادقانه است که تصمیمات نظامی عملیاتی را شکل می‌دهد.
+
+#### نشانه‌های ظهور Mahdi (سنت شیعه)
+
+| نشانه | وضعیت (March 2026) |
+|------|---------------------|
+| جنگ بزرگ در Levant | ✅ در جریان |
+| خروج Sufyani (شخصیت جنگ‌سالار سوری) | ✅ هرج‌ومرج پس از Assad |
+| ظهور Yamani (شخصیت رهبر یمنی) | ✅ فعالیت Houthis |
+| حرکت سپاه Khorasan به سمت Jerusalem | ⏳ جزئی: Axis of Resistance |
+| نشانه بزرگ آسمانی یا لرزه‌ای | ⏳ در انتظار |
+| بازگشایی کامل کریدور Euphrates | 🔄 De facto از طریق Iraq باز است |
+
+---
+
+## II. پیشگویان اروپایی
+
+### Alois Irlmaier (~1950, Bavaria)
+
+[Alois Irlmaier](https://www.prophetischeworte.de/alois-irlmaier/) یک ردیاب آب در Bavaria بود که در سال‌های پس از جنگ، رویاهای دقیقی از یک World War III آینده ارائه داد. او وقایع را با دقت جغرافیایی غیرمعمولی توصیف کرد — از جمله جزئیات در سطح خیابان از جابجایی تانک‌ها در Bavaria. گزارش او از دهه 1950 در اسناد German-language نگهداری شده است.
+
+**توالی سه مرحله‌ای او:**
+
+> *"ابتدا، تجارت مختل می‌شود. کشتی‌ها دیگر نمی‌توانند عبور کنند. سپس مرگ‌ومیر بزرگ فرا می‌رسد. سپس سکوت ناگهانی."*
+
+**مرحله ۱ — تجارت مختل شده:** ✅ **اکنون فعال** (March 6, 2026)
+محاصره انتخابی Hormuz. تغییر مسیر کشتی‌ها. ۲۱٪ از عرضه جهانی نفت مختل شده است. عبارت "کشتی‌ها دیگر نمی‌توانند عبور کنند" از Irlmaier، تصویر دقیقی است.
+
+**مرحله ۲ — جنگ بزرگ:** ⏳ در انتظار
+Irlmaier یک blitzkrieg ناگهانی به Western Europe از سمت شرق را توصیف کرد — نیروهای Russian که از شکافی در دفاع‌های NATO عبور می‌کنند. Suwalki Gap (بین Belarus و Kalining
+
 ### Hildegard von Bingen (1098–1179)
 
-عارف و الهیات‌شناس قرون وسطایی Rhineland. نوشته‌های نبوی او ([*Scivias*](https://www.newadvent.org/cathen/07341a.htm)، [*Liber Divinorum Operum*](https://www.newadvent.org/cathen/07341a.htm)) توصیف کرده‌اند:
+عارف و الهی‌دان قرون وسطایی Rhineland. نوشته‌های نبوی او ([*Scivias*](https://www.newadvent.org/cathen/07341a.htm)، [*Liber Divinorum Operum*](https://www.newadvent.org/cathen/07341a.htm)) توصیف کرده‌اند:
 
-**رؤیاهایی از آتش در آسمان:**
-> *«ملت بزرگی در اقیانوس که مس
+**رؤیاهایی از آتش از آسمان:**
+> *"ملتی بزرگ در اقیانوس که مردمی از قبایل و تبار گوناگون در آن ساکن هستند، بر اثر زمین‌لرزه، طوفان و امواج جزر و مدی ویران خواهد شد. آن ملت تقسیم شده و بخش بزرگی از آن به زیر آب خواهد رفت."*
 
-## IV. جدول ماشه‌های پیشگویی
+**فروپاشی اقتصادی پیش از نوسازی:**
+> *"پیش از آنکه Comet بیاید، بسیاری از ملت‌ها، به استثنای نیکان، با فقر و قحطی درنوردیده خواهند شد."*
 
-سجلی ساختاریافته از پیشگویی‌هایی که توسط رویدادهای قابل مشاهده فعال شده‌اند:
+Hildegard همواره فاجعه مادی را به نوسازی معنوی پیوند می‌زد — نابودی نظم اقتصادی یک عصر به عنوان پیش‌شرطی برای نظمی والاتر. چه به صورت تحت‌اللفظی و چه استعاری، اختلال سال 2026 در سیستم تجارت جهانی با الگوی ساختاری او مطابقت دارد.
+
+**رؤیای او از اقتدار ازهم‌گسیخته:**
+> *"زمانی فرا می‌رسد که شاهزادگان و ملت‌ها اقتدار Pope را رد خواهند کرد. کشورهای منفرد حاکمان کلیسای خود را به Pope ترجیح خواهند داد."*
+
+ازهم‌گسیختگی نهادهای بین‌المللی — NATO، فلج شدن UN Security Council، شکاف‌های داخلی EU — بازتاب‌دهنده این رؤیا از فروپاشی نهادی است.
+
+---
+
+## III. سنت Hindu
+
+### Kali Yuga — عصر نزاع
+
+سیستم کیهان‌شناسی Hindu زمان را به چهار عصر بزرگ (*yugas*) تقسیم می‌کند. Kali Yuga — عصر کنونی — عصر نزاع، تاریکی و فروپاشی است. محاسبات سنتی Hindu آغاز آن را در زمان مرگ Krishna (تقریباً 3102 BCE) قرار می‌دهد. ما تقریباً 5,100 سال در آن هستیم.
+
+درون Kali Yuga، متون یک *الگوی مشخص* را توصیف می‌کنند — نه یک تاریخ خاص، بلکه نشانه‌ای قابل شناسایی از شرایطی که نشان‌دهنده سقوط عمیق به این عصر است.
+
+#### از [Vishnu Purana 4.24](https://www.wisdomlib.org/hinduism/book/vishnu-purana/d/doc115863.html)
+
+> *"در عصر Kali، تنها دارایی موجب رتبه و مقام خواهد بود؛ ثروت تنها منبع پارسایی خواهد بود؛ شهوت تنها پیوند میان دو جنس خواهد بود؛ دروغ تنها راه موفقیت در دعاوی حقوقی خواهد بود؛ و زنان صرفاً ابزاری برای ارضای غرایز جنسی خواهند بود."*
+
+> *"حاکمان به غاصبان اموال تبدیل خواهند شد؛ مردان خود را وقف کسب معیشت از طریق طبابت خواهند کرد؛ فردی عادل پنداشته می‌شود صرفاً به این دلیل که بدنام نیست. مردم که تاب تحمل بار سنگین تحمیل شده توسط حاکمان طماع خود را ندارند، به دره‌های کوه‌ها پناه خواهند برد."*
+
+**طنین 2026:** "حاکمان غاصب اموال می‌شوند" — رژیم‌های تحریمی که دارایی‌ها را در سراسر جهان مصادره می‌کنند. "حاکمان طماع که بر مردم بار تحمیل می‌کنند" — تورم، هزینه‌های انرژی، مالیات‌های جنگی. "مردم به دره‌ها پناه می‌برند" — بحران‌های پناهجویی در سراسر Middle East و به سمت Europe.
+
+#### از [Bhagavata Purana 12.2](https://www.wisdomlib.org/hinduism/book/srimad-bhagavatam/d/doc74623.html)
+
+> *"مردان و زنان صرفاً به دلیل جذابیت‌های ظاهری با هم زندگی خواهند کرد و موفقیت در کسب‌وکار به فریب بستگی خواهد داشت. فردی که پول نداشته باشد، ناپاک قضاوت خواهد شد و ریاکاری به عنوان فضیلت پذیرفته می‌شود."*
+
+> *"در حالی که زمین این‌گونه غرق در فساد است، ای پادشاه، هر کس از هر طبقه‌ی اجتماعی که خود را قوی‌ترین نشان دهد، قدرت سیاسی را به دست خواهد آورد."*
+
+خط آخر تکان‌دهنده‌ترین است: *"هر کس خود را قوی‌ترین نشان دهد، قدرت سیاسی را به دست خواهد آورد."* این دموکراسی مبتنی بر قانون اساسی نیست. این واقعیت سیاسی 2026 است — در Iran، در Israel، در America، در Russia. قدرت جایگزین مشروعیت به عنوان اصل حاکم شده است.
+
+---
+
+#### نشانگر کلیدی نجومی
+
+از [Bhagavata Purana 12.2](https://www.wisdomlib.org/hinduism/book/srimad-bhagavatam/d/doc74623.html):
+
+> *"زمانی که ماه، خورشید و Brihaspati (Jupiter) همزمان وارد یک منزلگاه قمری شوند، و هنگامی که صورت فلکی Tishya در افق باشد — آنگاه عصر Kali آغاز خواهد شد."*
+
+این نه به عنوان یک محاسبه تاریخ، بلکه به عنوان یک نشانگر ساختاری ارائه شده است: همگرایی نجومی به عنوان مُهر یک عصر جدید. اخترشناسان مدرن این تراز را تا حدود 3102 BCE ردیابی کرده‌اند — که با محاسبات سنتی مطابقت دارد.
+
+---
+
+### Kalki Avatar — پایان Kali Yuga
+
+[Vishnu Purana 4.24](https://www.wisdomlib.org/hinduism/book/vishnu-purana/d/doc115863.html) و [Bhagavata Purana 12.2](https://www.wisdomlib.org/hinduism/book/srimad-bhagavatam/d/doc74623.html) ظهور **Kalki** — دهمین و آخرین آواتار Vishnu — را در *پایان* Kali Yuga توصیف می‌کنند:
+
+> *"Lord Kalki در خانه برجسته‌ترین برهمن در روستای Shambhala ظاهر خواهد شد... Lord Kalki، پروردگار جهان، بر اسب تندروی خود Devadatta سوار خواهد شد و با شمشیری در دست، در سراسر زمین پرسه زده و هشت شکوه عرفانی خود را به نمایش خواهد گذاشت... او میلیون‌ها نفر از آن دزدانی را که جرأت کرده‌اند لباس پادشاهان را بپوشند، خواهد کشت."*
+
+**شباهت ساختاری در میان سنت‌ها:**
+
+| سنت | شخصیت پایان عصر | توصیف |
+|-----------|------------------|-------------|
+| Hindu | [Kalki Avatar](https://www.wisdomlib.org/hinduism/book/vishnu-purana/d/doc115863.html) | سوار بر اسب سفید می‌آید، شمشیری در دست دارد، حاکمان فاسد را نابود می‌کند |
+| Christian | بازگشت Christ ([Rev 19:11](https://www.biblegateway.com/passage/?search=Revelation+19%3A11&version=ESV)) | سوار بر اسب سفید می‌آید، ملت‌ها را داوری می‌کند |
+| Islamic | Mahdi + Isa (Jesus) | Mahdi حکومت می‌کند، Isa نزول می‌کند، Dajjal را شکست می‌دهد |
+| Jewish | Mashiach | Israel را احیا می‌کند، Temple را بازسازی می‌کند، عدالت را برقرار می‌سازد |
+
+چهار سنت. یک ساختار. این همگرایی تصادفی نیست — این یک شهود مشترک بشری است که عصر حاضر به پایان می‌رسد و عصر دیگری از طریق یک شخصیت عدالت‌گستر آغاز می‌شود.
+
+---
+
+## IV. جدول تله‌های انفجاری نبوی
+
+سوابق ساختاریافته‌ای از اینکه کدام پیشگویی‌ها توسط رویدادهای قابل مشاهده فعال شده‌اند:
 
 | پیشگویی | منبع | رویداد | وضعیت | تاریخ |
 |----------|--------|-------|--------|------|
-| Ram strikes westward | [Daniel 8:4](https://www.biblegateway.com/passage/?search=Daniel+8%3A4&version=ESV) | Iran attacks US bases; pushes into region | ✅ Active | Feb 28, 2026 |
-| Goat attacks from the west | [Daniel 8:5–7](https://www.biblegateway.com/passage/?search=Daniel+8%3A5-7&version=ESV) | US + Israel coordinated opening strike | ✅ Active | Feb 28, 2026 |
-| Ships in end-time conflict | [Daniel 11:40](https://www.biblegateway.com/passage/?search=Daniel+11%3A40&version=ESV) | Naval battle, Hormuz; warship sunk | ✅ Active | Mar 6, 2026 |
-| Kings speak lies at the table | [Daniel 11:27](https://www.biblegateway.com/passage/?search=Daniel+11%3A27&version=ESV) | All-sides propaganda; failed talks | ✅ Active | Day 7 |
-| Merchant ships stand far off | [Revelation 18:17](https://www.biblegateway.com/passage/?search=Revelation+18%3A17&version=ESV) | Hormuz selective blockade | ✅ Active | Mar 6, 2026 |
-| Global trade collapses | [Revelation 18:11–14](https://www.biblegateway.com/passage/?search=Revelation+18%3A11-14&version=ESV) | Oil/LNG disruption, rerouting | ✅ Active | Mar 6, 2026 |
-| Three unclean spirits | [Revelation 16:13](https://www.biblegateway.com/passage/?search=Revelation+16%3A13&version=ESV) | State media + mil disinfo + ideological war | ✅ Active | Ongoing |
-| Bow of Elam broken | [Jeremiah 49:35](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A35&version=ESV) | Iran's missile stockpiles degrading | 🔄 In progress | Ongoing |
-| Gog/Magog coalition forms | [Ezekiel 38:5](https://www.biblegateway.com/passage/?search=Ezekiel+38%3A5&version=ESV) | Russia–Iran–China axis assembling | 🔄 Forming | Ongoing |
-| Trade disrupted (Step 1) | [Irlmaier](https://www.prophetischeworte.de/alois-irlmaier/) | Hormuz blockade activates sequence | ✅ Active | Mar 6, 2026 |
-| Signs of Kali Yuga | [Vishnu Purana 4.24](https://www.wisdomlib.org/hinduism/book/vishnu-purana/d/doc115863.html) | Wars, corrupt rulers, strength = law | ✅ Active | Ongoing |
-| Great war between nations | [Sahih Muslim](https://sunnah.com/muslim) | Iran-USA-Israel conflict | ✅ Active | Feb 28, 2026 |
-| Rise of the Yamani | Shia eschatology | Houthis as eschatological proxy | ✅ Partial | Ongoing |
-| Iron and clay cannot bond | [Daniel 2:41–43](https://www.biblegateway.com/passage/?search=Daniel+2%3A41-43&version=ESV) | EU fracture: Orbán vs. Brussels | ✅ Active | Mar 6, 2026 |
+| قو به سمت غرب ضربه می‌زند | [Daniel 8:4](https://www.biblegateway.com/passage/?search=Daniel+8%3A4&version=ESV) | حمله Iran به پایگاه‌های US؛ پیشروی در منطقه | ✅ فعال | Feb 28, 2026 |
+| بز نر از غرب حمله می‌کند | [Daniel 8:5–7](https://www.biblegateway.com/passage/?search=Daniel+8%3A5-7&version=ESV) | حمله آغازین هماهنگ‌شده US + Israel | ✅ فعال | Feb 28, 2026 |
+| کشتی‌ها در نبرد آخرالزمان | [Daniel 11:40](https://www.biblegateway.com/passage/?search=Daniel+11%3A40&version=ESV) | نبرد دریایی، Hormuz؛ غرق شدن کشتی جنگی | ✅ فعال | Mar 6, 2026 |
+| پادشاهان بر سر میز دروغ میگویند | [Daniel 11:27](https://www.biblegateway.com/passage/?search=Daniel+11%3A27&version=ESV) | تبلیغات همه‌جانبه؛ مذاکرات شکست‌خورده | ✅ فعال | روز ۷ |
+
+## V. آنچه در ادامه باید زیر نظر داشت
+
+### محرک‌های فوری (Days 10–30)
+
+**Damascus ([Isaiah 17:1](https://www.biblegateway.com/passage/?search=Isaiah+17%3A1&version=ESV)):** قدیمی‌ترین شهر مسکونی جهان که به طور مداوم پابرجا بوده، هرگز به عنوان یک شهر نابود نشده است. هر حمله هوایی Israel که به سمت شمال و به سوی Lebanon حرکت می‌کند، بردار را به Syria نزدیک‌تر می‌سازد. اگر Israel به نیروهای Iranian مستقر در Damascus حمله کند — که از نظر نظامی منطقی و از نظر ژئوپلیتیک انفجاری است — Isaiah 17 می‌تواند ظرف چند روز محقق شود.
+
+**نقطه ورود Russia ([Ezekiel 38](https://www.biblegateway.com/passage/?search=Ezekiel+38&version=ESV)):** منطقه Suwalki Gap آرام است. اما Irlmaier گفته بود که جنگ بزرگ چند هفته پس از اختلال در تجارت رخ می‌دهد. فراخوان آتش‌بس Putin یا یک خویشتن‌داری واقعی است یا یک تاخیر استراتژیک. کریدور Kaliningrad و وضعیت Baltic Sea را زیر نظر داشته باشید.
+
+**شکست ساختاری EU ([Daniel 2:43](https://www.biblegateway.com/passage/?search=Daniel+2%3A43&version=ESV)):** شکاف Orbán–Brussels واقعی و در حال بدتر شدن است. اگر Hungary به طور رسمی هماهنگی NATO/EU را مسدود کند، آهن و گل دیگر تظاهر به پیوند نمی‌کنند. منتظر رای‌گیری‌های اضطراری Council و فعال‌سازی Article 7 باشید.
+
+**اولین حرکت نظامی China ([Ezekiel 38:5](https://www.biblegateway.com/passage/?search=Ezekiel+38%3A5&version=ESV)):** گزارش‌های اطلاعاتی US از آماده‌سازی کمک‌های نظامی Chinese برای Iran خبر می‌دهند. اولین محموله نظامی تایید شده Chinese، آستانه نبوی جدیدی را فعال خواهد کرد. جنبش‌های PLA Navy را در Indian Ocean زیر نظر بگیرید.
+
+### میان‌مدت (ماه‌های ۱–۳)
+
+- تخلیه زرادخانه موشکی Iran → تحقق [Jeremiah 49](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A34-39&version=ESV)
+- نفت به قیمت ۲۰۰+ دلار/بشکه → شتاب گرفتن فروپاشی اقتصادی [Revelation 18](https://www.biblegateway.com/passage/?search=Revelation+18&version=ESV)
+- هرگونه مذاکرات صلح با ضامن‌های قدرت‌های بزرگ → زمینه‌سازی [1 Thessalonians 5:3](https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A3&version=ESV)
+- هرج‌ومرج سیاسی Iranian پس از جنگ → [Daniel 8:8](https://www.biblegateway.com/passage/?search=Daniel+8%3A8&version=ESV) (ظهور چهار شاخ)
+
+---
+
+## VI. یادداشتی در باب تواضع در تفسیر
+
+هر نسلی که با جنگی بزرگ روبرو شده، خود را در این متون دیده است.
+
+Crusaders خود را در Daniel می‌دیدند. دشمنان Napoleon او را در Revelation می‌دیدند. هر دو جنگ جهانی کتابخانه‌هایی از تفاسیر نبوی تولید کردند — که بیشتر آن‌ها در ادعاهای خاص خود اشتباه بودند، حتی زمانی که در مورد وخامت لحظه درست می‌گفتند.
+
+آنچه سنت‌های نبوی — در تمام فرهنگ‌ها — ارائه می‌دهند، نه یک جدول زمانی دقیق، بلکه یک *دستور زبان ساختاری* برای درک بحران است: اینکه هرج‌ومرج شکلی دارد، امپراتوری‌ها در الگوهای قابل شناسایی ظهور و سقوط می‌کنند، و فروپاشی یک نظم، شرایط را برای نظمی دیگر فراهم می‌کند.
+
+اینکه آیا آن دستور زبان منشأ الهی دارد یا خرد انباشته تمدن‌هایی است که از فجایع قبلی جان سالم به در برده‌اند — انتخاب با شماست.
+
+Ram و Goat در حال جنگ هستند. گل در پاهای مجسمه در حال ترک خوردن است. کشتی‌ها دور از بندر ایستاده‌اند. Kali Yuga عمیق‌تر می‌شود.
+
+تماشا کنید و ثبت کنید.
+
+---
+
+## منابع و مراجع
+
+### متون اصلی — Bible
+
+- [Daniel 8 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Daniel+8&version=ESV)
+- [Daniel 11 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Daniel+11&version=ESV)
+- [Ezekiel 38–39 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Ezekiel+38-39&version=ESV)
+- [Jeremiah 49:34–39 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A34-39&version=ESV)
+- [Jeremiah 8:8 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Jeremiah+8%3A8&version=ESV)
+- [Isaiah 17 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Isaiah+17&version=ESV)
+- [Revelation 16:13 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Revelation+16%3A13&version=ESV)
+- [Revelation 18 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Revelation+18&version=ESV)
+- [Revelation 19:11 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=Revelation+19%3A11&version=ESV)
+- [1 Thessalonians 5:3 — Bible Gateway (ESV)](https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A3&version=ESV)
+
+### متون اصلی — Hindu
+
+- [Vishnu Purana 4.24 — Wisdom Library](https://www.wisdomlib.org/hinduism/book/vishnu-purana/d/doc115863.html)
+- [Bhagavata Purana 12.2 — Wisdom Library](https://www.wisdomlib.org/hinduism/book/srimad-bhagavatam/d/doc74623.html)
+
+### متون اصلی — اسلامی
+
+- [Sahih Muslim — sunnah.com](https://sunnah.com/muslim)
+- [Sahih Bukhari — sunnah.com](https://sunnah.com/bukhari)
+- [Sunan Abu Dawud — sunnah.com](https://sunnah.com/abudawud)
+- [Quran — quran.com](https://quran.com/)
+- [حدیث درباره Euphrates (Sahih Muslim 2894)](https://sunnah.com/muslim:2894)
+
+### پیشگویان و صاحبان مکاشفه
+
+- [Alois Irlmaier — Prophetische Worte (DE)](https://www.prophetischeworte.de/alois-irlmaier/)
+- [Hildegard von Bingen — Catholic Encyclopedia](https://www.newadvent.org/cathen/07341a.htm)
+- [Hildegard von Bingen — New Advent (Scivias)](https://www.newadvent.org/cathen/07341a.htm)
+
+---
+
+*این بخش به صورت روزانه به‌روزرسانی می‌شود. آخرین به‌روزرسانی: March 7, 2026 — Day 9.*
+
+*← [بازگشت به وقایعنگار جنگ](/fa/)*

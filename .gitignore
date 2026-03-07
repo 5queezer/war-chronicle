@@ -2,3 +2,6 @@ public/
 resources/
 .hugo_build.lock
 translate_prophecy.py
+translate_day10.py
+retranslate_day10.py
+fix_day10_frontmatter.py

@@ -86,4 +86,6 @@ X/تويتر ميدان معركة مختلف. الحسابات الموثّقة
 
 *المصدر: Master Sgt. Adrian Cadiz / وزارة الدفاع الأمريكية، DVIDS photo ID 141104-D-DT527-024 — https://www.dvidshub.net/image/1734291. حكومة الولايات المتحدة / المجال العام*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 *ظهور المعلومات المرئية لوزارة الدفاع الأمريكية (DoD) لا يعني أو يُشكّل موافقة وزارة الدفاع.*

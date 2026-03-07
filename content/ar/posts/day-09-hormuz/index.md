@@ -95,4 +95,6 @@ toc: true
 
 *المصدر: ناسا، ويكيميديا كومنز — https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg. ناسا / المجال العام*
 
+*The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.*
+
 *ظهور المعلومات المرئية لوزارة الدفاع الأمريكية (DoD) لا يعني أو يُشكّل موافقة وزارة الدفاع.*
