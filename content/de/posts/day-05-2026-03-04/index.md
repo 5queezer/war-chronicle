@@ -9,7 +9,7 @@ toc: true
 
 ## Was heute geschah
 
-- Nach fünf Tagen ist die Bilanz erschütternd: Der Iran hat über 500 ballistische Raketen abgefeuert und etwa 2.000 Drohnen gestartet. Etwa 40 % zielten auf Israel; 60 % zielten auf US-Stellungen.
+- Nach fünf Tagen ist die Bilanz erschütternd: Der Iran hat über 500 ballistische Raketen abgefeuert und etwa 2.000 Drohnen gestartet. Etwa 40 % zielten auf Israel; 60 % zielten auf US-Stellungen. *(Pentagon)*
 - Die IRGC bestätigten offiziell den Angriff auf Nachitschewan (Aserbaidschan) — das erste Mal, dass der Iran grenzüberschreitende Schläge gegen einen ehemaligen Sowjetstaat einräumte. *(IRNA)*
 - Trump postete: *"Angriffe rund um die Uhr — vom Meeresboden bis zum Weltraum und im Cyberspace."* Kein Bereich ist tabu. *(Truth Social)*
 - Bitcoin ist seit Kriegsbeginn um 15 % gefallen; Gold ist um 12 % gestiegen. *(Bloomberg)*
@@ -18,7 +18,7 @@ toc: true
 ## Geheimdienstberichte & Frontmeldungen
 
 - US-Beamte bestätigten gegenüber der Washington Post, dass **Russland dem Iran Echtzeit-Geheimdienstinformationen** über die Positionen amerikanischer Kriegsschiffe, Flugzeuge und Radarsysteme im Nahen Osten liefert — womit Russland zum indirekten Kriegsteilnehmer wird. China soll keine vergleichbare Hilfe leisten. *(Washington Post)*
-- Der **Flugzeugträger USS Abraham Lincoln zog sich** unter dem Druck iranischer Raketen und Drohnen aus dem aktiven Einsatzgebiet zurück. Irans Parlamentssprecher Mohammed Bagher Ghalibaf spottete: *„Die berühmte Braut verließ das Schlachtfeld beim ersten Aufeinandertreffen mit iranischen Raketen und Drohnen."* *(Megatron)*
+- Der **Flugzeugträger USS Abraham Lincoln zog sich** unter dem Druck iranischer Raketen und Drohnen aus dem aktiven Einsatzgebiet zurück. Irans Parlamentssprecher Mohammed Bagher Ghalibaf spottete: *„Die berühmte Braut verließ das Schlachtfeld beim ersten Aufeinandertreffen mit iranischen Raketen und Drohnen."* *(IRNA)*
 - Der IRGC-Sprecher **forderte Trump öffentlich heraus**, die US-Marine zu schicken, um Öltanker durch die Straße von Hormus zu eskortieren — ein direktes Signal, dass der Iran sich zutraut, den Schiffsverkehr zu bedrohen. *(IRNA)*
 - Irans Verteidigungsministerium kündigte an, in den kommenden Tagen **„fortschrittlichere Waffen"** einzusetzen und versprach der iranischen Bevölkerung „gute Nachrichten". *(IRNA)*
 

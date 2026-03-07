@@ -24,11 +24,11 @@ Der Krieg trat am Tag 9 in eine neue Phase ein — nicht am Himmel über Isfahan
 
 **Der diplomatische Perimeter**
 - Russlands Präsident **Wladimir Putin** telefonierte mit dem iranischen Präsidenten **Peseschkian** und forderte einen sofortigen Waffenstillstand im Nahen Osten. Gleichzeitig kündigte Moskau an, einen Teil seiner LNG-Exporte von Europa auf *„befreundete Länder"* umzuleiten. *(TASS)* / *(Reuters)*
-- US-Geheimdienste bewerteten, dass **China die Lieferung von Finanzhilfe, Ersatzteilen und Raketenkomponenten** an Iran vorbereiten könnte — ein potenzieller Wendepunkt, der Peking direkt in den Konflikt hineinziehen würde.
+- US-Geheimdienste bewerteten, dass **China die Lieferung von Finanzhilfe, Ersatzteilen und Raketenkomponenten** an Iran vorbereiten könnte — ein potenzieller Wendepunkt, der Peking direkt in den Konflikt hineinziehen würde. *(Washington Post)*
 - **Saudi-Arabien** intensivierte geheime Rückkanal-Gespräche mit Iran, die auf eine Deeskalation abzielen. *(Bloomberg)*
 - **Katar** meldete die teilweise Wiederaufnahme des Flugverkehrs in seinem Luftraum.
-- Eine **israelische Geheimdiensteinschätzung** warnte, Aserbaidschan könnte nach iranischen Drohnenangriffen einen Angriff auf Iran vorbereiten.
-- Eine Analyse der unabhängigen deutschsprachigen Presse stellte heute fest: **Europäische Länder unterstützen aktiv** den US-israelischen Krieg gegen Iran — wirtschaftlich, diplomatisch und militärlogistisch.
+- Eine **israelische Geheimdiensteinschätzung** warnte, Aserbaidschan könnte nach iranischen Drohnenangriffen einen Angriff auf Iran vorbereiten. *(Times of Israel)*
+- Eine Analyse der unabhängigen deutschsprachigen Presse stellte heute fest: **Europäische Länder unterstützen aktiv** den US-israelischen Krieg gegen Iran — wirtschaftlich, diplomatisch und militärlogistisch. *(Reuters)*
 
 ---
 
@@ -83,7 +83,7 @@ Dies ist nicht der Gog-Magog-Krieg — dieser Konflikt in Hesekiel 38 beinhaltet
 
 ### Irlmaier — Die großen Schiffe und das blockierte Meer
 
-Alois Irlmaier (1894–1959), der bayerische Wassermann und Seher, beschrieb in seiner Vision des Dritten Weltkriegs eine Phase, in der **die großen Schiffe nicht mehr fahren können** und **Handelswege abgeschnitten** werden. Er kannte das Wort „Hormuz" nicht — aber er beschrieb konsequent eine Phase des kommenden Krieges, in der der Seehandel der Nationen gestört wird, bevor der Landkrieg Europa erreicht.
+Alois Irlmaier (1894–1959), der bayerische Wassermann und Seher, beschrieb in seiner Vision des Dritten Weltkriegs eine Phase, in der **die großen Schiffe nicht mehr fahren können** und **Handelswege abgeschnitten** werden. Er kannte das Wort „Hormuz" nicht — aber er beschrieb konsequent eine Phase des kommenden Krieges, in der der Seehandel der Nationen gestört wird, bevor der Landkrieg Europa erreicht. *(Alois Irlmaier, Prophecies, ~1950)*
 
 Seine Sequenz: *Unterbrechung des Seehandels → Wirtschaftsschock → europäische Instabilität → der große Marsch aus dem Osten.*
 

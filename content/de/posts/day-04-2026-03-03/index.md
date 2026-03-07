@@ -17,7 +17,7 @@ toc: true
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Satellitenbilder bestätigten ein **großes Feuer in der Fujairah Oil Industry Zone** in den Vereinigten Arabischen Emiraten nach einem iranischen Angriff vom Vortag — der erste bestätigte iranische Angriff auf VAE-Territorium. *(Megatron)*
+- Satellitenbilder bestätigten ein **großes Feuer in der Fujairah Oil Industry Zone** in den Vereinigten Arabischen Emiraten nach einem iranischen Angriff vom Vortag — der erste bestätigte iranische Angriff auf VAE-Territorium. *(Reuters)*
 - Iran startete eine **neue Welle ballistischer Raketen** gegen Israel und hielt damit sein offensives Tempo trotz wachsender Verluste aufrecht. *(IDF Spokesperson Unit)*
 - Europäische Nationen bewegen sich von **passiver zu aktiver Unterstützung** der US-israelischen Kampagne: wirtschaftliche, diplomatische und begrenzte militärische Hilfe wird gewährt — trotz offizieller EU-Aufrufe zur Zurückhaltung.
 - Ein US-Stealth-Pilot, der vom israelischen **Luftwaffenstützpunkt Ovda abflog, vergaß seinen Transponder auszuschalten** und wurde über Saudi-Arabien via Flightradar24 geortet — was die Route der US-Angriffe und operative Sicherheit gefährdete.

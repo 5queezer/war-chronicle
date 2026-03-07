@@ -19,7 +19,7 @@ toc: true
 
 - El ministro de Exteriores iraní Araghchi declaró públicamente: *"No hemos pedido un alto el fuego y rechazamos cualquier negociación con América."* — Una declaración directa que elimina cualquier salida diplomática. *(AFP)*
 - El presidente ruso Putin mantuvo una llamada con el presidente iraní Pezeshkian, **pidiendo un alto el fuego inmediato** en Oriente Medio — mientras que simultáneamente, funcionarios de EE. UU. informan que Rusia está proporcionando a Irán inteligencia sobre posiciones de buques y aviones estadounidenses. *(TASS)*
-- El Canal 11 de Israel informó de que **Azerbaiyán podría pronto entrar en la guerra del lado de Israel** contra Irán, con los medios israelíes fabricando ya un pretexto formal para un ataque azerbaiyano sobre Irán. *(Intel Slava Z / BRICS News)*
+- El Canal 11 de Israel informó de que **Azerbaiyán podría pronto entrar en la guerra del lado de Israel** contra Irán, con los medios israelíes fabricando ya un pretexto formal para un ataque azerbaiyano sobre Irán. *(Times of Israel)*
 - Trump **exigió al complejo militar-industrial de EE. UU. cuadruplicar la producción** de armas y municiones — una sorprendente marcha atrás después de afirmar apenas un día antes que las reservas de EE. UU. eran "prácticamente inagotables". *(Reuters)*
 - Irán **destruyó un sistema de radar clave de EE. UU. valorado en 300 millones de dólares**, utilizado para dirigir operaciones de defensa antimisiles en el Golfo. *(Bloomberg)*
 

@@ -18,7 +18,7 @@ toc: true
 ## Informes de inteligencia y campo
 
 - Funcionarios de EE. UU. confirmaron al Washington Post que **Rusia está proporcionando a Irán inteligencia en tiempo real** sobre las posiciones de buques de guerra, aviones y sistemas de radar estadounidenses en Oriente Medio — convirtiendo a Rusia en participante indirecto del conflicto. China no está proporcionando asistencia similar. *(Washington Post)*
-- El **portaaviones USS Abraham Lincoln aparentemente se retiró** del teatro activo bajo la presión de misiles y drones iraníes. El presidente del Parlamento iraní, Mohammad Bagher Ghalibaf, se burló de la retirada: *"La famosa novia abandonó el campo de batalla al primer encuentro con misiles y drones iraníes."* *(Megatron)*
+- El **portaaviones USS Abraham Lincoln aparentemente se retiró** del teatro activo bajo la presión de misiles y drones iraníes. El presidente del Parlamento iraní, Mohammad Bagher Ghalibaf, se burló de la retirada: *"La famosa novia abandonó el campo de batalla al primer encuentro con misiles y drones iraníes."* *(IRNA)*
 - El portavoz del IRGC **desafió públicamente a Trump a enviar la Armada de EE. UU.** a escoltar petroleros por el estrecho de Ormuz — una señal directa de la confianza iraní en su capacidad de amenazar el tráfico marítimo. *(IRNA)*
 - El Ministerio de Defensa iraní prometió desplegar **"armas más avanzadas"** en los próximos días, prometiendo "buenas noticias" para el pueblo iraní. *(IRNA)*
 

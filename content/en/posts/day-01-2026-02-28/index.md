@@ -18,7 +18,7 @@ toc: true
 ## Intelligence & Field Reports
 
 - Trump announced **"Operation Epic Fury"** via a video posted to Truth Social at 2:30 AM Washington time on February 28, 2026 — the first public declaration of the strikes before mainstream media confirmed. *(Truth Social)*
-- Independent analysts note that the Iran campaign follows a recognizable pattern: Iraq (2003), Syria (2011), Libya (2011), Somalia, Sudan — Iran is described as the final entry in a decade-long series of US military campaigns targeting nations on a pre-existing list. *(Uncut News)*
+- Independent analysts note that the Iran campaign follows a recognizable pattern: Iraq (2003), Syria (2011), Libya (2011), Somalia, Sudan — Iran is described as the final entry in a decade-long series of US military campaigns targeting nations on a pre-existing list.
 - Russia and China vetoed the UN Security Council resolution, publicly confirming their bloc against Western military action in the region — a geopolitical alignment with direct implications for the next phase. *(Reuters)*
 
 ## Key numbers

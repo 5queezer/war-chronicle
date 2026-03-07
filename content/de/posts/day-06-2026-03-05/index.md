@@ -20,7 +20,7 @@ toc: true
 - Die US-Streitkräfte meldeten einen kumulativen Gesamtwert von **43 versenkten iranischen Marineschiffen** seit Kriegsbeginn — eine Zahl, die sowohl Kriegsschiffe als auch kleinere Schnellboote umfasst. *(Pentagon)*
 - Satellitenbilder zeigten **schwere Zerstörungen am US-Stützpunkt Camp Arifjan** in Kuwait nach iranischen Vergeltungsraketenangriffen.
 - Das US-Außenministerium **setzte den Betrieb der amerikanischen Botschaft in Kuwait-Stadt** aus, mit Verweis auf anhaltende Sicherheitsbedenken — eines der ersten formalen diplomatischen Opfer des Konflikts. *(State Department)*
-- Wohlhabende Anleger ziehen **still und leise Kapital aus Dubai ab**: Mehrere Family Offices mit durchschnittlichen Vermögen von 50 Mio. $ erkundigten sich binnen einer einzigen Woche über eine Verlagerung nach Singapur oder Hongkong. *(Megatron)*
+- Wohlhabende Anleger ziehen **still und leise Kapital aus Dubai ab**: Mehrere Family Offices mit durchschnittlichen Vermögen von 50 Mio. $ erkundigten sich binnen einer einzigen Woche über eine Verlagerung nach Singapur oder Hongkong. *(Reuters)*
 - **Kuwait begann mit der Drosselung der Ölproduktion**, nachdem die Lagerkapazitäten für seine 2,6 Mio. Barrel/Tag-Förderung erschöpft waren — eine direkte Folge der Hormuz-Blockade. *(Bloomberg)*
 
 ## Kennzahlen

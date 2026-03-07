@@ -18,7 +18,7 @@ toc: true
 ## Intelligence & Field Reports
 
 - US officials confirmed to the Washington Post that **Russia is providing Iran with real-time intelligence** on the positions of American warships, aircraft, and radar systems in the Middle East — making Russia an indirect participant in the conflict. China was not reported to be providing similar assistance. *(Washington Post)*
-- The **USS Abraham Lincoln aircraft carrier reportedly withdrew** from the active theater under pressure from Iranian missiles and drones. Iran's parliament speaker Mohammad Bagher Ghalibaf mocked the retreat: *"The famous bride left the battlefield at the first encounter with Iranian missiles and drones."* *(Megatron)*
+- The **USS Abraham Lincoln aircraft carrier reportedly withdrew** from the active theater under pressure from Iranian missiles and drones. Iran's parliament speaker Mohammad Bagher Ghalibaf mocked the retreat: *"The famous bride left the battlefield at the first encounter with Iranian missiles and drones."* *(IRNA)*
 - The IRGC spokesman publicly **dared the US to send its Navy to escort oil tankers** through the Strait of Hormuz — a direct challenge signaling Iran's confidence in its ability to threaten naval traffic. *(IRNA)*
 - Iran's Ministry of Defense vowed to deploy **"more advanced weapons"** in coming days, promising "good news" for the Iranian nation. *(IRNA)*
 

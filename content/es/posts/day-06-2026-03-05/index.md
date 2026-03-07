@@ -18,9 +18,9 @@ toc: true
 ## Informes de inteligencia y campo
 
 - El ejército de EE. UU. reportó un total acumulado de **43 buques navales iraníes hundidos** desde el inicio del conflicto — una cifra que abarca tanto buques de guerra como embarcaciones de ataque rápido más pequeñas. *(Pentagon)*
-- Imágenes satelitales mostraron **severa destrucción en la base militar estadounidense Camp Arifjan** en Kuwait tras los ataques de represalia con misiles iraníes. *(Intel Slava Z)*
+- Imágenes satelitales mostraron **severa destrucción en la base militar estadounidense Camp Arifjan** en Kuwait tras los ataques de represalia con misiles iraníes.
 - El Departamento de Estado de EE. UU. **suspendió operaciones en la Embajada americana en Kuwait City**, citando preocupaciones de seguridad persistentes. *(State Department)*
-- Inversores adinerados están **retirando silenciosamente capital de Dubái**: múltiples family offices con activos promedio de 50 millones de dólares cada uno consultaron sobre trasladarse a Singapur o Hong Kong en una sola semana, según asesores de patrimonio citados por Reuters. *(Megatron)*
+- Inversores adinerados están **retirando silenciosamente capital de Dubái**: múltiples family offices con activos promedio de 50 millones de dólares cada uno consultaron sobre trasladarse a Singapur o Hong Kong en una sola semana, según asesores de patrimonio citados por Reuters. *(Reuters)*
 - **Kuwait comenzó a recortar la producción de petróleo** al quedarse sin capacidad de almacenamiento para sus 2,6 millones de barriles/día — consecuencia directa del bloqueo de Ormuz. *(Bloomberg)*
 
 ## Cifras clave

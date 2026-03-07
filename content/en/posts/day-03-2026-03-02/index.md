@@ -17,7 +17,7 @@ toc: true
 
 ## Intelligence & Field Reports
 
-- A senior IRGC General warned: *"Within a few days, US bases in the Middle East will have no way to defend against incoming Iranian missiles and drones."* *(Megatron)*
+- A senior IRGC General warned: *"Within a few days, US bases in the Middle East will have no way to defend against incoming Iranian missiles and drones." *(IRNA)*
 - The **Rotana Hotel in Erbil**, Iraqi Kurdistan, was struck by an Iranian drone — confirming Iran's willingness to target civilian-adjacent infrastructure across multiple countries beyond the direct combat zone. *(Reuters)*
 - Qatar announced **partial resumption of air traffic**, following the Gulf-wide airspace disruption triggered by Day 3 Iranian strikes — signaling the conflict's direct impact on regional commercial aviation. *(Reuters)*
 - Iran struck additional targets in **Iraqi Kurdistan and the Persian Gulf** on the same day, broadening its operational theater beyond Azerbaijan and Qatar. *(IRNA)*

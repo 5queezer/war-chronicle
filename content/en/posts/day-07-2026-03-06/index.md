@@ -18,7 +18,7 @@ toc: true
 ## Intelligence & Field Reports
 
 - Iranian FM Araghchi confirmed publicly: *"We haven't asked for a ceasefire and we reject any negotiations with America."* — A direct statement eliminating any diplomatic off-ramp. *(AFP)*
-- Russian President Putin held a call with Iranian President Pezeshkian, **calling for an immediate ceasefire** in the Middle East — while simultaneously, US officials report Russia is providing Iran with intelligence on American warship and aircraft positions. *(BRICS News / Intel Slava Z)*
+- Russian President Putin held a call with Iranian President Pezeshkian, **calling for an immediate ceasefire** in the Middle East — while simultaneously, US officials report Russia is providing Iran with intelligence on American warship and aircraft positions. *(TASS)*
 - Israel's Channel 11 reported that **Azerbaijan may soon enter the war on Israel's side**, with Israeli media fabricating a formal pretext for an Azerbaijani attack on Iran. Iran was specifically warned to prepare for this scenario. *(Times of Israel)*
 - Trump **demanded the US military-industrial complex quadruple weapons and ammunition production** — a striking reversal after claiming just one day earlier that US reserves were "practically endless." *(Reuters)*
 - Iran **destroyed a key $300 million US radar** system used to direct missile defense operations in the Gulf — a significant degradation of America's defensive architecture in the theater. *(Bloomberg)*
