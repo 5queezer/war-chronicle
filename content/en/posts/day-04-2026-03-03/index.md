@@ -10,15 +10,15 @@ toc: true
 ## What happened today
 
 - Israel launched airstrikes on Hezbollah infrastructure in the southern suburbs of Beirut (the Dahieh district).
-- The cumulative death toll inside Iran reached at least 1,230 *(Reuters)*; Israeli losses stand at 11 *(IDF Spokesperson Unit)*; Gulf states have reported 9+ dead.
-- The US Senate voted on a War Powers Resolution to curtail the President's authority — it was rejected. The war continues with full legal backing. *(Reuters)*
-- Oil hit Brent $120/barrel for the first time since the 2022 energy crisis. *(Bloomberg)*
+- The cumulative death toll inside Iran reached at least 1,230 *([Reuters](https://www.reuters.com/world/middle-east/))*; Israeli losses stand at 11 *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*; Gulf states have reported 9+ dead.
+- The US Senate voted on a War Powers Resolution to curtail the President's authority — it was rejected. The war continues with full legal backing. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Oil hit Brent $120/barrel for the first time since the 2022 energy crisis. *([Bloomberg](https://www.bloomberg.com/))*
 - The Strait of Hormuz remains under partial blockade.
 
 ## Intelligence & Field Reports
 
-- Satellite imagery confirmed a **large fire at the Fujairah Oil Industry Zone** in the UAE, following an Iranian strike the previous day — the first confirmed Iranian strike on UAE territory, adding a new state to the conflict's geography. *(Reuters)*
-- Iran launched a **fresh wave of ballistic missiles** at Israel on Day 4, maintaining offensive tempo despite mounting losses inside Iran. *(IDF Spokesperson Unit)*
+- Satellite imagery confirmed a **large fire at the Fujairah Oil Industry Zone** in the UAE, following an Iranian strike the previous day — the first confirmed Iranian strike on UAE territory, adding a new state to the conflict's geography. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Iran launched a **fresh wave of ballistic missiles** at Israel on Day 4, maintaining offensive tempo despite mounting losses inside Iran. *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*
 - European nations are moving from **passive to active support** of the US-Israeli campaign: economic, diplomatic, and limited military assistance is being provided despite official EU calls for restraint — contradicting the bloc's public neutrality.
 - A US stealth pilot departing from Israel's **Ovda Air Base forgot to disable his transponder** and was tracked over Saudi Arabia via Flightradar24 — revealing the route of US strikes and potentially compromising operational security.
 
@@ -56,7 +56,7 @@ The war has crossed into Lebanon. Israel is dealing with Iran and Hezbollah simu
 
 ## Sources
 
-- [Reuters](https://www.reuters.com) — Cumulative Iran death toll; US Senate War Powers vote; Fujairah strike
-- [Bloomberg](https://www.bloomberg.com) — Brent crude oil price data
-- [IDF Spokesperson Unit](https://www.idf.il/en/) — Israeli casualty figures; incoming missile salvos
+- [Reuters](https://www.reuters.com/world/middle-east/) — Cumulative Iran death toll; US Senate War Powers vote; Fujairah strike
+- [Bloomberg](https://www.bloomberg.com/) — Brent crude oil price data
+- [IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/) — Israeli casualty figures; incoming missile salvos
 - Bible: *Isaiah 17* (ESV) — Prophetic note

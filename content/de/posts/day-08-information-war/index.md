@@ -10,11 +10,11 @@ toc: true
 
 ## Was heute geschah
 
-- Irans Staatssender IRIB zeigte Aufnahmen von unversehrten Zentrifugenhallen in Natanz — Bilder, die Analysten zufolge mindestens sechs Monate alt sind. *(Reuters)*
-- Die IDF-Sprecher-Einheit veröffentlichte ein 90-sekündiges Kinematographievideo mit dem Titel *"Operation Iron Verdict"*, mit orchestralem Soundtrack und hebräischen Untertiteln, direkt an 4,2 Millionen YouTube-Abonnenten gestreamt. *(IDF Spokesperson Unit)*
-- Der Pentagon-Pressesprecher verlas beim heutigen Briefing eine 340-Wörter-Erklärung, beantwortete elf Fragen und bestätigte null operative Details. Drei Journalisten verließen den Raum. *(Pentagon Press Briefing)*
+- Irans Staatssender IRIB zeigte Aufnahmen von unversehrten Zentrifugenhallen in Natanz — Bilder, die Analysten zufolge mindestens sechs Monate alt sind. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Die IDF-Sprecher-Einheit veröffentlichte ein 90-sekündiges Kinematographievideo mit dem Titel *"Operation Iron Verdict"*, mit orchestralem Soundtrack und hebräischen Untertiteln, direkt an 4,2 Millionen YouTube-Abonnenten gestreamt. *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*
+- Der Pentagon-Pressesprecher verlas beim heutigen Briefing eine 340-Wörter-Erklärung, beantwortete elf Fragen und bestätigte null operative Details. Drei Journalisten verließen den Raum. *([Pentagon Press Briefing](https://www.defense.gov/News/Transcripts/))*
 - Auf Telegram gewannen pro-iranische Kanäle innerhalb von 24 Stunden 800.000 neue Abonnenten, hauptsächlich arabischsprachige Nutzer aus dem Irak und dem Libanon.
-- X/Twitter sperrte 47 Konten, die als iranische staatlich gelenkte Einflussnetzwerke eingestuft wurden. *(Reuters)* Iranische Staatsmedien nannten die Sperrungen "digitale Aggression".
+- X/Twitter sperrte 47 Konten, die als iranische staatlich gelenkte Einflussnetzwerke eingestuft wurden. *([Reuters](https://www.reuters.com/world/middle-east/))* Iranische Staatsmedien nannten die Sperrungen "digitale Aggression".
 
 ## Die drei Narrative
 
@@ -92,7 +92,7 @@ Der Informationskrieg von Tag 8 ist nicht die Ursache dessen, was als nächstes 
 
 ## Quellen
 
-- [IDF Spokesperson Unit](https://www.idf.il/en/) — Operation Iron Verdict video
+- [IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/) — Operation Iron Verdict video
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — Daily press briefing
-- [Reuters](https://www.reuters.com) — IRIB old footage analysis; X/Twitter account suspensions
+- [Reuters](https://www.reuters.com/world/middle-east/) — IRIB old footage analysis; X/Twitter account suspensions
 - Bible: *Jeremiah 8:8* (ESV); *Revelation 16:13* (ESV); *Daniel 11:27* (ESV) — Prophetic analysis

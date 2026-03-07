@@ -10,11 +10,11 @@ toc: true
 
 ## What happened today
 
-- Iran's state broadcaster IRIB aired footage of undamaged centrifuge halls at Natanz — images analysts say are at least six months old. *(Reuters)*
-- The IDF Spokesperson Unit released a 90-second cinematic video titled *"Operation Iron Verdict"*, with orchestral soundtrack and Hebrew captions, streamed directly to 4.2 million YouTube subscribers. *(IDF Spokesperson Unit)*
-- Pentagon Press Secretary read a 340-word statement at today's briefing, took eleven questions, and confirmed zero operational details. Three journalists walked out. *(Pentagon Press Briefing)*
+- Iran's state broadcaster IRIB aired footage of undamaged centrifuge halls at Natanz — images analysts say are at least six months old. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- The IDF Spokesperson Unit released a 90-second cinematic video titled *"Operation Iron Verdict"*, with orchestral soundtrack and Hebrew captions, streamed directly to 4.2 million YouTube subscribers. *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*
+- Pentagon Press Secretary read a 340-word statement at today's briefing, took eleven questions, and confirmed zero operational details. Three journalists walked out. *([Pentagon Press Briefing](https://www.defense.gov/News/Transcripts/))*
 - On Telegram, pro-Iranian channels gained 800,000 new subscribers in 24 hours, primarily from Arabic-speaking users in Iraq and Lebanon.
-- X/Twitter suspended 47 accounts flagged as Iranian state-linked influence networks. *(Reuters)* Iranian state media called the suspensions "digital aggression."
+- X/Twitter suspended 47 accounts flagged as Iranian state-linked influence networks. *([Reuters](https://www.reuters.com/world/middle-east/))* Iranian state media called the suspensions "digital aggression."
 
 ## The Three Narratives
 
@@ -92,7 +92,7 @@ Day 8's information war is not the cause of what happens next. It is a symptom o
 
 ## Sources
 
-- [IDF Spokesperson Unit](https://www.idf.il/en/) — Operation Iron Verdict video
+- [IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/) — Operation Iron Verdict video
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — Daily press briefing
-- [Reuters](https://www.reuters.com) — IRIB old footage analysis; X/Twitter account suspensions
+- [Reuters](https://www.reuters.com/world/middle-east/) — IRIB old footage analysis; X/Twitter account suspensions
 - Bible: *Jeremiah 8:8* (ESV); *Revelation 16:13* (ESV); *Daniel 11:27* (ESV) — Prophetic analysis

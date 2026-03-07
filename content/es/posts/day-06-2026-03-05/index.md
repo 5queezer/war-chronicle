@@ -9,7 +9,7 @@ toc: true
 
 ## Qué pasó hoy
 
-- La Armada de los EE. UU. hundió un buque de guerra iraní en el golfo Pérsico. Este es el primer enfrentamiento naval importante de la guerra y una escalada directa en el mar. *(Pentagon)*
+- La Armada de los EE. UU. hundió un buque de guerra iraní en el golfo Pérsico. Este es el primer enfrentamiento naval importante de la guerra y una escalada directa en el mar. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
 - El gobierno de Irán anunció de inmediato que habría represalias.
 - Trump rechazó públicamente al hijo de Jamenei como posible sucesor del Líder Supremo de Irán, y dijo que EE. UU. tiene la intención de opinar sobre quién liderará Irán a continuación.
 - Israel volvió a atacar objetivos de Hezbolá en los suburbios del sur de Beirut.
@@ -17,11 +17,11 @@ toc: true
 
 ## Informes de inteligencia y campo
 
-- El ejército de EE. UU. reportó un total acumulado de **43 buques navales iraníes hundidos** desde el inicio del conflicto — una cifra que abarca tanto buques de guerra como embarcaciones de ataque rápido más pequeñas. *(Pentagon)*
+- El ejército de EE. UU. reportó un total acumulado de **43 buques navales iraníes hundidos** desde el inicio del conflicto — una cifra que abarca tanto buques de guerra como embarcaciones de ataque rápido más pequeñas. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
 - Imágenes satelitales mostraron **severa destrucción en la base militar estadounidense Camp Arifjan** en Kuwait tras los ataques de represalia con misiles iraníes.
-- El Departamento de Estado de EE. UU. **suspendió operaciones en la Embajada americana en Kuwait City**, citando preocupaciones de seguridad persistentes. *(State Department)*
-- Inversores adinerados están **retirando silenciosamente capital de Dubái**: múltiples family offices con activos promedio de 50 millones de dólares cada uno consultaron sobre trasladarse a Singapur o Hong Kong en una sola semana, según asesores de patrimonio citados por Reuters. *(Reuters)*
-- **Kuwait comenzó a recortar la producción de petróleo** al quedarse sin capacidad de almacenamiento para sus 2,6 millones de barriles/día — consecuencia directa del bloqueo de Ormuz. *(Bloomberg)*
+- El Departamento de Estado de EE. UU. **suspendió operaciones en la Embajada americana en Kuwait City**, citando preocupaciones de seguridad persistentes. *([State Department](https://www.state.gov/))*
+- Inversores adinerados están **retirando silenciosamente capital de Dubái**: múltiples family offices con activos promedio de 50 millones de dólares cada uno consultaron sobre trasladarse a Singapur o Hong Kong en una sola semana, según asesores de patrimonio citados por Reuters. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- **Kuwait comenzó a recortar la producción de petróleo** al quedarse sin capacidad de almacenamiento para sus 2,6 millones de barriles/día — consecuencia directa del bloqueo de Ormuz. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Cifras clave
 
@@ -58,6 +58,6 @@ La guerra acaba de volverse naval. Hundir un buque de guerra es un salto cualita
 ## Fuentes
 
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — Iranian warship sunk; cumulative 43 ships sunk
-- [State Department](https://www.state.gov) — US Embassy Kuwait City suspension
-- [Reuters](https://www.reuters.com) — Capital flight from Dubai; wealth management reporting
-- [Bloomberg](https://www.bloomberg.com) — Kuwait oil production cuts
+- [State Department](https://www.state.gov/) — US Embassy Kuwait City suspension
+- [Reuters](https://www.reuters.com/world/middle-east/) — Capital flight from Dubai; wealth management reporting
+- [Bloomberg](https://www.bloomberg.com/) — Kuwait oil production cuts

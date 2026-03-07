@@ -9,18 +9,18 @@ toc: true
 
 ## Was heute geschah
 
-- Nach fünf Tagen ist die Bilanz erschütternd: Der Iran hat über 500 ballistische Raketen abgefeuert und etwa 2.000 Drohnen gestartet. Etwa 40 % zielten auf Israel; 60 % zielten auf US-Stellungen. *(Pentagon)*
-- Die IRGC bestätigten offiziell den Angriff auf Nachitschewan (Aserbaidschan) — das erste Mal, dass der Iran grenzüberschreitende Schläge gegen einen ehemaligen Sowjetstaat einräumte. *(IRNA)*
-- Trump postete: *"Angriffe rund um die Uhr — vom Meeresboden bis zum Weltraum und im Cyberspace."* Kein Bereich ist tabu. *(Truth Social)*
-- Bitcoin ist seit Kriegsbeginn um 15 % gefallen; Gold ist um 12 % gestiegen. *(Bloomberg)*
+- Nach fünf Tagen ist die Bilanz erschütternd: Der Iran hat über 500 ballistische Raketen abgefeuert und etwa 2.000 Drohnen gestartet. Etwa 40 % zielten auf Israel; 60 % zielten auf US-Stellungen. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
+- Die IRGC bestätigten offiziell den Angriff auf Nachitschewan (Aserbaidschan) — das erste Mal, dass der Iran grenzüberschreitende Schläge gegen einen ehemaligen Sowjetstaat einräumte. *([IRNA](https://en.irna.ir/))*
+- Trump postete: *"Angriffe rund um die Uhr — vom Meeresboden bis zum Weltraum und im Cyberspace."* Kein Bereich ist tabu. *([Truth Social](https://truthsocial.com/@realDonaldTrump))*
+- Bitcoin ist seit Kriegsbeginn um 15 % gefallen; Gold ist um 12 % gestiegen. *([Bloomberg](https://www.bloomberg.com/))*
 - Die Straße von Hormus bleibt teilweise blockiert. Die Energiemärkte stehen unter anhaltendem Stress.
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- US-Beamte bestätigten gegenüber der Washington Post, dass **Russland dem Iran Echtzeit-Geheimdienstinformationen** über die Positionen amerikanischer Kriegsschiffe, Flugzeuge und Radarsysteme im Nahen Osten liefert — womit Russland zum indirekten Kriegsteilnehmer wird. China soll keine vergleichbare Hilfe leisten. *(Washington Post)*
-- Der **Flugzeugträger USS Abraham Lincoln zog sich** unter dem Druck iranischer Raketen und Drohnen aus dem aktiven Einsatzgebiet zurück. Irans Parlamentssprecher Mohammed Bagher Ghalibaf spottete: *„Die berühmte Braut verließ das Schlachtfeld beim ersten Aufeinandertreffen mit iranischen Raketen und Drohnen."* *(IRNA)*
-- Der IRGC-Sprecher **forderte Trump öffentlich heraus**, die US-Marine zu schicken, um Öltanker durch die Straße von Hormus zu eskortieren — ein direktes Signal, dass der Iran sich zutraut, den Schiffsverkehr zu bedrohen. *(IRNA)*
-- Irans Verteidigungsministerium kündigte an, in den kommenden Tagen **„fortschrittlichere Waffen"** einzusetzen und versprach der iranischen Bevölkerung „gute Nachrichten". *(IRNA)*
+- US-Beamte bestätigten gegenüber der Washington Post, dass **Russland dem Iran Echtzeit-Geheimdienstinformationen** über die Positionen amerikanischer Kriegsschiffe, Flugzeuge und Radarsysteme im Nahen Osten liefert — womit Russland zum indirekten Kriegsteilnehmer wird. China soll keine vergleichbare Hilfe leisten. *([Washington Post](https://www.washingtonpost.com/))*
+- Der **Flugzeugträger USS Abraham Lincoln zog sich** unter dem Druck iranischer Raketen und Drohnen aus dem aktiven Einsatzgebiet zurück. Irans Parlamentssprecher Mohammed Bagher Ghalibaf spottete: *„Die berühmte Braut verließ das Schlachtfeld beim ersten Aufeinandertreffen mit iranischen Raketen und Drohnen."* *([IRNA](https://en.irna.ir/))*
+- Der IRGC-Sprecher **forderte Trump öffentlich heraus**, die US-Marine zu schicken, um Öltanker durch die Straße von Hormus zu eskortieren — ein direktes Signal, dass der Iran sich zutraut, den Schiffsverkehr zu bedrohen. *([IRNA](https://en.irna.ir/))*
+- Irans Verteidigungsministerium kündigte an, in den kommenden Tagen **„fortschrittlichere Waffen"** einzusetzen und versprach der iranischen Bevölkerung „gute Nachrichten". *([IRNA](https://en.irna.ir/))*
 
 ## Kennzahlen
 
@@ -59,7 +59,7 @@ Der Iran verbraucht seine Raketenvorräte in hohem Tempo, hat aber nicht aufgeh�
 ## Quellen
 
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — Cumulative missile and drone totals
-- [IRNA](https://en.irna.ir) — IRGC Nakhchivan confirmation; Ghalibaf statement; advanced weapons pledge
-- [Washington Post](https://www.washingtonpost.com) — Russia real-time intelligence sharing with Iran
-- [Bloomberg](https://www.bloomberg.com) — Bitcoin and gold market data
+- [IRNA](https://en.irna.ir/) — IRGC Nakhchivan confirmation; Ghalibaf statement; advanced weapons pledge
+- [Washington Post](https://www.washingtonpost.com/) — Russia real-time intelligence sharing with Iran
+- [Bloomberg](https://www.bloomberg.com/) — Bitcoin and gold market data
 - [Truth Social](https://truthsocial.com/@realDonaldTrump) — Trump "24/7 strikes" declaration

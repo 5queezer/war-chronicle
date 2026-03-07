@@ -12,14 +12,14 @@ toc: true
 - Estados Unidos e Israel lanzaron ataques aéreos coordinados contra el IRGC (Guardia Revolucionaria) de Irán, sitios de almacenamiento de misiles e infraestructura nuclear.
 - Irán comenzó a movilizar fuerzas y disparó los primeros drones en respuesta; la mayoría fueron derribados.
 - El Consejo de Seguridad de la ONU celebró una sesión de emergencia pero no llegó a ningún acuerdo; Rusia y China vetaron cualquier resolución.
-- Los precios del petróleo subieron un 8% a las pocas horas de confirmarse los ataques. *(Reuters)*
-- Bitcoin cayó un 5% debido al sentimiento de aversión al riesgo que afectó a los mercados. *(Bloomberg)*
+- Los precios del petróleo subieron un 8% a las pocas horas de confirmarse los ataques. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Bitcoin cayó un 5% debido al sentimiento de aversión al riesgo que afectó a los mercados. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Informes de inteligencia y campo
 
-- Trump anunció **"Operación Epic Fury"** mediante un video publicado en Truth Social a las 2:30 AM hora de Washington el 28 de febrero de 2026 — la primera declaración pública de los ataques antes de que los medios principales los confirmaran. *(Truth Social)*
+- Trump anunció **"Operación Epic Fury"** mediante un video publicado en Truth Social a las 2:30 AM hora de Washington el 28 de febrero de 2026 — la primera declaración pública de los ataques antes de que los medios principales los confirmaran. *([Truth Social](https://truthsocial.com/@realDonaldTrump))*
 - Analistas independientes señalan que la campaña contra Irán sigue un patrón reconocible: Irak (2003), Siria (2011), Libia (2011), Somalia, Sudán — Irán sería la última entrada en una serie de décadas de campañas militares estadounidenses en la región.
-- Rusia y China vetaron la resolución del Consejo de Seguridad de la ONU, confirmando públicamente su bloque contra la acción militar occidental — una alineación geopolítica con implicaciones directas para las próximas fases del conflicto. *(Reuters)*
+- Rusia y China vetaron la resolución del Consejo de Seguridad de la ONU, confirmando públicamente su bloque contra la acción militar occidental — una alineación geopolítica con implicaciones directas para las próximas fases del conflicto. *([Reuters](https://www.reuters.com/world/middle-east/))*
 
 ## Cifras clave
 
@@ -53,7 +53,7 @@ La guerra ha comenzado. Aviones estadounidenses e israelíes atacaron simultáne
 
 ## Fuentes
 
-- [Reuters](https://www.reuters.com) — UN Security Council veto; oil price reporting
-- [Bloomberg](https://www.bloomberg.com) — Financial and market data; Bitcoin
+- [Reuters](https://www.reuters.com/world/middle-east/) — UN Security Council veto; oil price reporting
+- [Bloomberg](https://www.bloomberg.com/) — Financial and market data; Bitcoin
 - [Truth Social](https://truthsocial.com/@realDonaldTrump) — Trump's official Operation Epic Fury announcement
 - Bible: *Daniel 8:7* (ESV); *Jeremiah 49:35–36* (ESV) — Prophetic analysis

@@ -13,15 +13,15 @@ toc: true
 - Ataques de EE. UU. e Israel alcanzaron academias militares y objetivos de infraestructura dentro de Irán.
 - Trump reiteró su intención de intervenir personalmente en la elección de quién será el próximo Líder Supremo de Irán — una declaración directa de cambio de régimen como objetivo de guerra.
 - Rusia continúa observando sin actuar. El corredor de Suwalki (el corredor Polonia–Lituania, punto de entrada potencial de Rusia en Europa) permanece en calma.
-- Los mercados reflejan una guerra sin un final a la vista: Bitcoin ~$71.200 / Brent ~$125 / Oro ~$3.200. *(Bloomberg)*
+- Los mercados reflejan una guerra sin un final a la vista: Bitcoin ~$71.200 / Brent ~$125 / Oro ~$3.200. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Informes de inteligencia y campo
 
-- El ministro de Exteriores iraní Araghchi declaró públicamente: *"No hemos pedido un alto el fuego y rechazamos cualquier negociación con América."* — Una declaración directa que elimina cualquier salida diplomática. *(AFP)*
-- El presidente ruso Putin mantuvo una llamada con el presidente iraní Pezeshkian, **pidiendo un alto el fuego inmediato** en Oriente Medio — mientras que simultáneamente, funcionarios de EE. UU. informan que Rusia está proporcionando a Irán inteligencia sobre posiciones de buques y aviones estadounidenses. *(TASS)*
-- El Canal 11 de Israel informó de que **Azerbaiyán podría pronto entrar en la guerra del lado de Israel** contra Irán, con los medios israelíes fabricando ya un pretexto formal para un ataque azerbaiyano sobre Irán. *(Times of Israel)*
-- Trump **exigió al complejo militar-industrial de EE. UU. cuadruplicar la producción** de armas y municiones — una sorprendente marcha atrás después de afirmar apenas un día antes que las reservas de EE. UU. eran "prácticamente inagotables". *(Reuters)*
-- Irán **destruyó un sistema de radar clave de EE. UU. valorado en 300 millones de dólares**, utilizado para dirigir operaciones de defensa antimisiles en el Golfo. *(Bloomberg)*
+- El ministro de Exteriores iraní Araghchi declaró públicamente: *"No hemos pedido un alto el fuego y rechazamos cualquier negociación con América."* — Una declaración directa que elimina cualquier salida diplomática. *([AFP](https://www.afp.com/en/news-hub))*
+- El presidente ruso Putin mantuvo una llamada con el presidente iraní Pezeshkian, **pidiendo un alto el fuego inmediato** en Oriente Medio — mientras que simultáneamente, funcionarios de EE. UU. informan que Rusia está proporcionando a Irán inteligencia sobre posiciones de buques y aviones estadounidenses. *([TASS](https://tass.com/))*
+- El Canal 11 de Israel informó de que **Azerbaiyán podría pronto entrar en la guerra del lado de Israel** contra Irán, con los medios israelíes fabricando ya un pretexto formal para un ataque azerbaiyano sobre Irán. *([Times of Israel](https://www.timesofisrael.com/))*
+- Trump **exigió al complejo militar-industrial de EE. UU. cuadruplicar la producción** de armas y municiones — una sorprendente marcha atrás después de afirmar apenas un día antes que las reservas de EE. UU. eran "prácticamente inagotables". *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Irán **destruyó un sistema de radar clave de EE. UU. valorado en 300 millones de dólares**, utilizado para dirigir operaciones de defensa antimisiles en el Golfo. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Cifras clave
 
@@ -57,9 +57,9 @@ Una semana después, ninguna de las partes está cediendo. Irán ha rechazado la
 
 ## Fuentes
 
-- [AFP](https://www.afp.com) — Araghchi ceasefire rejection statement
-- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
-- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan war-entry assessment (Channel 11)
-- [Reuters](https://www.reuters.com) — Trump weapons production demand
-- [Bloomberg](https://www.bloomberg.com) — $300M US radar strike; financial market data
+- [AFP](https://www.afp.com/en/news-hub) — Araghchi ceasefire rejection statement
+- [TASS](https://tass.com/) — Putin–Pezeshkian ceasefire call
+- [Times of Israel](https://www.timesofisrael.com/) — Azerbaijan war-entry assessment (Channel 11)
+- [Reuters](https://www.reuters.com/world/middle-east/) — Trump weapons production demand
+- [Bloomberg](https://www.bloomberg.com/) — $300M US radar strike; financial market data
 - Bible: *Daniel 2:43* (ESV); *Daniel 8:7* (ESV); *Ezekiel 38:4* (ESV) — Prophetic analysis

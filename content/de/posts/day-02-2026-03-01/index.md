@@ -10,17 +10,17 @@ toc: true
 ## Was heute geschah
 
 - Der Iran feuerte seine ersten ballistischen Raketen auf US-Militärstützpunkte in der Region ab. Israels Raketenabwehrsysteme Iron Dome und Arrow fingen die meisten von ihnen ab.
-- CENTCOM bestätigte seine Truppenpräsenz: 50.000 Soldaten, 200 Flugzeuge und zwei Flugzeugträger – die Gerald R. Ford und die Eisenhower – im Einsatzgebiet. *(CENTCOM)*
+- CENTCOM bestätigte seine Truppenpräsenz: 50.000 Soldaten, 200 Flugzeuge und zwei Flugzeugträger – die Gerald R. Ford und die Eisenhower – im Einsatzgebiet. *([CENTCOM](https://www.centcom.mil/))*
 - Die Hisbollah begann, Raketen vom Libanon aus auf Nordisrael abzufeuern und eröffnete damit eine zweite Front.
 - Irans Cyber-Einheiten starteten Angriffe gegen die israelische und US-amerikanische Energie- und Kommunikationsinfrastruktur.
 - Die Straße von Hormus bleibt offen, steht aber nun unter Spannung.
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Das iranische Verteidigungsministerium behauptete am Abend, dass die US-amerikanischen und israelischen Militärverluste deutlich höher seien als öffentlich eingeräumt; Krankenwagen lieferten laufend Tote und Verwundete aus von iranischen Raketen getroffenen Gebieten — insbesondere aus US-Einrichtungen in **Bahrain**. *(IRNA)*
+- Das iranische Verteidigungsministerium behauptete am Abend, dass die US-amerikanischen und israelischen Militärverluste deutlich höher seien als öffentlich eingeräumt; Krankenwagen lieferten laufend Tote und Verwundete aus von iranischen Raketen getroffenen Gebieten — insbesondere aus US-Einrichtungen in **Bahrain**. *([IRNA](https://en.irna.ir/))*
 - Satellitenbilder bestätigten mindestens **20 Direkttreffer** auf dem US-Luftwaffenstützpunkt Ali Al Salem in Kuwait, darunter ein Patriot-Luftabwehrsystem, Hangars und Radaranlagen.
-- Iran erklärte offiziell: *„Die Straße von Hormus ist nicht geschlossen — aber Schiffe mit US- oder Israel-Bezug werden nicht passieren dürfen."* Eine selektive Blockade, keine vollständige Schließung. *(IRNA)*
-- Saudi-Arabien **intensivierte diplomatische Hinterkanal-Gespräche** mit dem Iran, um den Konflikt zu entschärfen — trotz öffentlicher Zurückhaltung Riyadhs. *(Bloomberg)*
+- Iran erklärte offiziell: *„Die Straße von Hormus ist nicht geschlossen — aber Schiffe mit US- oder Israel-Bezug werden nicht passieren dürfen."* Eine selektive Blockade, keine vollständige Schließung. *([IRNA](https://en.irna.ir/))*
+- Saudi-Arabien **intensivierte diplomatische Hinterkanal-Gespräche** mit dem Iran, um den Konflikt zu entschärfen — trotz öffentlicher Zurückhaltung Riyadhs. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Kennzahlen
 
@@ -55,7 +55,7 @@ Der Iran ist von Drohnen zu ballistischen Raketen übergegangen – eine erhebli
 
 ## Quellen
 
-- [CENTCOM](https://www.centcom.mil) — Official US Central Command force posture statement
-- [IRNA](https://en.irna.ir) — Iranian government statements; Hormuz selective blockade announcement
-- [Bloomberg](https://www.bloomberg.com) — Saudi Arabia backchannel diplomacy reporting
+- [CENTCOM](https://www.centcom.mil/) — Official US Central Command force posture statement
+- [IRNA](https://en.irna.ir/) — Iranian government statements; Hormuz selective blockade announcement
+- [Bloomberg](https://www.bloomberg.com/) — Saudi Arabia backchannel diplomacy reporting
 - Bible: *Jeremiah 49* (ESV) — Prophetic note

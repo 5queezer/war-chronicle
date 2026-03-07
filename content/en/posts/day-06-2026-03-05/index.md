@@ -9,7 +9,7 @@ toc: true
 
 ## What happened today
 
-- The US Navy sank an Iranian warship in the Persian Gulf. This is the first major naval engagement of the war and a direct escalation on the sea. *(Pentagon)*
+- The US Navy sank an Iranian warship in the Persian Gulf. This is the first major naval engagement of the war and a direct escalation on the sea. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
 - Iran's government immediately announced retaliation would follow.
 - Trump publicly rejected Khamenei's son as a potential successor to Iran's Supreme Leader — and said the US intends to have a say in who leads Iran next.
 - Israel struck Hezbollah targets in Beirut's southern suburbs again.
@@ -17,11 +17,11 @@ toc: true
 
 ## Intelligence & Field Reports
 
-- The US military reported a cumulative total of **43 Iranian naval vessels sunk** since the start of the conflict — a figure encompassing both warships and smaller fast-attack craft. *(Pentagon)*
+- The US military reported a cumulative total of **43 Iranian naval vessels sunk** since the start of the conflict — a figure encompassing both warships and smaller fast-attack craft. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
 - Satellite imagery showed **severe destruction at US Camp Arifjan** military base in Kuwait following Iranian retaliatory missile strikes — including confirmed damage to hangars and logistics infrastructure.
-- The US State Department **suspended operations at the American Embassy in Kuwait City**, citing ongoing security concerns — one of the first formal diplomatic casualties of the conflict. *(State Department)*
-- Wealthy investors are quietly **withdrawing capital from Dubai**: multiple family offices with average holdings of $50M+ each inquired about relocating to Singapore or Hong Kong within a single week, per Reuters-cited wealth advisors. The Gulf's "safe haven" status is evaporating. *(Reuters)*
-- **Kuwait began cutting oil production** after running out of storage capacity for its 2.6 million barrels/day output — a direct consequence of the Hormuz blockade disrupting Gulf export routes. *(Bloomberg)*
+- The US State Department **suspended operations at the American Embassy in Kuwait City**, citing ongoing security concerns — one of the first formal diplomatic casualties of the conflict. *([State Department](https://www.state.gov/))*
+- Wealthy investors are quietly **withdrawing capital from Dubai**: multiple family offices with average holdings of $50M+ each inquired about relocating to Singapore or Hong Kong within a single week, per Reuters-cited wealth advisors. The Gulf's "safe haven" status is evaporating. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- **Kuwait began cutting oil production** after running out of storage capacity for its 2.6 million barrels/day output — a direct consequence of the Hormuz blockade disrupting Gulf export routes. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Key numbers
 
@@ -58,6 +58,6 @@ The war just went naval. Sinking a warship is a qualitative leap — it signals 
 ## Sources
 
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — Iranian warship sunk; cumulative 43 ships sunk
-- [State Department](https://www.state.gov) — US Embassy Kuwait City suspension
-- [Reuters](https://www.reuters.com) — Capital flight from Dubai; wealth management reporting
-- [Bloomberg](https://www.bloomberg.com) — Kuwait oil production cuts
+- [State Department](https://www.state.gov/) — US Embassy Kuwait City suspension
+- [Reuters](https://www.reuters.com/world/middle-east/) — Capital flight from Dubai; wealth management reporting
+- [Bloomberg](https://www.bloomberg.com/) — Kuwait oil production cuts

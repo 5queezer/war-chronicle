@@ -10,17 +10,17 @@ toc: true
 ## Was heute geschah
 
 - Iran griff US-Militärstützpunkte in Aserbaidschan und Katar an — und weitete den Krieg damit über Israels Grenzen hinaus aus.
-- Sechs US-Soldaten wurden bei diesen Angriffen getötet — die ersten bestätigten amerikanischen Gefallenen in diesem Konflikt. *(Pentagon)*
+- Sechs US-Soldaten wurden bei diesen Angriffen getötet — die ersten bestätigten amerikanischen Gefallenen in diesem Konflikt. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
 - Der Luftraum über der gesamten Golfregion wurde gestört; Verkehrsflüge wurden umgeleitet oder gestrichen.
 - In Teheran brachen Proteste aus — einfache Iraner gingen gegen das Regime auf die Straße, während sich der Krieg verschärft.
 - Irans Teilblockade der Straße von Hormus hat begonnen.
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Ein hochrangiger IRGC-General warnte: *„In wenigen Tagen werden US-Stützpunkte im Nahen Osten keine Möglichkeit mehr haben, sich gegen eingehende iranische Raketen und Drohnen zu verteidigen."* *(IRNA)*
-- Das **Rotana Hotel in Erbil**, Irakisch-Kurdistan, wurde von einer iranischen Drohne getroffen — ein Beleg dafür, dass der Iran bereit ist, auch zivil-nahe Infrastruktur in mehreren Ländern außerhalb der direkten Kampfzone zu treffen. *(Reuters)*
-- Katar meldete die **teilweise Wiederaufnahme des Luftverkehrs**, nachdem die iranischen Angriffe den gesamten Golfluftverkehr unterbrochen hatten. *(Reuters)*
-- Iran schlug zusätzlich Ziele in **Irakisch-Kurdistan und dem Persischen Golf** an — und erweiterte damit sein operatives Gebiet weiter. *(IRNA)*
+- Ein hochrangiger IRGC-General warnte: *„In wenigen Tagen werden US-Stützpunkte im Nahen Osten keine Möglichkeit mehr haben, sich gegen eingehende iranische Raketen und Drohnen zu verteidigen."* *([IRNA](https://en.irna.ir/))*
+- Das **Rotana Hotel in Erbil**, Irakisch-Kurdistan, wurde von einer iranischen Drohne getroffen — ein Beleg dafür, dass der Iran bereit ist, auch zivil-nahe Infrastruktur in mehreren Ländern außerhalb der direkten Kampfzone zu treffen. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Katar meldete die **teilweise Wiederaufnahme des Luftverkehrs**, nachdem die iranischen Angriffe den gesamten Golfluftverkehr unterbrochen hatten. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Iran schlug zusätzlich Ziele in **Irakisch-Kurdistan und dem Persischen Golf** an — und erweiterte damit sein operatives Gebiet weiter. *([IRNA](https://en.irna.ir/))*
 
 ## Kennzahlen
 
@@ -55,6 +55,6 @@ Iran hat sich dafür entschieden, eher in die Breite als in die Tiefe zu gehen �
 ## Quellen
 
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — US military casualty confirmation
-- [IRNA](https://en.irna.ir) — IRGC general's statement; Iranian military operations
-- [Reuters](https://www.reuters.com) — Erbil hotel strike; Qatar airspace resumption
+- [IRNA](https://en.irna.ir/) — IRGC general's statement; Iranian military operations
+- [Reuters](https://www.reuters.com/world/middle-east/) — Erbil hotel strike; Qatar airspace resumption
 - Bible: *Daniel 8* (ESV) — Prophetic note

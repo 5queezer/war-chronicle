@@ -10,25 +10,25 @@ toc: true
 
 ## Was heute geschah
 
-Der Krieg trat am Tag 9 in eine neue Phase ein — nicht am Himmel über Isfahan oder Natanz, sondern auf dem Wasser. Die Straße von Hormuz, die 33 Kilometer breite Meerenge, durch die 21 Prozent des weltweit gehandelten Öls fließt *(IEA)*, wurde zum entscheidenden Schlachtfeld des Tages.
+Der Krieg trat am Tag 9 in eine neue Phase ein — nicht am Himmel über Isfahan oder Natanz, sondern auf dem Wasser. Die Straße von Hormuz, die 33 Kilometer breite Meerenge, durch die 21 Prozent des weltweit gehandelten Öls fließt *([IEA](https://www.iea.org))*, wurde zum entscheidenden Schlachtfeld des Tages.
 
 **Das Hormuz-Manöver**
-- Der iranische Revolutionsgarde-Korps (IRGC) erklärte, die Straße von Hormuz sei *nicht* offiziell geschlossen — jedoch werden Schiffe mit Verbindungen zu den Vereinigten Staaten oder Israel nicht passieren dürfen. *(IRNA)*
+- Der iranische Revolutionsgarde-Korps (IRGC) erklärte, die Straße von Hormuz sei *nicht* offiziell geschlossen — jedoch werden Schiffe mit Verbindungen zu den Vereinigten Staaten oder Israel nicht passieren dürfen. *([IRNA](https://en.irna.ir/))*
 - Dies ist ein rechtliches und strategisches Novum: eine selektive, diskriminierende Blockade auf Basis von Flagge und Eigentümerschaft statt einer totalen Schließung. Internationale Seerechtler bezeichnen dies als beispiellos unter dem UNCLOS-Abkommen.
 - Ein IRGC-Sprecher forderte Präsident Trump direkt heraus: *„Schicken Sie Ihre Marine, um die Tanker zu eskortieren. Wir erwarten Sie."*
 
 **Der Seekriegsaustausch**
-- Das US-Militär bestätigte, seit Kriegsbeginn am 28. Februar insgesamt **43 iranische Kriegsschiffe** versenkt zu haben. *(Pentagon)*
-- Iran schlug zurück und zerstörte ein **300-Millionen-Dollar-Radarsystem** der USA im Golf, das für die Führung maritimer Raketenabwehrsysteme genutzt wurde. *(Bloomberg)*
-- Iran feuerte eine **neue Welle ballistischer Raketen auf Israel** ab, das zweite koordinierte Salvo binnen 24 Stunden. *(IDF Spokesperson Unit)*
+- Das US-Militär bestätigte, seit Kriegsbeginn am 28. Februar insgesamt **43 iranische Kriegsschiffe** versenkt zu haben. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
+- Iran schlug zurück und zerstörte ein **300-Millionen-Dollar-Radarsystem** der USA im Golf, das für die Führung maritimer Raketenabwehrsysteme genutzt wurde. *([Bloomberg](https://www.bloomberg.com/))*
+- Iran feuerte eine **neue Welle ballistischer Raketen auf Israel** ab, das zweite koordinierte Salvo binnen 24 Stunden. *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*
 
 **Der diplomatische Perimeter**
-- Russlands Präsident **Wladimir Putin** telefonierte mit dem iranischen Präsidenten **Peseschkian** und forderte einen sofortigen Waffenstillstand im Nahen Osten. Gleichzeitig kündigte Moskau an, einen Teil seiner LNG-Exporte von Europa auf *„befreundete Länder"* umzuleiten. *(TASS)* / *(Reuters)*
-- US-Geheimdienste bewerteten, dass **China die Lieferung von Finanzhilfe, Ersatzteilen und Raketenkomponenten** an Iran vorbereiten könnte — ein potenzieller Wendepunkt, der Peking direkt in den Konflikt hineinziehen würde. *(Washington Post)*
-- **Saudi-Arabien** intensivierte geheime Rückkanal-Gespräche mit Iran, die auf eine Deeskalation abzielen. *(Bloomberg)*
+- Russlands Präsident **Wladimir Putin** telefonierte mit dem iranischen Präsidenten **Peseschkian** und forderte einen sofortigen Waffenstillstand im Nahen Osten. Gleichzeitig kündigte Moskau an, einen Teil seiner LNG-Exporte von Europa auf *„befreundete Länder"* umzuleiten. *([TASS](https://tass.com/))* / *([Reuters](https://www.reuters.com/world/middle-east/))*
+- US-Geheimdienste bewerteten, dass **China die Lieferung von Finanzhilfe, Ersatzteilen und Raketenkomponenten** an Iran vorbereiten könnte — ein potenzieller Wendepunkt, der Peking direkt in den Konflikt hineinziehen würde. *([Washington Post](https://www.washingtonpost.com/))*
+- **Saudi-Arabien** intensivierte geheime Rückkanal-Gespräche mit Iran, die auf eine Deeskalation abzielen. *([Bloomberg](https://www.bloomberg.com/))*
 - **Katar** meldete die teilweise Wiederaufnahme des Flugverkehrs in seinem Luftraum.
-- Eine **israelische Geheimdiensteinschätzung** warnte, Aserbaidschan könnte nach iranischen Drohnenangriffen einen Angriff auf Iran vorbereiten. *(Times of Israel)*
-- Eine Analyse der unabhängigen deutschsprachigen Presse stellte heute fest: **Europäische Länder unterstützen aktiv** den US-israelischen Krieg gegen Iran — wirtschaftlich, diplomatisch und militärlogistisch. *(Reuters)*
+- Eine **israelische Geheimdiensteinschätzung** warnte, Aserbaidschan könnte nach iranischen Drohnenangriffen einen Angriff auf Iran vorbereiten. *([Times of Israel](https://www.timesofisrael.com/))*
+- Eine Analyse der unabhängigen deutschsprachigen Presse stellte heute fest: **Europäische Länder unterstützen aktiv** den US-israelischen Krieg gegen Iran — wirtschaftlich, diplomatisch und militärlogistisch. *([Reuters](https://www.reuters.com/world/middle-east/))*
 
 ---
 
@@ -44,7 +44,7 @@ Der Krieg trat am Tag 9 in eine neue Phase ein — nicht am Himmel über Isfahan
 
 ## Die Verbindungen herstellen
 
-Die Straße von Hormuz ist kein taktisches Schlachtfeld allein. Sie ist der **wichtigste geografische Engpass des globalen Erdölsystems**. Täglich passieren dort 17 bis 21 Millionen Barrel Öl, dazu 20 Prozent des weltweiten Flüssigerdgashandels. *(IEA)*
+Die Straße von Hormuz ist kein taktisches Schlachtfeld allein. Sie ist der **wichtigste geografische Engpass des globalen Erdölsystems**. Täglich passieren dort 17 bis 21 Millionen Barrel Öl, dazu 20 Prozent des weltweiten Flüssigerdgashandels. *([IEA](https://www.iea.org))*
 
 Irans selektive Blockade muss nicht den gesamten Verkehr stoppen. Sie muss nur die Versicherungsprämien erhöhen, Tankerrouten umleiten und genug rechtliche Unsicherheit erzeugen, um den Brent-Preis über 130 Dollar zu treiben. Das allein verändert die globale Inflation, belastet Zentralbanken und zwingt Regierungen von Tokio bis Berlin zu harten Entscheidungen.
 
@@ -59,7 +59,7 @@ Irans selektive Blockade muss nicht den gesamten Verkehr stoppen. Sie muss nur d
 
 Offenbarung 18 ist das wirtschaftlich spezifischste Kapitel des gesamten Neuen Testaments. Der Autor beschreibt keinen militärischen Kollaps, sondern einen **Handelskollaps** — das plötzliche Versagen der Handelsnetzwerke, die eine imperiale Wirtschaft trugen. Die Schiffe stehen „weit entfernt" und können nicht in den Hafen einlaufen.
 
-Die Straße von Hormuz ist, in der physischen Geografie des Jahres 2026, **der Hafen der babylonischen Kaufleute**. Einundzwanzig Prozent des weltweit gehandelten Öls durchquert diesen 33 Kilometer schmalen Kanal. Die Versicherungszeichner der Lloyd's of London kalkulieren bereits neu. *(Reuters)* Tankerbesitzer beantragen Flaggenwechsel. Die Waren der Erde verlangsamen sich.
+Die Straße von Hormuz ist, in der physischen Geografie des Jahres 2026, **der Hafen der babylonischen Kaufleute**. Einundzwanzig Prozent des weltweit gehandelten Öls durchquert diesen 33 Kilometer schmalen Kanal. Die Versicherungszeichner der Lloyd's of London kalkulieren bereits neu. *([Reuters](https://www.reuters.com/world/middle-east/))* Tankerbesitzer beantragen Flaggenwechsel. Die Waren der Erde verlangsamen sich.
 
 Wir erleben Offenbarung 18 nicht als Metapher. Wir erleben den Mechanismus, den sie beschreibt — die physische Verwundbarkeit der Handelszivilisation — in Echtzeit.
 
@@ -133,15 +133,15 @@ Daniel 11 beschreibt einen Zusammenstoß zwischen einem „König des Südens" u
 
 ## Quellen
 
-- [IEA (International Energy Agency)](https://www.iea.org) — Hormuz Strait oil transit volume data
-- [IRNA](https://en.irna.ir) — IRGC selective blockade announcement
+- [IEA (International Energy Agency)](https://www.iea.org/) — Hormuz Strait oil transit volume data
+- [IRNA](https://en.irna.ir/) — IRGC selective blockade announcement
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — 43 Iranian ships sunk; naval operations
-- [Bloomberg](https://www.bloomberg.com) — $300M US radar destruction; Saudi backchannel diplomacy
-- [IDF Spokesperson Unit](https://www.idf.il/en/) — Israeli missile defense; ballistic missile salvos
-- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
-- [Reuters](https://www.reuters.com) — Russia LNG redirect; Qatar airspace; Lloyd's risk recalculation
-- [Washington Post](https://www.washingtonpost.com) — China military aid to Iran assessment
-- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan military strike assessment
+- [Bloomberg](https://www.bloomberg.com/) — $300M US radar destruction; Saudi backchannel diplomacy
+- [IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/) — Israeli missile defense; ballistic missile salvos
+- [TASS](https://tass.com/) — Putin–Pezeshkian ceasefire call
+- [Reuters](https://www.reuters.com/world/middle-east/) — Russia LNG redirect; Qatar airspace; Lloyd's risk recalculation
+- [Washington Post](https://www.washingtonpost.com/) — China military aid to Iran assessment
+- [Times of Israel](https://www.timesofisrael.com/) — Azerbaijan military strike assessment
 - Bible: *Revelation 18:11–14* (ESV); *Ezekiel 38:2–6* (ESV); *Daniel 11:40* (ESV) — Prophetic analysis
 - *Alois Irlmaier, Prophecies, ~1950* — Maritime trade disruption vision
 - *Hildegard von Bingen, Scivias, Book III, Vision 11, ~1150* — Merchants and blockade vision

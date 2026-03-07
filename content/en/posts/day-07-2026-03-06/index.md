@@ -13,15 +13,15 @@ toc: true
 - US and Israeli strikes hit military academies and infrastructure targets inside Iran.
 - Trump reiterated his intention to personally have a say in who becomes Iran's next Supreme Leader — a direct statement of regime change as a war goal.
 - Russia continues to observe without acting. The Suwalki Gap (Poland–Lithuania corridor, Russia's potential entry point into Europe) remains quiet.
-- Markets reflect a war with no end in sight: Bitcoin ~$71,200 / Brent ~$125 / Gold ~$3,200. *(Bloomberg)*
+- Markets reflect a war with no end in sight: Bitcoin ~$71,200 / Brent ~$125 / Gold ~$3,200. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Intelligence & Field Reports
 
-- Iranian FM Araghchi confirmed publicly: *"We haven't asked for a ceasefire and we reject any negotiations with America."* — A direct statement eliminating any diplomatic off-ramp. *(AFP)*
-- Russian President Putin held a call with Iranian President Pezeshkian, **calling for an immediate ceasefire** in the Middle East — while simultaneously, US officials report Russia is providing Iran with intelligence on American warship and aircraft positions. *(TASS)*
-- Israel's Channel 11 reported that **Azerbaijan may soon enter the war on Israel's side**, with Israeli media fabricating a formal pretext for an Azerbaijani attack on Iran. Iran was specifically warned to prepare for this scenario. *(Times of Israel)*
-- Trump **demanded the US military-industrial complex quadruple weapons and ammunition production** — a striking reversal after claiming just one day earlier that US reserves were "practically endless." *(Reuters)*
-- Iran **destroyed a key $300 million US radar** system used to direct missile defense operations in the Gulf — a significant degradation of America's defensive architecture in the theater. *(Bloomberg)*
+- Iranian FM Araghchi confirmed publicly: *"We haven't asked for a ceasefire and we reject any negotiations with America."* — A direct statement eliminating any diplomatic off-ramp. *([AFP](https://www.afp.com/en/news-hub))*
+- Russian President Putin held a call with Iranian President Pezeshkian, **calling for an immediate ceasefire** in the Middle East — while simultaneously, US officials report Russia is providing Iran with intelligence on American warship and aircraft positions. *([TASS](https://tass.com/))*
+- Israel's Channel 11 reported that **Azerbaijan may soon enter the war on Israel's side**, with Israeli media fabricating a formal pretext for an Azerbaijani attack on Iran. Iran was specifically warned to prepare for this scenario. *([Times of Israel](https://www.timesofisrael.com/))*
+- Trump **demanded the US military-industrial complex quadruple weapons and ammunition production** — a striking reversal after claiming just one day earlier that US reserves were "practically endless." *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Iran **destroyed a key $300 million US radar** system used to direct missile defense operations in the Gulf — a significant degradation of America's defensive architecture in the theater. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Key numbers
 
@@ -101,9 +101,9 @@ The entire prophetic architecture across traditions — Daniel, Ezekiel, Revelat
 
 ## Sources
 
-- [AFP](https://www.afp.com) — Araghchi ceasefire rejection statement
-- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
-- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan war-entry assessment (Channel 11)
-- [Reuters](https://www.reuters.com) — Trump weapons production demand
-- [Bloomberg](https://www.bloomberg.com) — $300M US radar strike; financial market data
+- [AFP](https://www.afp.com/en/news-hub) — Araghchi ceasefire rejection statement
+- [TASS](https://tass.com/) — Putin–Pezeshkian ceasefire call
+- [Times of Israel](https://www.timesofisrael.com/) — Azerbaijan war-entry assessment (Channel 11)
+- [Reuters](https://www.reuters.com/world/middle-east/) — Trump weapons production demand
+- [Bloomberg](https://www.bloomberg.com/) — $300M US radar strike; financial market data
 - Bible: *Daniel 2:43* (ESV); *Daniel 8:7* (ESV); *Ezekiel 38:4* (ESV) — Prophetic analysis

@@ -13,15 +13,15 @@ toc: true
 - US-amerikanische und israelische Angriffe trafen Militärakademien und Infrastrukturziele im Iran.
 - Trump bekräftigte seine Absicht, persönlich mitzureden, wer Irans nächster Oberster Führer wird – eine direkte Erklärung des Regimewechsels als Kriegsziel.
 - Russland beobachtet weiterhin, ohne einzugreifen. Die Suwalki-Lücke (Korridor zwischen Polen und Litauen, Russlands potenzieller Eintrittspunkt nach Europa) bleibt ruhig.
-- Die Märkte spiegeln einen Krieg ohne absehbares Ende wider: Bitcoin ~$71.200 / Brent ~$125 / Gold ~$3.200. *(Bloomberg)*
+- Die Märkte spiegeln einen Krieg ohne absehbares Ende wider: Bitcoin ~$71.200 / Brent ~$125 / Gold ~$3.200. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Der iranische Außenminister Araghchi erklärte öffentlich: *„Wir haben keinen Waffenstillstand beantragt und lehnen jegliche Verhandlungen mit Amerika ab."* — eine direkte Aussage, die jeden diplomatischen Ausweg verschließt. *(AFP)*
-- Russlands Präsident Putin führte ein Telefonat mit dem iranischen Präsidenten Peseschkian und **forderte einen sofortigen Waffenstillstand** im Nahen Osten — während US-Beamte gleichzeitig berichten, dass Russland dem Iran Geheimdienstinformationen über amerikanische Schiffs- und Flugzeugpositionen liefert. *(TASS)*
-- Israels Kanal 11 berichtete, dass **Aserbaidschan möglicherweise bald auf Israels Seite in den Krieg gegen den Iran eintreten** wird — ein Szenario, auf das der Iran ausdrücklich hingewiesen und vorbereitet wurde. *(Times of Israel)*
-- Trump **forderte den US-Militär-Industriekomplex auf, die Waffen- und Munitionsproduktion zu vervierfachen** — eine auffällige Kehrtwende, nachdem er einen Tag zuvor erklärt hatte, die US-Reserven seien „praktisch unendlich". *(Reuters)*
-- Iran **zerstörte ein wichtiges US-Radarsystem im Wert von 300 Millionen Dollar**, das zur Steuerung der Raketenabwehr im Persischen Golf eingesetzt wurde. *(Bloomberg)*
+- Der iranische Außenminister Araghchi erklärte öffentlich: *„Wir haben keinen Waffenstillstand beantragt und lehnen jegliche Verhandlungen mit Amerika ab."* — eine direkte Aussage, die jeden diplomatischen Ausweg verschließt. *([AFP](https://www.afp.com/en/news-hub))*
+- Russlands Präsident Putin führte ein Telefonat mit dem iranischen Präsidenten Peseschkian und **forderte einen sofortigen Waffenstillstand** im Nahen Osten — während US-Beamte gleichzeitig berichten, dass Russland dem Iran Geheimdienstinformationen über amerikanische Schiffs- und Flugzeugpositionen liefert. *([TASS](https://tass.com/))*
+- Israels Kanal 11 berichtete, dass **Aserbaidschan möglicherweise bald auf Israels Seite in den Krieg gegen den Iran eintreten** wird — ein Szenario, auf das der Iran ausdrücklich hingewiesen und vorbereitet wurde. *([Times of Israel](https://www.timesofisrael.com/))*
+- Trump **forderte den US-Militär-Industriekomplex auf, die Waffen- und Munitionsproduktion zu vervierfachen** — eine auffällige Kehrtwende, nachdem er einen Tag zuvor erklärt hatte, die US-Reserven seien „praktisch unendlich". *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Iran **zerstörte ein wichtiges US-Radarsystem im Wert von 300 Millionen Dollar**, das zur Steuerung der Raketenabwehr im Persischen Golf eingesetzt wurde. *([Bloomberg](https://www.bloomberg.com/))*
 
 ## Kennzahlen
 
@@ -57,9 +57,9 @@ Nach einer Woche weicht keine der beiden Seiten zurück. Iran hat Verhandlungen 
 
 ## Quellen
 
-- [AFP](https://www.afp.com) — Araghchi ceasefire rejection statement
-- [TASS](https://tass.com) — Putin–Pezeshkian ceasefire call
-- [Times of Israel](https://www.timesofisrael.com) — Azerbaijan war-entry assessment (Channel 11)
-- [Reuters](https://www.reuters.com) — Trump weapons production demand
-- [Bloomberg](https://www.bloomberg.com) — $300M US radar strike; financial market data
+- [AFP](https://www.afp.com/en/news-hub) — Araghchi ceasefire rejection statement
+- [TASS](https://tass.com/) — Putin–Pezeshkian ceasefire call
+- [Times of Israel](https://www.timesofisrael.com/) — Azerbaijan war-entry assessment (Channel 11)
+- [Reuters](https://www.reuters.com/world/middle-east/) — Trump weapons production demand
+- [Bloomberg](https://www.bloomberg.com/) — $300M US radar strike; financial market data
 - Bible: *Daniel 2:43* (ESV); *Daniel 8:7* (ESV); *Ezekiel 38:4* (ESV) — Prophetic analysis

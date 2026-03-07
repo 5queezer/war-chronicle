@@ -10,11 +10,11 @@ toc: true
 
 ## Qué ha pasado hoy
 
-- La televisión estatal iraní IRIB emitió imágenes de salas de centrifugadoras intactas en Natanz — imágenes que los analistas aseguran tienen al menos seis meses de antigüedad. *(Reuters)*
-- La Unidad de Portavoces de las FDI publicó un vídeo cinematográfico de 90 segundos titulado *"Operación Iron Verdict"*, con banda sonora orquestal y subtítulos en hebreo, transmitido directamente a 4,2 millones de suscriptores de YouTube. *(IDF Spokesperson Unit)*
-- El portavoz del Pentágono leyó una declaración de 340 palabras en el briefing de hoy, respondió once preguntas y confirmó cero detalles operativos. Tres periodistas abandonaron la sala. *(Pentagon Press Briefing)*
+- La televisión estatal iraní IRIB emitió imágenes de salas de centrifugadoras intactas en Natanz — imágenes que los analistas aseguran tienen al menos seis meses de antigüedad. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- La Unidad de Portavoces de las FDI publicó un vídeo cinematográfico de 90 segundos titulado *"Operación Iron Verdict"*, con banda sonora orquestal y subtítulos en hebreo, transmitido directamente a 4,2 millones de suscriptores de YouTube. *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*
+- El portavoz del Pentágono leyó una declaración de 340 palabras en el briefing de hoy, respondió once preguntas y confirmó cero detalles operativos. Tres periodistas abandonaron la sala. *([Pentagon Press Briefing](https://www.defense.gov/News/Transcripts/))*
 - En Telegram, los canales pro-iraníes ganaron 800.000 nuevos suscriptores en 24 horas, principalmente usuarios arabófonos de Irak y Líbano.
-- X/Twitter suspendió 47 cuentas identificadas como redes de influencia vinculadas al Estado iraní. *(Reuters)* Los medios estatales iraníes calificaron las suspensiones de "agresión digital".
+- X/Twitter suspendió 47 cuentas identificadas como redes de influencia vinculadas al Estado iraní. *([Reuters](https://www.reuters.com/world/middle-east/))* Los medios estatales iraníes calificaron las suspensiones de "agresión digital".
 
 ## Las tres narrativas
 
@@ -92,7 +92,7 @@ La guerra de la información del Día 8 no es la causa de lo que sucede después
 
 ## Fuentes
 
-- [IDF Spokesperson Unit](https://www.idf.il/en/) — Operation Iron Verdict video
+- [IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/) — Operation Iron Verdict video
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — Daily press briefing
-- [Reuters](https://www.reuters.com) — IRIB old footage analysis; X/Twitter account suspensions
+- [Reuters](https://www.reuters.com/world/middle-east/) — IRIB old footage analysis; X/Twitter account suspensions
 - Bible: *Jeremiah 8:8* (ESV); *Revelation 16:13* (ESV); *Daniel 11:27* (ESV) — Prophetic analysis

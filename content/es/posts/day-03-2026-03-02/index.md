@@ -10,17 +10,17 @@ toc: true
 ## Qué pasó hoy
 
 - Irán atacó bases militares de EE. UU. en Azerbaiyán y Qatar — expandiendo la guerra más allá de las fronteras de Israel.
-- Seis soldados estadounidenses murieron en estos ataques. Son las primeras muertes confirmadas de estadounidenses en combate en el conflicto. *(Pentagon)*
+- Seis soldados estadounidenses murieron en estos ataques. Son las primeras muertes confirmadas de estadounidenses en combate en el conflicto. *([Pentagon](https://www.defense.gov/News/Transcripts/))*
 - El espacio aéreo en toda la región del Golfo se vio interrumpido; los vuelos comerciales fueron desviados o cancelados.
 - Estallaron protestas en Teherán — iraníes de a pie saliendo a las calles contra el régimen incluso mientras la guerra se intensifica.
 - Ha comenzado el bloqueo parcial de Irán en el Estrecho de Ormuz.
 
 ## Informes de inteligencia y campo
 
-- Un alto general del IRGC advirtió: *"En pocos días, las bases de EE. UU. en Oriente Medio no tendrán forma de defenderse contra los misiles y drones iraníes entrantes."* *(IRNA)*
-- El **Hotel Rotana en Erbil**, en el Kurdistán iraquí, fue alcanzado por un dron iraní — confirmando que Irán está dispuesto a atacar infraestructura adyacente a civiles en múltiples países fuera de la zona de combate directa. *(Reuters)*
-- Qatar anunció la **reanudación parcial del tráfico aéreo**, tras la interrupción del espacio aéreo en todo el Golfo causada por los ataques iraníes. *(Reuters)*
-- Irán también golpeó objetivos adicionales en el **Kurdistán iraquí y el Golfo Pérsico**, ampliando así su teatro operativo. *(IRNA)*
+- Un alto general del IRGC advirtió: *"En pocos días, las bases de EE. UU. en Oriente Medio no tendrán forma de defenderse contra los misiles y drones iraníes entrantes."* *([IRNA](https://en.irna.ir/))*
+- El **Hotel Rotana en Erbil**, en el Kurdistán iraquí, fue alcanzado por un dron iraní — confirmando que Irán está dispuesto a atacar infraestructura adyacente a civiles en múltiples países fuera de la zona de combate directa. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Qatar anunció la **reanudación parcial del tráfico aéreo**, tras la interrupción del espacio aéreo en todo el Golfo causada por los ataques iraníes. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Irán también golpeó objetivos adicionales en el **Kurdistán iraquí y el Golfo Pérsico**, ampliando así su teatro operativo. *([IRNA](https://en.irna.ir/))*
 
 ## Cifras clave
 
@@ -56,6 +56,6 @@ Irán ha optado por ampliar el frente en lugar de profundizarlo — atacando la 
 ## Fuentes
 
 - [Pentagon](https://www.defense.gov/News/Transcripts/) — US military casualty confirmation
-- [IRNA](https://en.irna.ir) — IRGC general's statement; Iranian military operations
-- [Reuters](https://www.reuters.com) — Erbil hotel strike; Qatar airspace resumption
+- [IRNA](https://en.irna.ir/) — IRGC general's statement; Iranian military operations
+- [Reuters](https://www.reuters.com/world/middle-east/) — Erbil hotel strike; Qatar airspace resumption
 - Bible: *Daniel 8* (ESV) — Prophetic note

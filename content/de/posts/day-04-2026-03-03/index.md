@@ -10,15 +10,15 @@ toc: true
 ## Was heute geschah
 
 - Israel startete Luftangriffe auf Hisbollah-Infrastruktur in den südlichen Vororten von Beirut (dem Viertel Dahieh).
-- Die kumulative Zahl der Todesopfer im Iran erreichte mindestens 1.230 *(Reuters)*; die israelischen Verluste belaufen sich auf 11 *(IDF Spokesperson Unit)*; die Golfstaaten meldeten mehr als 9 Tote.
-- Der US-Senat stimmte über eine War Powers Resolution ab, um die Befugnisse des Präsidenten einzuschränken – sie wurde abgelehnt. Der Krieg geht mit voller rechtlicher Unterstützung weiter. *(Reuters)*
-- Öl erreichte mit 120 $ pro Barrel Brent den höchsten Stand seit der Energiekrise von 2022. *(Bloomberg)*
+- Die kumulative Zahl der Todesopfer im Iran erreichte mindestens 1.230 *([Reuters](https://www.reuters.com/world/middle-east/))*; die israelischen Verluste belaufen sich auf 11 *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*; die Golfstaaten meldeten mehr als 9 Tote.
+- Der US-Senat stimmte über eine War Powers Resolution ab, um die Befugnisse des Präsidenten einzuschränken – sie wurde abgelehnt. Der Krieg geht mit voller rechtlicher Unterstützung weiter. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Öl erreichte mit 120 $ pro Barrel Brent den höchsten Stand seit der Energiekrise von 2022. *([Bloomberg](https://www.bloomberg.com/))*
 - Die Straße von Hormus bleibt unter teilweiser Blockade.
 
 ## Geheimdienstberichte & Frontmeldungen
 
-- Satellitenbilder bestätigten ein **großes Feuer in der Fujairah Oil Industry Zone** in den Vereinigten Arabischen Emiraten nach einem iranischen Angriff vom Vortag — der erste bestätigte iranische Angriff auf VAE-Territorium. *(Reuters)*
-- Iran startete eine **neue Welle ballistischer Raketen** gegen Israel und hielt damit sein offensives Tempo trotz wachsender Verluste aufrecht. *(IDF Spokesperson Unit)*
+- Satellitenbilder bestätigten ein **großes Feuer in der Fujairah Oil Industry Zone** in den Vereinigten Arabischen Emiraten nach einem iranischen Angriff vom Vortag — der erste bestätigte iranische Angriff auf VAE-Territorium. *([Reuters](https://www.reuters.com/world/middle-east/))*
+- Iran startete eine **neue Welle ballistischer Raketen** gegen Israel und hielt damit sein offensives Tempo trotz wachsender Verluste aufrecht. *([IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/))*
 - Europäische Nationen bewegen sich von **passiver zu aktiver Unterstützung** der US-israelischen Kampagne: wirtschaftliche, diplomatische und begrenzte militärische Hilfe wird gewährt — trotz offizieller EU-Aufrufe zur Zurückhaltung.
 - Ein US-Stealth-Pilot, der vom israelischen **Luftwaffenstützpunkt Ovda abflog, vergaß seinen Transponder auszuschalten** und wurde über Saudi-Arabien via Flightradar24 geortet — was die Route der US-Angriffe und operative Sicherheit gefährdete.
 
@@ -56,7 +56,7 @@ Der Krieg hat auf den Libanon übergegriffen. Israel hat es gleichzeitig mit dem
 
 ## Quellen
 
-- [Reuters](https://www.reuters.com) — Cumulative Iran death toll; US Senate War Powers vote; Fujairah strike
-- [Bloomberg](https://www.bloomberg.com) — Brent crude oil price data
-- [IDF Spokesperson Unit](https://www.idf.il/en/) — Israeli casualty figures; incoming missile salvos
+- [Reuters](https://www.reuters.com/world/middle-east/) — Cumulative Iran death toll; US Senate War Powers vote; Fujairah strike
+- [Bloomberg](https://www.bloomberg.com/) — Brent crude oil price data
+- [IDF Spokesperson Unit](https://www.idf.il/en/mini-sites/idf-spokesperson-unit/) — Israeli casualty figures; incoming missile salvos
 - Bible: *Isaiah 17* (ESV) — Prophetic note
